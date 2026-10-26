@@ -1,0 +1,411 @@
+project_id,round,stream,state,partner_id,stage,status,dwellings,funding_amount,baseline_practical_completion,forecast_practical_completion,completion_slip_days,worst_variance_days,max_overdue_days,dq_flags,dq_high,days_since_update,commentary
+PRJ-1001,FR01,Standard,VIC,P42,Under construction,Active,30,10254009,2026-07-22,2025-06-27,-390.0,106,70,1,1,50,Financial close is pending while cost increases and valuation are reolved. Site visit scheduled.
+PRJ-1002,FR01,Standard,VIC,P25,Completed,Completed,30,12462562,2026-07-26,,,11,0,0,0,22,Delivery tracking to baseline and contractor engaged. Next update due next month.
+PRJ-1003,FR01,Standard,TAS,P14,Completed,Completed,29,9458032,2026-03-06,,,105,0,0,0,55,Approval pathway is taking longer than planned and revised dates are being confirmed.
+PRJ-1004,FR01,Standard,VIC,P24,Under construction,Active,100,37770917,2026-10-19,2026-12-31,73.0,73,0,0,0,23,Supply chain disruption to fittings and prefabricated components. Next update due next month.
+PRJ-1005,FR01,Standard,VIC,P27,Under construction,Active,66,24594988,2026-06-24,2026-09-30,98.0,102,98,1,0,0,No variance to program. Partner reports steady progress. Partner engaged with the investment manager.
+PRJ-1006,FR01,Standard,QLD,P35,Under construction,Active,68,30100167,2026-07-28,2026-09-02,36.0,36,64,0,0,23,Builder reports trade shortages affecting site progress. Site visit scheduled.
+PRJ-1007,FR01,Standard,WA,P14,Completed,Completed,26,11101376,2026-01-09,,,27,0,0,0,55,Project progressing in line with baseline. No material issues to report. Next update due next month.
+PRJ-1008,FR01,Standard,VIC,P31,Completed,Completed,32,8366445,2026-01-16,,,17,0,0,0,39,Project progressing in line with baseline. No material issues to report.
+PRJ-1009,FR01,Standard,QLD,P05,Completed,Completed,45,19096534,2026-05-22,,,25,0,0,0,55,Delivery tracking to baseline and contractor engaged. Partner engaged with the investment manager.
+PRJ-1010,FR01,Standard,NSW,P31,Completed,Completed,71,24890506,2026-04-15,,,50,0,0,0,12,No variance to program. Partner reports steady progress.
+PRJ-1011,FR01,Standard,NSW,P20,Under construction,Active,58,18843089,2026-09-14,2026-12-15,92.0,186,16,0,0,39,Approval pathway is taking longer than planned and revised dates are being confirmed. Partner resourcing constraints are slowing reporting and contract documentation.
+PRJ-1012,FR01,Standard,NSW,P28,Under construction,Active,107,27935949,2026-12-21,2027-02-13,54.0,66,0,0,0,14,Awaiting final approval from the delegate and the contracting timeline has moved. Freight and fuel cost impacts are delaying key deliveries.
+PRJ-1013,FR01,Standard,VIC,P31,Under construction,Active,101,41198612,2026-12-01,2025-10-21,-406.0,148,0,1,1,39,Financial close is ending while cost increases and valuation are resolved.
+PRJ-1014,FR01,Standard,VIC,P23,Completed,Completed,33,10723572,2026-02-21,,,170,0,0,0,0,Subcontractor capacity constraints are extending the build program. Partner engaged with the investment manager.
+PRJ-1015,FR01,Standard,VIC,P33,Completed,Completed,46,14246264,2025-12-05,,,11,0,0,0,142,Delivery tracking to baseline and contractor engaged. Site visit scheduled.
+PRJ-1016,FR01,Standard,VIC,P43,Completed,Completed,40,15119623,2026-07-15,,,36,0,0,0,15,Works on schedule and next milestone expected as planned. Site visit scheduled.
+PRJ-1017,FR01,Standard,WA,P37,Completed,Completed,48,20582673,2026-04-17,,,108,0,0,0,7,Developmen application assessment is taking longer than expected. Site visit scheduled.
+PRJ-1018,FR01,Standard,NSW,P07,Under construction,Active,51,17921716,2026-09-04,2026-11-13,70.0,134,26,1,0,25,Contract negotiations extended due to outstanding information requests. Partner engaged with the investment manager.
+PRJ-1019,FR01,Standard,WA,P24,Under construction,Active,107,32308688,2026-07-10,,,124,82,1,1,31,contract negotiations extended due to outstanding information requests. partner engaged with the investment manager.
+PRJ-1021,FR01,Standard,NSW,P09,Completed,Completed,46,16827378,2026-05-08,,,118,0,0,0,18,Contract negotiations extended due to outstanding information requests. Partner engaged with the investment manager.
+PRJ-1022,FR01,Standard,ACT,P04,Completed,Completed,43,14246912,2026-06-11,,,78,0,0,0,33,Contract negotiations extended due to outstanding information requests. Site visit scheduled.
+PRJ-1023,FR01,Standard,VIC,P45,Completed,Completed,14,5088473,2026-04-23,,,22,0,0,0,141,Delivery tracking to baseline and contractor engaged. Partner engaged with the investment manager.
+PRJ-1024,FR01,Standard,VIC,P05,Completed,Completed,25,6694318,2026-03-31,,,6,0,0,0,24,Works on schedule and next milestone expected as planned.
+PRJ-1025,FR01,Standard,NSW,P30,Under construction,Active,272,81985307,2027-04-18,2027-07-24,97.0,112,0,0,0,26,Staff turnover at the partner has delayed documentation and financial close.
+PRJ-1026,FR01,Standard,QLD,P42,Completed,Completed,28,8706077,2026-09-05,,,22,0,0,0,1,Project progressing in line with baseline. No material issues to report.
+PRJ-1027,FR01,Standard,TAS,P07,Completed,Completed,56,20394683,2026-03-23,,,99,0,0,0,2,Freight and fuel cost impacts are delaying key deliveries. Partner engaged with the investment manager.
+PRJ-1028,FR01,Standard,QLD,P06,Under construction,Active,46,11615338,2026-06-28,2026-09-09,73.0,135,94,1,0,70,Financial close is pending while cost increases and valuation are resolved. Partner engaged with the investment manager.
+PRJ-1029,FR01,Standard,WA,P05,Completed,Completed,23,6003193,2026-05-22,,,103,0,0,0,0,Builder reports trade shortages affecting site progress.
+PRJ-1030,FR01,Standard,VIC,P14,Under construction,Active,56,24352852,2026-09-29,2026-11-11,43.0,87,1,0,0,2,Approval pathway is taking longer than planned and revised dates are being confirmed.
+PRJ-1031,FR01,Standard,NSW,P03,Under construction,Active,19,5592351,2026-08-27,2026-11-26,91.0,107,34,0,0,30,Construction cost escalation is affecting viability and value engineering is underway. Site visit scheduled.
+PRJ-1032,FR01,Standard,VIC,P21,Under construction,Active,60,26831495,2026-08-22,2026-11-03,73.0,163,39,0,0,30,Development application assessment is taking longer than expected. Builder reports trade shortages affecting site progress. Partner engaged with the investment manager.
+PRJ-1033,FR01,Standard,NSW,P07,Completed,Completed,43,13082797,2026-02-19,,,129,0,0,0,4,Construction cost escalation is affecting viability and value engineering is underway. Partner engaged with the investment manager.
+PRJ-1034,FR01,Standard,WA,P31,Completed,Completed,63,26943637,2026-08-09,,,38,0,0,0,33,Works on schedule and next milestone expected as planned. Next update due next month.
+PRJ-1035,FR01,Standard,NSW,P24,Completed,Completed,43,11899039,2026-02-23,,,153,0,0,0,40,Awaiting final approval from the delegate and the contracting timeline has moved. Limited internal capacity at the delivery partner and support has been requested. Partner engaged with the investment manager.
+PRJ-1036,FR01,Standard,QLD,P37,Completed,Completed,23,10157887,2026-02-05,,,7,0,0,0,21,Works on schedule and next milestone expected as planned.
+PRJ-1037,FR01,Standard,ACT,P10,Under construction,Active,82,30130708,2026-12-05,2027-01-22,48.0,70,0,0,0,7,Freight and fuel cost impacts are delaying key deliveries. Partner engaged with the investment manager.
+PRJ-1038,FR01,Standard,NSW,P09,Completed,Completed,57,23183944,2026-03-13,,,19,0,0,0,11,No variance to program. Partner reports steady progress. Partner engaged with the investment manager.
+PRJ-1039,FR01,Standard,VIC,P15,Completed,Completed,46,18095693,2026-07-08,,,21,0,0,0,118,No variance to program. Partner reports steady progress.
+PRJ-1040,FR01,Standard,NSW,P17,Completed,Completed,25,10549948,2026-08-27,,,32,0,0,0,28,Delivery tracking to baseline and contractor engaged. Next update ue next month.
+PRJ-1041,FR01,Standard,NSW,P13,Completed,Completed,89,29670030,2026-02-15,,,21,0,0,0,13,Works on schedule and next milestone expected as planned.
+PRJ-1042,FR01,Standard,WA,P30,Completed,Completed,20,5414269,2026-01-03,,,21,0,0,0,16,Delivery tracking to baseline and contractor engaged.
+PRJ-1043,FR01,Standard,VIC,P04,Completed,Completed,22,9226161,2026-05-03,,,37,0,0,0,21,No variance to program. Partner reports steady progress.
+PRJ-1044,FR01,Standard,VIC,P04,Completed,Completed,54,14029519,2026-02-27,,,110,0,0,0,80,Skilled labour availability has slowed framing and fit-out works. Site visit scheduled.
+PRJ-1047,FR01,Standard,ACT,P20,Completed,Completed,63,17550572,2026-05-03,,,16,0,0,0,2,Works on schedule and next milestone expected as planned.
+PRJ-1048,FR01,Standard,NSW,P37,Completed,Completed,49,14881406,2026-09-03,,,23,0,0,0,39,Project progressing in line with baseline. No material issues to report. Site isit scheduled.
+PRJ-1049,FR01,Standard,NSW,P26,Completed,Completed,28,10044071,2026-05-07,,,1,0,0,0,2,No variance to program. Partner reports steady progress. Next update due next month.
+PRJ-1050,FR01,Standard,WA,P09,Completed,Completed,33,9813669,2026-04-05,,,85,0,0,0,19,Supply chain disruption to fittings and prefabricated components. Site visit scheduled.
+PRJ-1051,FR01,Standard,QLD,P44,Under construction,Active,150,67481737,2027-03-13,2027-03-19,6.0,6,0,0,0,2,Project progressing in line with baseline. No material issues to report.
+PRJ-1052,FR01,Standard,WA,P39,Completed,Completed,58,15235750,2026-05-29,,,112,0,0,0,15,Subcontractor capacity constraints are extending the build program. Next update due next month.
+PRJ-1053,FR01,Standard,NSW,P06,Completed,Completed,55,20057451,2026-02-13,,,121,0,0,0,2,Builder reports trade shortages affecting site progress. Awaiting final approval from the delegate and the contracting timeline has moved. Next update due next month.
+PRJ-1054,FR01,Standard,NSW,P09,Completed,Completed,14,6252554,2026-03-16,,,16,0,0,0,55,Project progressing in line with baseline. No material issues to report. Next update due next month.
+PRJ-1055,FR01,Standard,VIC,P41,Under construction,Active,143,41042592,2026-11-17,2025-08-20,-454.0,101,0,1,1,34,limited internal capacity at the delivery partner and support has been requested. partner engaged with the investment manager.
+PRJ-1056,FR01,Standard,VIC,P16,Completed,Completed,23,6945106,2025-12-05,,,34,0,0,0,12,No variance to program. Partner reports steady progress.
+PRJ-1057,FR01,Standard,NSW,P03,Under construction,Active,70,18160372,2026-06-15,2026-09-06,83.0,117,107,0,0,16,Delivery tracking to baseline and contractor engaged.
+PRJ-1058,FR01,Standard,SA,P28,Under construction,Active,27,8084262,2026-09-23,2026-12-29,97.0,97,7,0,0,8,Works on schedule and next milestne expected as planned. Next update due next month.
+PRJ-1059,FR01,Standard,NSW,P18,Completed,Completed,27,10833117,2025-11-08,,,15,0,0,0,15,Project progressing in line with baseline. No material issues to report. Next update due next month.
+PRJ-1060,FR01,Standard,QLD,P42,Under construction,Active,59,25707053,2026-07-04,2025-04-08,-452.0,68,88,1,1,6,Construction cost escalation is affecting viability and value enineering is underway.
+PRJ-1061,FR01,Standard,NT,P29,Completed,Completed,21,6063991,2025-08-29,,,73,0,1,0,13,Material delivery delays for steel and timber are affecting the program. Partner engaged with the investment manager.
+PRJ-1062,FR01,Standard,VIC,P29,Completed,Completed,34,13592367,2026-03-27,,,121,0,0,0,10,delivery tracking to baseline and ontractor engaged.
+PRJ-1063,FR01,Standard,NT,P41,Completed,Completed,40,15763670,2025-11-01,,,113,0,0,0,103,Planning conditions are under review with council and start of works is deferred. Next update due next month.
+PRJ-1064,FR01,Standard,VIC,P24,Completed,Completed,77,30626655,2026-05-20,,,17,0,0,0,10,works on schedule and next milestone expected as planned.
+PRJ-1065,FR01,Standard,NSW,P08,Completed,Completed,55,23421983,2026-03-11,,,20,0,0,0,53,Delivery tracking to baseline and contractor engaged. Site visit scheduled.
+PRJ-1066,FR01,Standard,QLD,P41,Completed,Completed,29,12100593,2026-04-22,,,14,0,0,0,4,Delivery tracking to baseline and contractor engaged. Site visit scheduled.
+PRJ-1067,FR01,Standard,WA,P24,Under construction,Active,133,40996314,2026-08-17,2026-10-14,58.0,58,44,0,0,17,Supply chain disruption to fittings and prefabricated components. Tender prices came in above budget and the partner is reviewing the funding gap.
+PRJ-1068,FR01,Standard,NSW,P12,Completed,Completed,8,3273865,2026-02-03,,,136,0,0,0,35,contract negotiations extended due to outstanding information requests. financial close is pending while cost increases and valuation are resolved. partner engaged with the investment manager.
+PRJ-1069,FR01,Standard,QLD,P38,Under construction,Active,104,30857220,2026-10-10,2026-10-19,9.0,9,0,0,0,15,Delivery tracking to baseline and contractor engaged.
+PRJ-1070,FR01,Standard,VIC,P42,Completed,Completed,31,9309506,2026-01-06,,,25,0,0,0,1,Project progressing in line with baseline. No material issues to report. Site visit scheduled.
+PRJ-1071,FR02,Standard,WA,P34,Under construction,Active,42,16178375,2027-07-06,2027-08-08,33.0,33,0,0,0,40,Delivery tracking to baseline and contractor engaged. Partner engaged with the investment manager.
+PRJ-1072,FR02,Standard,QLD,P02,Under construction,Active,110,38208507,2027-07-05,2025-12-06,-576.0,22,0,1,1,20,Works on schedule and next milestone expected as planned. Partner engaged with the investment manager.
+PRJ-1073,FR02,Standard,QLD,P10,Under construction,Active,12,3108697,2026-12-30,2027-02-14,46.0,102,0,0,0,3,Partner resourcing constraints are slowing reorting and contract documentation.
+PRJ-1074,FR02,Standard,VIC,P22,Under construction,Active,64,20828789,2027-03-27,2027-08-09,135.0,209,0,0,0,6,limited internal capacity at the delivery partner and support has been requested.
+PRJ-1075,FR02,Standard,VIC,P05,Under construction,Active,120,43390536,2027-05-13,2027-07-23,71.0,71,0,0,0,38,Skilled labour availability has slowed framing and fit-out works.
+PRJ-1076,FR02,Standard,QLD,P14,Under construction,Active,90,35840392,2027-08-27,2027-09-18,22.0,22,0,0,0,7,Project progressing in line with baseline. No material issues to report.
+PRJ-1077,FR02,Standard,SA,P23,Under construction,Active,55,13993412,2027-02-01,2027-05-02,90.0,90,0,0,0,7,Skilled labour availability has slowed framing and fit-out works.
+PRJ-1078,FR02,Standard,VIC,P28,Under construction,Active,29,9637663,2026-12-13,2027-01-08,26.0,26,0,0,0,5,No variance to program. Partner reports steady progress. Site visit scheduled.
+PRJ-1079,FR02,Standard,QLD,P24,Under construction,Active,13,3539198,2026-11-25,2026-12-03,8.0,8,0,0,0,7,Delivery tracking to baseline and contractor engaged. Next update due next month.
+PRJ-1080,FR02,Standard,SA,P11,Under construction,Active,36,12745414,2027-06-11,2027-09-22,103.0,103,0,0,0,6,Project progressing in line with baseline. No material issues to report. Site visit scheduled.
+PRJ-1081,FR02,Standard,VIC,P36,Under construction,Active,140,37458297,2027-07-09,2027-09-08,61.0,61,0,0,0,6,Skilled labour availability has slowed framing and fit-out works. Site visit scheduled.
+PRJ-1082,FR02,Standard,VIC,P08,Under construction,Active,36,12817230,2027-05-10,2027-06-28,49.0,49,0,0,0,5,Supply chain disruption to fittings and prefabricated components. Awaiting final approval from the delegate and the contracting timeline has moved.
+PRJ-1083,FR02,Standard,VIC,P43,Under construction,Active,53,18645899,2026-09-28,2026-10-17,19.0,21,2,0,0,26,No variance to program. Partner reports steady progress.
+PRJ-1084,FR02,Standard,QLD,P12,Under construction,Active,121,42115483,2027-03-18,2027-04-07,20.0,21,0,0,0,23,Works on schedule and next milestone expected as planned. Next update due next month.
+PRJ-1085,FR02,Standard,NSW,P13,Under construction,Active,79,33860826,2027-01-25,2027-03-30,64.0,108,0,1,0,5,Rezoning and prmit conditions have pushed back site establishment. Partner engaged with the investment manager.
+PRJ-1086,FR02,Standard,NSW,P27,Under construction,Active,46,14679912,2027-03-27,2027-06-23,88.0,135,0,0,0,10,No variance to program. Partner reports steady progress.
+PRJ-1087,FR02,Standard,SA,P18,Under construction,Active,124,46812869,2027-05-28,2027-09-20,115.0,115,0,0,0,5,Staff turnover at te partner has delayed documentation and financial close. Site visit scheduled.
+PRJ-1089,FR02,Standard,VIC,P15,Under construction,Active,68,19346581,2026-12-15,2027-04-30,136.0,136,0,0,0,15,Tender prices came in above budget and the partner is reviewing the funding gap. Next update due next month.
+PRJ-1090,FR02,Standard,VIC,P38,Under construction,Active,91,26582427,2027-01-20,2027-02-06,17.0,18,0,0,0,30,Delivery tracking to baseline and contractor engaged. Partner engaged with the investment manager.
+PRJ-1091,FR02,Standard,NSW,P22,Under construction,Active,127,57113387,2027-01-22,2027-01-29,7.0,7,0,0,0,41,Works on schedule and next milestone expected as planned.
+PRJ-1092,FR02,Standard,NSW,P08,Under construction,Active,82,34024910,2027-05-13,2027-06-08,26.0,26,0,0,0,49,Delivery tracking to baseline and contractor engaged. Next update due next month.
+PRJ-1093,FR02,Standard,SA,P09,Under construction,Active,49,20797944,2026-12-14,2027-03-16,92.0,125,0,0,0,6,Delivery tracking to baseline and contractor engaged. Partner engaged with the investment manager.
+PRJ-1094,FR02,Standard,VIC,P34,Under construction,Active,40,11760932,2027-06-01,2027-09-06,97.0,140,0,0,0,5,Approval pathway is taking longer than planned and revised dates are being confirmed. Next update due next month.
+PRJ-1095,FR02,Standard,VIC,P28,Under construction,Active,97,36355466,2027-04-25,2027-05-07,12.0,12,0,0,0,1,Project progressing in line with baseline. No material issues to report.
+PRJ-1096,FR02,Standard,NSW,P41,Under construction,Active,42,14573732,2027-06-20,2027-07-15,25.0,66,0,0,0,21,Rezoning and permit conditions have pushed back site establishment. Partner engaged with the investment manager.
+PRJ-1097,FR02,Standard,SA,P42,Under construction,Active,45,19668035,2027-04-29,2026-01-26,-458.0,16,0,2,1,8,Delivery tracking to baseline and contractor engaged. Next update due next month.
+PRJ-1098,FR02,Standard,NSW,P14,Under construction,Active,86,37589360,2027-06-23,2027-10-03,102.0,114,0,0,0,30,Development application assessment is taking longer than expected. Partner engaged with the investment manager.
+PRJ-1099,FR02,Standard,NSW,P39,Under construction,Active,64,23705872,2027-04-12,2027-08-07,117.0,117,0,0,0,28,Skilled labour availability has slowed framing and fit-out works. Next update due next month.
+PRJ-1100,FR02,Standard,QLD,P12,Under construction,Active,113,50627368,2027-04-10,2027-06-07,58.0,58,0,0,0,24,Supply chain disruption to fittings and prefabricated components. Next update due next month.
+PRJ-1101,FR02,Standard,QLD,P26,Under construction,Active,66,22279436,2027-02-19,,,43,0,1,1,34,Supply chain disruption to fittings and prefabricated components. Site visit scheduled.
+PRJ-1102,FR02,Standard,TAS,P32,Under construction,Active,38,14246110,2026-08-06,2026-10-21,76.0,97,55,0,0,6,Development application assessment is taking longer than expected. Next update due next month.
+PRJ-1103,FR02,Standard,QLD,P11,Under construction,Active,78,30722131,2027-03-28,2027-04-11,14.0,14,0,0,0,28,project progressing in line with baseline. no material issues to report.
+PRJ-1104,FR02,Standard,QLD,P10,Under construction,Active,90,29821612,2027-05-01,2027-05-11,10.0,10,0,0,0,14,Project progressing in line with baseline. No material issues to report. Partne engaged with the investment manager.
+PRJ-1105,FR02,Standard,VIC,P35,Under construction,Active,54,22655851,2027-05-20,2027-08-22,94.0,94,0,0,0,18,Delivery tracking to baseline and contractor engaged.
+PRJ-1106,FR02,Standard,WA,P40,Under construction,Active,27,10083369,2027-04-20,2027-04-27,7.0,7,0,0,0,9,Delivery tracking to baseline and contractor engaged. Next update due next month.
+PRJ-1107,FR02,Standard,SA,P18,Under construction,Active,191,52262639,2027-09-05,2027-11-18,74.0,100,0,0,0,25,Awaiting final approval from the delegate and the contracting timeline has moved.
+PRJ-1108,FR02,Standard,VIC,P16,Under construction,Active,61,24090249,2027-07-02,2027-07-16,14.0,14,0,0,0,55,Works on schedule and next milestone expected as planned. Next update due next month.
+PRJ-1109,FR02,Standard,VIC,P09,Under construction,Active,126,35210542,2028-01-13,2028-03-27,74.0,120,0,0,0,17,Approval pathway is taking longer than planned and revised dates are being confirmed.
+PRJ-1110,FR02,Standard,WA,P36,Under construction,Active,36,13611338,2027-09-14,2027-09-20,6.0,7,0,0,0,12,No variance to program. Partner reports steady progress. Partner engaged with the investment manager.
+PRJ-1111,FR02,Standard,VIC,P36,Under construction,Active,50,12658323,2027-02-10,2027-04-04,53.0,81,0,0,0,33,Awaiting final approval from the delegate and the contracting timeline has moved. Partner engaged with the investment manager.
+PRJ-1112,FR02,Standard,NSW,P08,Under construction,Active,24,8403078,2026-12-19,2026-12-19,0.0,0,0,0,0,2,Works on schedule and next milestone expected as planned.
+PRJ-1113,FR02,Standard,VIC,P30,Under construction,Active,76,24799561,2027-02-18,2027-03-02,12.0,14,0,0,0,55,Delivery tracking to baseline and contractor engaged.
+PRJ-1114,FR02,Standard,VIC,P41,Under construction,Active,39,15394096,2027-04-10,2027-08-09,121.0,121,0,0,0,7,Construction cost escalation is affecting viability and value engineering is underway.
+PRJ-1115,FR02,Standard,NT,P26,Under construction,Active,42,18662904,2026-11-03,2027-01-28,86.0,86,0,0,0,23,works on schedule and next milestone expected as planned.
+PRJ-1116,FR03,S3 States and Territories,NSW,P19,Approved,Active,32,14157840,2028-01-20,2028-02-20,31.0,31,0,0,0,22,Supply chain disruption to fittings and prefabricated components. Site visit scheduled.
+PRJ-1117,FR03,S3 States and Territories,QLD,P26,Financial close,Active,126,37491763,2028-05-01,2028-05-14,13.0,13,0,0,0,11,Works on schedule and next milestone expected as planned.
+PRJ-1118,FR03,S2 Housing Diversity,NSW,P04,Approved,Active,17,7240725,2027-12-10,2028-01-28,49.0,49,0,0,0,18,Planning conditions are under review with council and start of works is deferred. Limited internal capacity at the delivery partner and support has been requested.
+PRJ-1119,FR03,S2 Housing Diversity,VIC,P11,Approved,Active,36,12630069,2028-06-15,2028-07-18,33.0,33,0,1,0,31,Delivery tracking to baseline and contractor engaged. Site visit scheduled.
+PRJ-1120,FR03,S2 Housing Diversity,WA,P08,Financial close,Active,111,28657401,2027-12-13,2027-12-19,6.0,6,0,0,0,3,No variance to program. Partner reports steady progress. Site visit scheduled.
+PRJ-1121,FR03,S2 Housing Diversity,QLD,P40,Contracted,Active,102,38312225,2027-11-15,2028-01-18,64.0,72,67,0,0,23,Awaiting final approval from the delegate and the contracting timeline has moved. Next update due next month.
+PRJ-1122,FR03,S2 Housing Diversity,VIC,P33,Pipeline,Active,22,6708340,2028-09-08,2028-10-18,40.0,40,0,0,0,48,No variance to program. Partner reports steady progress.
+PRJ-1123,FR03,S3 States and Territories,VIC,P01,Approved,Active,76,19746426,2028-03-13,2028-04-20,38.0,38,0,0,0,5,Freight and fuel cost impacts are delaying key deliveries. Partner engaged with the investment manager.
+PRJ-1124,FR03,S2 Housing Diversity,VIC,P30,Pipeline,Active,22,9275668,2028-12-26,,,0,0,2,2,7,Awaiting final approval from the delegate and the contracting timeline has moved. Site visit scheduled.
+PRJ-1125,FR03,S2 Housing Diversity,NSW,P39,Contracted,Active,58,15623437,2028-02-06,2028-03-28,51.0,51,0,0,0,6,Builder reports trade shortages affecting site progress. Freight and fuel cost impacts are delaying key deliveries. Site visit scheduled.
+PRJ-1126,FR03,S2 Housing Diversity,QLD,P44,Approved,Active,59,20830915,2028-03-07,2028-07-10,125.0,125,15,0,0,55,Financial close is pending while cost increases and valuation are resolved.
+PRJ-1127,FR03,S3 States and Territories,NSW,P28,Approved,Active,20,7059078,2028-01-05,2028-01-25,20.0,20,0,0,0,55,No variance to program. Partner reports steady progress. Site visit scheduled.
+PRJ-1128,FR03,S5 Release 1,NSW,P16,Approved,Active,120,30664385,2028-10-31,2028-11-07,7.0,7,0,0,0,2,Project progressing in line with baseline. No material issues to report. Next update due next month.
+PRJ-1129,FR03,S2 Housing Diversity,NT,P18,Under construction,Active,26,10273848,2027-11-21,2027-12-02,11.0,11,0,1,0,81,No variance to program. Partner reports steady progress.
+PRJ-1130,FR03,S5 Release 1,QLD,P29,Contracted,Active,87,29983271,2027-10-01,2027-12-22,82.0,82,51,0,0,9,Project progressing in line with baseline. No material issues to report. Next update due next month.
+PRJ-1131,FR03,S2 Housing Diversity,WA,P36,Contracted,Active,83,35627095,2028-07-01,2028-07-18,17.0,17,0,0,0,3,Project progressing in line with baseline. No material issues to report. Site visit scheduled.
+PRJ-1132,FR03,S2 Housing Diversity,NSW,P21,Pipeline,Active,19,7317576,2028-08-30,2029-01-29,152.0,152,0,0,0,27,Project progressing in line with baseline. No material issues to report.
+PRJ-1133,FR03,S2 Housing Diversity,VIC,P02,Pipeline,Active,15,6520956,2028-08-12,2028-09-12,31.0,31,0,0,0,17,Works on schedule and next milestone expected as planned. Site visit scheduled.
+PRJ-1134,FR03,S2 Housing Diversity,QLD,P32,Pipeline,Active,72,29734018,2029-01-10,2029-02-11,32.0,32,0,0,0,29,Works on schedule and next milestone expected as planned. Site visit scheduled.
+PRJ-1135,FR03,S1 First Nations,NSW,P17,Pipeline,Active,84,23574053,2028-07-19,2028-10-28,101.0,101,0,0,0,55,skilled labour availability has slowed framing and fit-out works. partner engaged with the investment manager.
+PRJ-1136,FR03,S5 Release 1,QLD,P14,Approved,Active,143,49132249,2028-06-20,2028-09-10,82.0,82,0,0,0,26,Tender prices came in above budget and the partner is reviewing the funding gap. Site visit scheduled.
+PRJ-1137,FR03,S2 Housing Diversity,NSW,P10,Financial close,Active,70,26981546,2027-08-04,2027-10-16,73.0,73,4,0,0,7,Subcontractor capacity constraints are extending the build program. Partner engaged with the investment manager.
+PRJ-1138,FR03,S3 States and Territories,VIC,P29,Contracted,Active,47,12163325,2027-11-23,2027-12-10,17.0,17,0,0,0,13,No variance to program. Partner reports steady progress. Next update due next month.
+PRJ-1139,FR03,S5 Release 1,WA,P41,Approved,Active,61,27283791,2028-06-12,2028-06-25,13.0,13,0,0,0,47,No variance to program. Partner reports steady progress. Site visit scheduled.
+PRJ-1140,FR03,S5 Release 1,VIC,P37,Approved,Active,38,10436313,2027-12-15,2028-03-02,78.0,78,0,0,0,4,Works on schedule and next milestone expected as planned. Site visit scheduled.
+PRJ-1141,FR03,S2 Housing Diversity,NSW,P44,Pipeline,Active,38,14990017,2028-06-17,2028-07-21,34.0,34,0,0,0,47,Subcontractor capacity constraints are extending the build program. Partner engaged with the investment manager.
+PRJ-1142,FR03,S2 Housing Diversity,SA,P34,Contracted,Active,26,7165845,2027-07-26,,,47,46,1,1,3,Staff turnover at the partner has delayed documentation and financial close. Freight and fuel cost impacts are delaying key deliveries.
+PRJ-1143,FR03,S2 Housing Diversity,QLD,P06,Approved,Active,66,28189547,2028-04-05,2028-05-30,55.0,55,0,0,0,35,Tender prices came in above budget and the partner is reviewing the funding gap. Approval pathway is taking longer than planned and revised dates are being confirmed. Partner engaged with the investment manager.
+PRJ-1144,FR03,S5 Release 1,VIC,P07,Pipeline,Active,112,38655066,2029-01-13,2029-01-23,10.0,10,0,0,0,16,No variance to program. Partner reports steady progress. Partner engaged with the investment manager.
+PRJ-1145,FR03,S5 Release 1,NSW,P08,Approved,Active,136,51662901,2028-08-02,2028-08-07,5.0,5,0,0,0,3,Project progressing in line with baseline. No material issues to report. Site visit scheduled.
+PRJ-1146,FR03,S3 States and Territories,WA,P42,Pipeline,Active,21,7155400,2028-07-11,2028-10-25,106.0,106,0,0,0,7,Limited internal capacity at the delivery partner and support has been requested. Partner engaged with the investment manager.
+PRJ-1147,FR03,S2 Housing Diversity,WA,P01,Pipeline,Active,12,5096941,2028-05-02,2028-05-17,15.0,15,0,0,0,11,No variance to program. Partner reports steady progress.
+PRJ-1148,FR03,S4 Partnerships at Scale,QLD,P39,Pipeline,Active,540,208066013,2029-03-31,2029-06-13,74.0,74,2,0,0,1,Skilled labour availability has slowed framing and fit-out works. Partner engaged with the investment manager.
+PRJ-1149,FR03,S2 Housing Diversity,QLD,P08,Pipeline,Active,72,30729057,2029-02-02,2029-05-22,109.0,109,0,0,0,54,Planning conditions are under review with council and start of works is deferred. Site visit scheduled.
+PRJ-1150,FR03,S2 Housing Diversity,VIC,P39,Contracted,Active,72,22409207,2027-12-11,2028-05-04,145.0,145,77,0,0,55,Staff turnover at the partner has deayed documentation and financial close.
+PRJ-1152,FR03,S5 Release 1,NSW,P39,Under construction,Active,65,16322950,2027-10-17,2027-10-27,10.0,11,0,0,0,18,Works on schedule and next milestone expected as planned. Partner engaged with the investment manager.
+PRJ-1153,FR03,S1 First Nations,WA,P08,Approved,Active,55,18746121,2028-09-23,2028-10-06,13.0,13,0,0,0,20,Project progressing in line with baseline. No material issues to report.
+PRJ-1154,FR03,S5 Release 1,NSW,P29,Contracted,Active,98,34770777,2028-01-17,2028-02-24,38.0,38,0,0,0,45,Supply chain disruption to fittings and prefabricated components.
+PRJ-1156,FR03,S2 Housing Diversity,VIC,P21,Pipeline,Active,256,69167275,2029-03-31,2029-05-26,56.0,56,0,0,0,0,works on schedule and next milestone expected as planned. next update due next month.
+PRJ-1157,FR03,S5 Release 1,VIC,P19,Pipeline,Active,25,7358850,2028-05-11,2028-05-25,14.0,14,0,0,0,10,Project progressing in line with baseline. No material issues to report.
+PRJ-1158,FR03,S3 States and Territories,NSW,P01,Pipeline,Active,79,34999986,2028-03-24,2028-04-27,34.0,34,3,0,0,10,Works on schedule and next milestone expected as planned. Partner engaged with the investment manager.
+PRJ-1159,FR03,S3 States and Territories,NSW,P09,Approved,Active,12,3428415,2028-02-07,2028-04-16,69.0,69,0,0,0,42,Builder reports trade shortages affecting site progress.
+PRJ-1160,FR03,S5 Release 1,WA,P26,Pipeline,Active,32,11198842,2028-07-12,2028-07-21,9.0,9,0,0,0,19,Project progressing in line with baseline. No material issues to report.
+PRJ-1161,FR03,S3 States and Territories,QLD,P05,Approved,Active,30,10735143,2027-12-04,2028-02-07,65.0,65,0,0,0,4,Rezoning and permit conditions have pushed back site establishment. Partner engaged with the investment manager.
+PRJ-1162,FR03,S2 Housing Diversity,QLD,P42,Contracted,Active,23,9888537,2027-12-30,2028-02-26,58.0,58,0,0,0,15,Supply chain disruption to fittings and prefabricated components. Site visit scheduled.
+PRJ-1163,FR03,S2 Housing Diversity,TAS,P33,Contracted,Active,78,32193051,2028-01-22,2028-04-13,82.0,29,0,1,1,15,Financial close is pending while cost increases and valuation are resolved.
+PRJ-1164,FR03,S2 Housing Diversity,SA,P34,Approved,Active,153,50932466,2028-07-26,2028-09-21,57.0,57,0,1,0,24,Material delivery delays for steel and timber are affecting the program. Next update due nex month.
+PRJ-1165,FR03,S5 Release 1,WA,P10,Approved,Active,39,13923741,2028-04-25,2028-05-30,35.0,35,0,0,0,20,Builder reports trade shortages affecting site progress. Partner engaged with the investment manager.
+PRJ-1166,FR03,S2 Housing Diversity,VIC,P39,Contracted,Active,44,11641888,2027-11-29,2027-12-10,11.0,11,0,0,0,10,Delivery tracking to baseline and contractor engaged.
+PRJ-1167,FR03,S2 Housing Diversity,NSW,P18,Pipeline,Active,141,36995557,2029-03-25,2029-04-26,32.0,32,0,0,0,31,Works on schedule and next milestone expected as planned. Next update due next month.
+PRJ-1168,FR03,S2 Housing Diversity,WA,P42,Pipeline,Active,46,15152998,2028-06-17,2028-07-23,36.0,36,0,0,0,40,Delivery tracking to baseline and contractor engaged.
+PRJ-1169,FR03,S5 Release 1,NSW,P01,Contracted,Active,73,21924706,2027-11-09,2028-02-22,105.0,105,19,0,0,15,Construction cost escalation is affecting viability and value engineering is underway. Supply chain disruption to fittings and prefabricated components. Site visit scheduled.
+PRJ-1170,FR03,S4 Partnerships at Scale,NSW,P44,Approved,Active,603,187418641,2029-03-31,2029-06-02,63.0,63,0,0,0,23,Tender prices came in above budget and the partner is revewing the funding gap.
+PRJ-1171,FR03,S5 Release 1,QLD,P04,Approved,Active,88,33500052,2028-05-28,2028-07-25,58.0,58,0,0,0,18,Freight and fuel cost impacts are delaying key deliveries. Site visit scheduled.
+PRJ-1172,FR03,S2 Housing Diversity,TAS,P38,Pipeline,Active,73,22034127,2028-11-08,2029-02-27,111.0,111,0,0,0,111,Approval pathway is taking longer than planned and revised dates are being confirmed.
+PRJ-1173,FR03,S2 Housing Diversity,VIC,P45,Approved,Active,38,15677603,2028-06-05,2028-09-28,115.0,115,0,0,0,19,Staff turnover at the partner has delayed documentation and financial close.
+PRJ-1174,FR03,S3 States and Territories,WA,P02,Pipeline,Active,117,38061291,2028-11-29,2029-03-23,114.0,114,0,0,0,14,awaiting final approval from the delegate and the contracting timeline has moved. partner engaged with the investment manager.
+PRJ-1175,FR03,S1 First Nations,WA,P41,Financial close,Active,19,8189848,2027-08-07,2027-08-29,22.0,22,0,0,0,14,project progressing in line with baseline. no material issues to report. next update due next month.
+PRJ-1176,FR03,S3 States and Territories,QLD,P09,Pipeline,Active,64,25881833,2028-08-20,2028-09-07,18.0,18,0,0,0,13,Works on schedule and next milestone expected as planned.
+PRJ-1177,FR03,S5 Release 1,WA,P21,Pipeline,Active,65,28009069,2028-09-13,2028-10-04,21.0,21,0,0,0,21,Delivery tracking to baseline and contractor engaged. Next update due next month.
+PRJ-1178,FR03,S2 Housing Diversity,VIC,P29,Approved,Active,23,9657901,2028-01-02,2028-02-12,41.0,41,0,0,0,1,Partner resourcing constraints are slowing reporting and contract documentation. Rezoning and permit conditions have pushed back site establishment. Next update due next month.
+PRJ-1179,FR03,S2 Housing Diversity,QLD,P30,Pipeline,Active,85,33165058,2028-09-04,2028-09-18,14.0,14,0,0,0,10,Project progressing in line with baseline. No material issues to report. Site visit scheduled.
+PRJ-1180,FR03,S5 Release 1,WA,P02,Financial close,Active,46,18021563,2027-08-28,2027-11-06,70.0,70,8,0,0,55,Planning conditions are under review with council and start of works is deferred. Partner engaged with the investment manager.
+PRJ-1182,FR03,S3 States and Territories,NSW,P01,Pipeline,Active,58,20971776,2028-08-22,2028-11-13,83.0,83,0,0,0,7,Awaiting final approval from the delegate and the contracting timeline has moved. Site visit scheduled.
+PRJ-1183,FR03,S1 First Nations,NSW,P40,Contracted,Active,120,36989612,2027-12-09,2028-06-27,201.0,201,59,0,0,1,Partner resourcing constraints are slowing reporting and contract documentation. Next update due next month.
+PRJ-1184,FR03,S2 Housing Diversity,VIC,P14,Pipeline,Active,25,6921037,2028-06-27,2028-08-11,45.0,45,0,0,0,11,Subcontractor capacity constraints are extending the build program. Partner engaged with the investment manager.
+PRJ-1185,FR03,S3 States and Territories,VIC,P04,Pipeline,Active,59,25444940,2028-09-28,2028-10-11,13.0,13,0,0,0,27,Works on schedule and next milestone expected as planned. Site visit scheduled.
+PRJ-1186,FR03,S1 First Nations,QLD,P19,Contracted,Active,31,13640395,2027-09-14,2027-11-02,49.0,49,15,0,0,5,Rezoning and permit conditions have pushed back site establishment. Next update due next month.
+PRJ-1187,FR03,S5 Release 1,VIC,P27,Under construction,Active,49,17420921,2027-08-31,,,8,0,1,1,37,Works on schedule and next milestone expected as planned. Partner engaged with the investment manager.
+PRJ-1188,FR03,S5 Release 1,NSW,P36,Pipeline,Active,114,49168761,2029-01-09,2029-02-23,45.0,45,0,0,0,55,Delivery tracking to baseline and contractor engaged. Next update due next month.
+PRJ-1189,FR03,S3 States and Territories,QLD,P22,Contracted,Active,203,81030203,2028-10-29,2028-11-19,21.0,21,0,0,0,19,No variance to program. Partner reports steady progress.
+PRJ-1190,FR03,S5 Release 1,QLD,P44,Financial close,Active,39,10910228,2027-08-25,2027-11-11,78.0,78,10,1,0,141,Subcontractor capacity constraints are extending the build program. Rezoning and permit conditions have pushed back site establishment. Partner engaged with the investment manager.
+PRJ-1191,FR03,S2 Housing Diversity,VIC,P31,Approved,Active,32,14242722,2028-01-05,2028-01-21,16.0,2,2,1,1,9,Works on schedule and next milestone expected as planned. Partner engaged with the investment manager.
+PRJ-1192,FR03,S4 Partnerships at Scale,NSW,P14,Approved,Active,559,197367525,2029-03-31,2029-05-12,42.0,42,0,0,0,10,Supply chain disruption to fittings and prefabricated components.
+PRJ-1193,FR03,S2 Housing Diversity,VIC,P28,Pipeline,Active,24,6303776,2028-08-17,2028-09-01,15.0,15,0,0,0,45,No variance to program. Partner reports steady progress. Next update due next month.
+PRJ-1194,FR03,S5 Release 1,NSW,P28,Approved,Active,27,9002558,2028-05-11,2028-08-26,107.0,107,0,0,0,43,Limited internal capacity at the delivery partner and support has been requested. Site visit scheduled.
+PRJ-1195,FR03,S5 Release 1,NSW,P34,Approved,Active,25,9103742,2027-12-24,2028-03-03,70.0,70,0,0,0,55,Delivery tracking to baseline and contractor engaged.
+PRJ-1196,FR03,S5 Release 1,QLD,P10,Pipeline,Active,16,4994071,2028-05-26,2028-06-11,16.0,16,0,0,0,12,Works on schedule and next milestone expected as planned. Partner engaged with the investment manager.
+PRJ-1197,FR03,S1 First Nations,TAS,P38,Financial close,Active,13,4575148,2027-08-03,,,48,52,1,1,0,Development application assessment is taking longer than expected. Next update due next month.
+PRJ-1198,FR03,S3 States and Territories,NSW,P15,Under construction,Active,28,10430527,2027-08-04,2027-09-12,39.0,39,0,0,0,4,Material delivery delays for steel and timber are affecting the program. Site visit scheduled.
+PRJ-1199,FR03,S3 States and Territories,VIC,P18,Pipeline,Active,54,19719268,2028-04-04,2028-04-12,8.0,8,0,0,0,14,No variance to program. Partner reportssteady progress. Next update due next month.
+PRJ-1200,FR03,S4 Partnerships at Scale,QLD,P28,Approved,Active,506,212750736,2029-03-31,2029-05-05,35.0,35,0,1,0,124,Contract negotiations extended due to outstanding information requests. Site visit scheduled.
+PRJ-1201,FR03,S3 States and Territories,NSW,P34,Approved,Active,57,20651548,2028-04-10,2028-05-01,21.0,21,0,0,0,55,Works on schedule and next milestone expected as planned. Partner engaged with the investment manager.
+PRJ-1202,FR03,S5 Release 1,VIC,P40,Contracted,Active,176,58170400,2028-05-16,2028-07-29,74.0,74,0,0,0,13,Limited internal capacity at the delivery partner and support has been requested. Site visit scheduled.
+PRJ-1203,FR03,S2 Housing Diversity,NSW,P31,Contracted,Active,171,47784862,2028-05-20,2028-06-23,34.0,34,0,0,0,11,Works on schedule and next milestone expected as planned.
+PRJ-1204,FR03,S5 Release 1,QLD,P17,Pipeline,Active,31,10117133,2028-09-22,2028-12-30,99.0,99,0,0,0,42,contract negotiations extended due to outstanding information requests. site visit scheduled.
+PRJ-1205,FR03,S3 States and Territories,VIC,P37,Pipeline,Active,121,49324188,2028-09-15,2028-09-26,11.0,11,5,0,0,91,Project progressing in line with baseline. No material isues to report. Next update due next month.
+PRJ-1206,FR03,S3 States and Territories,QLD,P43,Approved,Active,107,36670001,2028-03-08,2028-04-16,39.0,39,0,0,0,0,Tender prices came in above budget and the partner is reviewing the funding gap. Development application assessment is taking longer than expected. Partner engaged with the investment manager.
+PRJ-1207,FR03,S2 Housing Diversity,QLD,P40,Approved,Active,27,10160349,2028-03-02,2028-05-08,67.0,67,8,1,0,74,Supply chain disruption to fittings and prefabricated components.
+PRJ-1208,FR03,S2 Housing Diversity,VIC,P01,Approved,Active,14,3887975,2028-02-13,2028-03-07,23.0,23,0,0,0,14,Works on schedul and next milestone expected as planned.
+PRJ-1209,FR03,S2 Housing Diversity,QLD,P36,Contracted,Active,18,7423992,2027-12-23,2028-02-28,67.0,67,60,1,0,27,Approval pathway is taking longer than planned and revised dates are being confirmed. Site visit scheduled.
+PRJ-1210,FR03,S2 Housing Diversity,NSW,P04,Pipeline,Active,50,17173656,2028-12-03,2029-02-12,71.0,71,0,0,0,34,awaiting final approval from the delegate and the contracting timeline has moved. site visit scheduled.
+PRJ-1211,FR03,S5 Release 1,QLD,P20,Financial close,Active,39,10908508,2027-12-16,2028-03-16,91.0,91,21,0,0,8,Development application assessment is taking longer than expected. Site visit scheduled.
+PRJ-1212,FR03,S5 Release 1,VIC,P38,Approved,Active,169,49184367,2028-07-04,2028-10-19,107.0,107,71,0,0,5,Contract negotiations extended due to outstanding information requests. Builder reports trade shortages affecting site progress. Next update due next month.
+PRJ-1213,FR03,S2 Housing Diversity,VIC,P01,Under construction,Active,100,32467179,2028-03-16,2028-03-25,9.0,9,0,1,0,85,No variance to program. Partner reports steady progress. Partner engaged with the investment manager.
+PRJ-1214,FR03,S2 Housing Diversity,NSW,P03,Pipeline,Active,38,16345238,2028-08-12,2028-08-30,18.0,18,0,0,0,16,Delivery tracking to baseline and contractor engaged. Partner engaged with the investment manager.
+PRJ-1215,FR03,S5 Release 1,QLD,P25,Contracted,Active,24,10673848,2028-01-06,2028-01-13,7.0,7,0,0,0,2,No variance to program. Partner reports steady progress. Site visit scheduled.
+PRJ-1216,FR03,S2 Housing Diversity,SA,P42,Pipeline,Active,197,53495852,2029-03-31,2029-04-07,7.0,7,0,0,0,26,No variance to program. Partner reports steady progress.
+PRJ-1217,FR03,S3 States and Territories,WA,P19,Pipeline,Active,84,26934714,2028-08-24,2028-10-04,41.0,41,0,0,0,12,Rezoning and permit conditions have pushedback site establishment.
+PRJ-1218,FR03,S2 Housing Diversity,QLD,P38,Pipeline,Active,49,15293097,2028-06-29,2028-09-30,93.0,93,0,0,0,53,Financial close is pending while cost increases and valuation are resolved.
+PRJ-1219,FR03,S3 States and Territories,NSW,P06,Financial close,Active,30,10292138,2027-10-26,2027-12-01,36.0,79,48,0,0,22,Awaiting final approval from the delegate and the contracting timline has moved. Development application assessment is taking longer than expected. Next update due next month.
+PRJ-1220,FR03,S2 Housing Diversity,QLD,P04,Approved,Active,28,10233427,2027-10-12,2028-01-14,94.0,94,42,0,0,0,Contract negotiations extended due to outstanding information requests. Site visit scheduled.
+PRJ-1221,FR03,S2 Housing Diversity,NSW,P31,Approved,Active,74,29301320,2028-07-07,2028-08-07,31.0,31,0,0,0,14,Project progressing in line with baseline. No material issues to report. Next update due next month.
+PRJ-1222,FR03,S2 Housing Diversity,WA,P22,Pipeline,Active,35,10311097,2028-11-01,2028-12-25,54.0,54,3,0,0,38,Subcontractor capacity constraints are extending the build program. Site visit scheduled.
+PRJ-1224,FR03,S2 Housing Diversity,NSW,P17,Approved,Active,22,6705330,2028-04-30,2028-06-15,46.0,46,0,0,0,11,No variance to program. Partner reports steady progress. Next update due next month.
+PRJ-1225,FR03,S2 Housing Diversity,SA,P10,Pipeline,Active,80,24132319,2028-07-11,2028-08-07,27.0,27,0,0,0,8,Project progressing in line with baseline. No material issues to report. Next update due next month.
+PRJ-1226,FR03,S3 States and Territories,WA,P10,Contracted,Active,96,26197913,2028-03-29,2028-06-19,82.0,82,28,0,0,3,Construction cost escalation is affecting viability and value engineering is underway. Next update due next month.
+PRJ-1227,FR03,S2 Housing Diversity,WA,P01,Contracted,Active,17,7368134,2027-12-21,2028-01-11,21.0,21,0,0,0,25,Works on schedule and next milestone expected as planned. Partner engaged with the investment manager.
+PRJ-1228,FR03,S2 Housing Diversity,VIC,P03,Financial close,Active,32,14081882,2027-07-25,2027-08-09,15.0,15,2,0,0,17,Delivery tracking to baseline and contractor egaged.
+PRJ-1229,FR03,S2 Housing Diversity,VIC,P33,Approved,Active,156,45799447,2028-08-23,2028-09-27,35.0,35,0,0,0,1,Skilled labour availability has slowed framing and fit-out works. Partner engaged with the investment manager.
+PRJ-1230,FR03,S2 Housing Diversity,NSW,P22,Pipeline,Active,28,12511383,2028-07-27,2028-10-19,84.0,84,0,0,0,34,Staff turnover at the partner has delayed documentation ad financial close. Site visit scheduled.
+PRJ-1231,FR03,S3 States and Territories,QLD,P23,Pipeline,Active,244,65225211,2029-03-31,2029-07-28,119.0,119,0,1,0,107,Limited internal capacity at the delivery partner and support has been requested.
+PRJ-1232,FR03,S3 States and Territories,QLD,P22,Pipeline,Active,201,77621261,2029-03-31,2029-04-29,29.0,29,0,0,0,44,Project progressing in line with baseline. No material issues to report. Site visit scheduled.
+PRJ-1233,FR03,S2 Housing Diversity,QLD,P10,Approved,Active,63,21322008,2028-05-02,2028-05-30,28.0,28,0,0,0,23,Project progressing in line with baseline. No material issues to report.
+PRJ-1234,FR03,S2 Housing Diversity,SA,P41,Pipeline,Active,80,24317250,2028-09-17,2028-09-22,5.0,5,0,0,0,4,works on schedule and next milestone expected as planned.
+PRJ-1235,FR03,S2 Housing Diversity,SA,P42,Pipeline,Active,55,14986903,2029-01-02,2029-03-26,83.0,83,0,0,0,24,Contract negotiations extended due to outstanding information requests. Next update due next month.
+PRJ-1236,FR03,S1 First Nations,WA,P37,Approved,Active,29,8193167,2028-02-09,2028-04-01,52.0,52,0,0,0,27,No variance to program. Partner reports steady progress. Site visit scheduled.
+PRJ-1237,FR03,S5 Release 1,VIC,P43,Approved,Active,47,12711506,2028-06-06,2028-06-17,11.0,11,0,0,0,16,No variance to program. Partner reports steady progress. Next update due next month.
+PRJ-1238,FR03,S3 States and Territories,VIC,P19,Approved,Active,29,11270195,2028-01-04,2028-03-01,57.0,57,0,0,0,10,Material delivery delays for steel and timber are affecting the program. Awaiting final approval from the delegate and the contracting timeline has moved. Partner engaged with the investment manager.
+PRJ-1239,FR03,S3 States and Territories,QLD,P38,Pipeline,Active,86,26523284,2029-01-26,2029-02-12,17.0,17,0,0,0,38,Freight and fuel cost impacts are delaying key deliveries.
+PRJ-1240,FR03,S5 Release 1,SA,P42,Approved,Active,153,45633855,2029-01-19,2029-03-07,47.0,47,0,0,0,3,Development application assessment is taking longer than expected. Site visit scheduled.
+PRJ-1241,FR03,S5 Release 1,QLD,P09,Pipeline,Active,50,15291319,2028-05-25,2028-07-03,39.0,39,0,0,0,0,Works on schedule and next milestone expected as planned. Next update due next month.
+PRJ-1242,FR03,S2 Housing Diversity,ACT,P28,Pipeline,Active,136,34492804,2029-03-03,2029-05-08,66.0,66,0,0,0,32,Subcontractor capacity constraints are extending the build program. Next update due next month.
+PRJ-1243,FR03,S2 Housing Diversity,NSW,P04,Contracted,Active,45,11606236,2028-01-30,2028-05-15,106.0,106,0,1,0,119,Development application assessment is taking longer than expected. Partner engaged with the investment manager.
+PRJ-1244,FR03,S2 Housing Diversity,VIC,P13,Pipeline,Active,17,5550379,2028-07-25,2028-10-21,88.0,88,0,0,0,67,Tender prices came in above budget and the partner is reviewing the funding gap.
+PRJ-1245,FR03,S2 Housing Diversity,NSW,P44,Approved,Active,126,52873897,2028-12-16,2029-02-16,62.0,62,0,0,0,55,Contract negotiations extended due to outstanding information requests. Next update due next month.
+PRJ-1246,FR03,S2 Housing Diversity,NSW,P11,Financial close,Active,43,11354501,2028-01-20,2028-03-02,42.0,42,17,0,0,36,Works on schedule and next milestone expected as planned.
+PRJ-1247,FR03,S2 Housing Diversity,NSW,P34,Pipeline,Active,23,9755121,2028-07-17,2028-10-03,78.0,78,0,0,0,0,builder reports trade shortages affecting site progress. next update due next month.
+PRJ-1248,FR03,S2 Housing Diversity,NSW,P11,Pipeline,Active,18,5517761,2028-08-04,2028-10-24,81.0,81,0,0,0,44,Builder reports trade shortages affecting site progress. Next update due next month.
+PRJ-1249,FR03,S2 Housing Diversity,QLD,P03,Contracted,Active,44,13739535,2027-12-09,2028-02-23,76.0,76,42,0,0,18,Financial close is pending while cost increases and valuation are resolved. Partner engaged with the investment manager.
+PRJ-1250,FR03,S2 Housing Diversity,VIC,P09,Pipeline,Active,30,7859064,2028-05-10,2028-05-21,11.0,11,0,0,0,14,Works on schedule and next milestone expected as planned.
+PRJ-1251,FR03,S5 Release 1,QLD,P37,Pipeline,Active,122,40827151,2029-01-08,2029-02-24,47.0,47,0,0,0,3,No variance to program. Partner reports steady progress. Partner engaged with the investment manager.
+PRJ-1252,FR03,S5 Release 1,QLD,P44,Contracted,Active,42,17997834,2028-02-01,2028-02-28,27.0,27,0,0,0,16,Delivery tracking to baseline and contractor engaged. Next update due next month.
+PRJ-1253,FR03,S5 Release 1,QLD,P30,Contracted,Active,43,15464451,2027-11-26,2028-03-18,113.0,113,55,0,0,18,Delivery tracking to baseline and contractor engaged.
+PRJ-1254,FR03,S2 Housing Diversity,NSW,P30,Contracted,Active,38,15099730,2027-11-13,2028-03-09,117.0,117,0,0,0,6,Tender prices came in above budget and the partner is reviewing the funding gap. Next update due next month.
+PRJ-1255,FR03,S5 Release 1,NT,P20,Contracted,Active,33,10236005,2028-03-30,2028-04-12,13.0,13,0,0,0,8,No variance to program. Partner reports steady progress. Next update du next month.
+PRJ-1256,FR03,S5 Release 1,NSW,P45,Approved,Active,8,3405784,2027-12-15,2028-02-29,76.0,76,0,0,0,46,Development application assessment is taking longer than expected. Next update due next month.
+PRJ-1257,FR03,S1 First Nations,QLD,P16,Approved,Active,27,7337167,2028-02-16,2028-05-19,93.0,93,0,0,0,4,Rezoning and permit conditions have pushed back site establishment. Partner engaged with the nvestment manager.
+PRJ-1258,FR03,S2 Housing Diversity,QLD,P33,Approved,Active,35,12129129,2028-08-13,2028-09-29,47.0,47,0,0,0,52,No variance to program. Partner repors steady progress. Site visit scheduled.
+PRJ-1259,FR03,S5 Release 1,NSW,P32,Pipeline,Active,27,10176825,2028-04-19,2028-04-28,9.0,9,0,0,0,20,No variance to program. Partner reports steady progress.
+PRJ-1260,FR03,S1 First Nations,QLD,P02,Financial close,Active,41,12349902,2027-09-17,2027-10-03,16.0,17,1,0,0,2,Project progressing in line with baseline. No material issues to report. Next update due next month.
+PRJ-1261,FR03,S2 Housing Diversity,WA,P29,Approved,Active,53,15567663,2028-04-14,2028-05-17,33.0,33,0,0,0,55,Planning conditions are under review with council and start of works is deferred. Next update due next month.
+PRJ-1262,FR03,S5 Release 1,QLD,P10,Pipeline,Active,14,4032365,2028-11-13,2029-01-02,50.0,50,0,0,0,14,Staff turnover at the partner has delayed documentation and financial close. Site visit scheduled.
+PRJ-1263,FR03,S2 Housing Diversity,VIC,P09,Pipeline,Active,229,89534563,2029-03-31,2029-05-24,54.0,54,0,0,0,16,Construction cost escalation is affecting viability and value engineering is underway. Rezoning and permit conditions have pushed back site establishment.
+PRJ-1264,FR03,S2 Housing Diversity,SA,P23,Contracted,Active,25,7095512,2027-10-14,2027-10-30,16.0,16,0,0,0,17,Delivery tracking to baseline and contractor engaged. Next update due next month.
+PRJ-1265,FR03,S3 States and Territories,QLD,P07,Pipeline,Active,70,19550664,2028-10-18,2029-01-23,97.0,97,0,0,0,0,Awaiting final approval from the delegate and the contracting timeline has moved.
+PRJ-1266,FR03,S2 Housing Diversity,NSW,P18,Approved,Active,70,28819877,2028-04-07,2028-04-18,11.0,11,0,0,0,1,delivery tracking to baseline and contractor engaged. site visit scheduled.
+PRJ-1267,FR03,S1 First Nations,WA,P03,Approved,Active,64,23090664,2028-02-29,2028-03-18,18.0,18,8,0,0,13,Delivery tracking to baseline and contractor engaged.
+PRJ-1268,FR03,S1 First Nations,VIC,P16,Pipeline,Active,27,9307410,2028-05-16,2028-06-07,22.0,22,0,0,0,41,No variance to program. Partner reports steady progress. Next update due next month.
+PRJ-1269,FR03,S2 Housing Diversity,VIC,P25,Pipeline,Active,30,11554782,2028-08-09,2028-10-08,60.0,60,0,0,0,68,Builder reports trad shortages affecting site progress.
+PRJ-1270,FR03,S4 Partnerships at Scale,NSW,P20,Approved,Active,578,195243611,2029-03-31,2029-08-25,147.0,147,0,0,0,33,Construction cost escalation is affecting viability and value engineering is underway.
+PRJ-1271,FR03,S5 Release 1,NSW,P35,Financial close,Active,8,2399459,2028-01-24,2028-05-05,102.0,45,10,1,1,52,Planning conditions are under review with council and start of works is deferred. Builder reports trade shortages affecting site progress. Site visit scheduled.
+PRJ-1272,FR03,S5 Release 1,VIC,P04,Under construction,Active,55,22102944,2027-10-15,2027-11-05,21.0,24,0,1,0,118,Delivery tracking to baseline and contractor engaged.
+PRJ-1273,FR03,S2 Housing Diversity,NSW,P13,Under construction,Active,57,16884974,2027-08-15,,,9,0,1,1,2,No variance to program. Partner reports steady progress. Partner engaged with the investment manager.
+PRJ-1274,FR03,S4 Partnerships at Scale,WA,P36,Pipeline,Active,556,170627588,2029-03-31,2029-05-20,50.0,50,0,0,0,10,Approval pathway is taking longer than planned and revised dates are being confirmed. Site visit scheduled.
+PRJ-1275,FR03,S2 Housing Diversity,SA,P28,Approved,Active,110,42968902,2028-07-30,2028-08-26,27.0,27,0,0,0,12,Works on schedule and next milestone expected as planned. Site visit scheduled.
+PRJ-1276,FR03,S2 Housing Diversity,QLD,P23,Under construction,Active,71,25713177,2027-12-31,2028-01-10,10.0,10,0,0,0,55,Project progressingin line with baseline. No material issues to report. Next update due next month.
+PRJ-1277,FR03,S2 Housing Diversity,QLD,P23,Approved,Active,25,10363862,2027-10-11,2027-11-22,42.0,42,26,0,0,55,Works on schedule and next milestone expected as planned. Site visit scheduled.
+PRJ-1278,FR03,S2 Housing Diversity,SA,P16,Pipeline,Active,59,26164288,2028-06-26,2028-08-22,57.0,57,0,0,0,6,Planning conditions are under review with council and start of works is deferred.
+PRJ-1279,FR03,S5 Release 1,NSW,P34,Pipeline,Active,119,41673114,2029-03-31,2029-06-16,77.0,77,0,0,0,92,Limited internal capacity at the delivery partner and support has been requested. Site visit scheduled.
+PRJ-1280,FR03,S1 First Nations,VIC,P22,Approved,Active,40,14598828,2028-07-02,2028-07-16,14.0,14,0,0,0,18,Delivery tracking to baseline and contractor engaged.
+PRJ-1281,FR03,S2 Housing Diversity,VIC,P35,Approved,Active,54,21928670,2028-03-25,2028-04-29,35.0,35,0,1,0,110,Planning conditions are under review with council and start of works is deferred. Site visit scheduled.
+PRJ-1282,FR03,S5 Release 1,NSW,P26,Approved,Active,183,63772236,2028-11-25,2029-02-28,95.0,95,0,0,0,24,Financial close is pending while cost increases and valuation are resolved. Site visit scheduled.
+PRJ-1284,FR03,S1 First Nations,QLD,P27,Approved,Active,66,29684600,2028-03-08,2028-03-27,19.0,19,0,1,0,148,Project progressing in line with baseline. No material issues to report. Site visit scheduled.
+PRJ-1285,FR03,S2 Housing Diversity,NSW,P32,Approved,Active,69,26437482,2028-07-31,2028-08-25,25.0,25,0,0,0,7,Works on schedule and next milestone expected as planned.
+PRJ-1286,FR03,S3 States and Territories,QLD,P16,Approved,Active,45,17058291,2028-09-28,2028-12-18,81.0,81,0,0,0,16,Awaiting final approval from the delegate and the contracting timeline has moved. Next update due next month.
+PRJ-1287,FR03,S2 Housing Diversity,QLD,P04,Pipeline,Active,66,17412975,2028-06-28,2028-07-12,14.0,14,0,0,0,26,No variance to program. Partner reports steady progress.
+PRJ-1288,FR03,S3 States and Territories,WA,P06,Approved,Active,68,18667543,2028-06-28,2028-09-12,76.0,76,0,1,0,76,Limited internal capacity at the delivery partner and support has been requested. Next update due next month.
+PRJ-1289,FR03,S2 Housing Diversity,NSW,P43,Approved,Active,42,11799938,2028-08-03,,,6,0,1,1,10,Financial close is pending while cost increases and valuation are resolved. Next update due next month.
+PRJ-1290,FR03,S1 First Nations,QLD,P12,Pipeline,Active,64,23240872,2029-01-06,2029-03-18,71.0,71,0,0,0,2,Construction cost escalation is affecting viability and value engineering is underway.
+PRJ-1291,FR03,S2 Housing Diversity,QLD,P28,Pipeline,Active,57,24631237,2028-07-10,2028-08-24,45.0,45,0,0,0,47,Works on schedule and next milestone expected as planned. Next update due next month.
+PRJ-1292,FR03,S5 Release 1,NSW,P10,Pipeline,Active,35,9207747,2028-08-17,2028-10-10,54.0,54,0,0,0,35,Subcontractor capacity constraints are extending the build program. Material delivery delays for steel and timber are affecting the program.
+PRJ-1293,FR03,S2 Housing Diversity,NSW,P44,Pipeline,Active,40,16493841,2028-10-13,2028-12-28,76.0,76,0,0,0,21,Builder reports trade shortages affecting site progress. Freight and fuel cost impacts are delaying key deliveries.
+PRJ-1294,FR03,S2 Housing Diversity,QLD,P13,Pipeline,Active,43,13421016,2028-11-10,2029-02-10,92.0,92,6,0,0,15,Builder reports trade shortages affecting site progress. Staff turnover at the partner has delayed documentation and financial close. Partner engaged with the investment manager.
+PRJ-1295,FR03,S3 States and Territories,WA,P05,Approved,Active,76,24833319,2028-06-15,2028-07-07,22.0,22,0,0,0,10,Works on schedule and next milestone expected as planned.
+PRJ-1296,FR03,S2 Housing Diversity,SA,P31,Pipeline,Active,16,7053828,2028-10-14,2028-11-09,26.0,26,0,0,0,33,Rezoning and permit conditions have pushed back ite establishment.
+PRJ-1297,FR03,S5 Release 1,VIC,P32,Financial close,Active,71,19923255,2027-11-28,2028-02-23,87.0,87,58,0,0,27,Construction cost escalation is affecting viability and value engineering is underway.
+PRJ-1298,FR03,S3 States and Territories,VIC,P09,Contracted,Active,78,21820488,2028-05-21,2028-07-21,61.0,61,0,0,0,0,Subcontractor capacity constraints are extending the build program.
+PRJ-1299,FR03,S5 Release 1,NSW,P24,Financial close,Active,85,27703006,2028-03-06,2028-04-11,36.0,36,0,0,0,51,Delivery tracking to baseline and contractor engaged. Site visit scheduled.
+PRJ-1300,FR03,S5 Release 1,WA,P02,Pipeline,Active,67,18982137,2028-03-29,2028-07-03,96.0,96,0,0,0,8,Construction cost escalation is affecting viability and value engineering is underway.
+PRJ-1301,FR03,S2 Housing Diversity,WA,P05,Approved,Active,30,8104174,2028-02-01,2028-04-09,68.0,68,0,0,0,12,limited internal capacity at the delivery partner and support has been requested.
+PRJ-1302,FR03,S4 Partnerships at Scale,NSW,P19,Pipeline,Active,603,195452856,2029-03-31,2029-06-28,89.0,89,0,0,0,13,Builder reports trade shortages affecting site progress.
+PRJ-1303,FR03,S2 Housing Diversity,VIC,P29,Pipeline,Active,57,25017731,2028-06-22,2028-10-17,117.0,117,0,0,0,16,Staff turnover at the partner has delayed documentation and financial close. Next update due next month.
+PRJ-1304,FR03,S3 States and Territories,NSW,P01,Financial close,Active,57,15066231,2027-07-21,2027-08-16,26.0,26,6,0,0,20,Project progressing in line with baseline. No material issues to report.
+PRJ-1305,FR03,S2 Housing Diversity,WA,P20,Contracted,Active,28,9672313,2028-01-27,2028-04-29,93.0,93,0,0,0,55,Subcontractor capacity constraints are extending the build program.
+PRJ-1306,FR03,S2 Housing Diversity,QLD,P03,Contracted,Active,75,18976473,2028-01-23,2028-04-22,90.0,90,13,0,0,5,Limited internal capacity at the delivery partner and support has been requested. Site visit scheduled.
+PRJ-1307,FR03,S2 Housing Diversity,VIC,P33,Pipeline,Active,23,6720250,2028-07-09,2028-07-23,14.0,14,0,0,0,50,Works on schedule and next milestone expected as planned. Partner engaged with the investment manager.
+PRJ-1308,FR03,S2 Housing Diversity,NT,P13,Approved,Active,77,33453100,2028-09-15,2028-10-09,24.0,24,0,0,0,29,Delivery tracking to baseline and contractor engaged. Site visit scheduled.
+PRJ-1309,FR03,S3 States and Territories,ACT,P39,Pipeline,Active,11,4160669,2028-06-06,2028-07-29,53.0,53,0,0,0,55,Partner resourcing constraints are slowing reporting and contract documentation.
+PRJ-1310,FR03,S5 Release 1,NSW,P45,Pipeline,Active,24,9120974,2028-11-11,2029-02-17,98.0,98,0,0,0,22,Partner resourcing constraints are slowing reporting and contract documentation. Next update due next month.
+PRJ-1311,FR03,S5 Release 1,NSW,P07,Pipeline,Active,13,5441742,2028-07-24,,,0,0,1,1,120,project progressing in line with baseline. no material issues to report. partner engaged with the investment manager.
+PRJ-1312,FR03,S2 Housing Diversity,WA,P09,Contracted,Active,45,17250777,2028-03-28,2028-06-04,68.0,68,0,0,0,7,planning conditions are under review with council and start of works is deferred.
+PRJ-1313,FR03,S1 First Nations,VIC,P22,Approved,Active,89,27760910,2028-06-28,2028-09-27,91.0,91,2,0,0,3,Project progressing in line with baseline. No material issues to report. Site visit scheduled.
+PRJ-1314,FR03,S2 Housing Diversity,VIC,P27,Pipeline,Active,134,37465813,2029-01-23,2029-06-06,134.0,134,0,0,0,24,Staff turnover at the partner has delayed documentation and financial close.
+PRJ-1315,FR03,S2 Housing Diversity,QLD,P18,Approved,Active,420,138587968,2029-03-31,2029-05-03,33.0,33,0,0,0,1,Planning conditions are under review with council and start of works is deferred.
+PRJ-1316,FR03,S3 States and Territories,VIC,P12,Pipeline,Active,61,23120385,2028-04-30,2028-05-25,25.0,25,0,0,0,20,works on schedule and next milestone expected as planned.
+PRJ-1317,FR03,S5 Release 1,VIC,P05,Approved,Active,71,27088726,2028-04-16,2028-06-27,72.0,72,0,0,0,9,Development application assessment is taking longer than expected.
+PRJ-1318,FR03,S5 Release 1,TAS,P35,Approved,Active,46,17250833,2027-10-30,2027-12-27,58.0,58,0,0,0,29,Financial close is pending while cost increases and valuation are resolved. Next update due next month.
+PRJ-1319,FR03,S2 Housing Diversity,NSW,P15,Pipeline,Active,45,14962952,2028-08-30,2028-11-11,73.0,73,0,0,0,41,Partner resourcing constraints are slowing reporting and contract documentation.
+PRJ-1320,FR03,S2 Housing Diversity,ACT,P24,Approved,Active,23,9313458,2027-12-22,2027-12-29,7.0,7,0,0,0,12,Project progressing in line with baseline. No material issues to report.
+PRJ-1321,FR03,S5 Release 1,NSW,P35,Pipeline,Active,54,21418213,2028-09-13,2029-01-04,113.0,113,0,0,0,4,Rezoning and permit conditions have pushed back site establishment.
+PRJ-1322,FR03,S2 Housing Diversity,NT,P45,Financial close,Active,48,21390048,2027-11-28,2027-12-07,9.0,9,0,0,0,18,Delivery tracking to baseline and contractor engaged.
+PRJ-1323,FR03,S5 Release 1,VIC,P13,Contracted,Active,9,4037466,2027-08-20,2027-11-05,77.0,77,45,0,0,55,Financial close is pending while cost increases and valuation are resolved.
+PRJ-1324,FR03,S1 First Nations,ACT,P42,Financial close,Active,75,19377393,2027-09-11,2027-09-24,13.0,13,10,0,0,5,Project progressing in line with baseline. No material issues to report. Site visit scheduled.
+PRJ-1325,FR03,S2 Housing Diversity,VIC,P41,Financial close,Active,94,29318865,2028-02-26,2028-05-27,91.0,91,71,0,0,9,Rezoning and permit conditions have pushed back site establishment.
+PRJ-1326,FR03,S2 Housing Diversity,NSW,P32,Pipeline,Active,116,42126608,2028-11-29,2029-02-28,91.0,91,0,0,0,9,Skilled labour availability has slowed framing and fit-out works.
+PRJ-1327,FR03,S5 Release 1,NT,P16,Approved,Active,19,5346347,2028-06-12,2028-06-22,10.0,10,0,0,0,5,Delivery tracking to baseline and contractor engaged. Site visit scheduled.
+PRJ-1328,FR03,S2 Housing Diversity,ACT,P38,Contracted,Active,33,9200838,2027-10-16,2027-11-08,23.0,23,0,0,0,3,Project progressing in line with baseline. No material issues to report. Site visit scheduled.
+PRJ-1329,FR03,S3 States and Territories,WA,P05,Approved,Active,198,65365738,2028-11-06,2028-11-17,11.0,11,0,0,0,27,Delivery tracking to baseline and contractor engaged.
+PRJ-1330,FR03,S2 Housing Diversity,VIC,P26,Approved,Active,64,20663231,2028-05-03,2028-08-01,90.0,90,0,0,0,15,Subcontractor capacity constraints are extending the build program.
+PRJ-1331,FR03,S5 Release 1,NSW,P03,Approved,Active,118,44656607,2028-09-11,,,0,0,1,1,20,Contract negotiations extended due to outstanding information requests. Partner engaged with the investment manager.
+PRJ-1332,FR03,S3 States and Territories,NSW,P31,Pipeline,Active,90,28541212,2029-03-31,2029-07-25,116.0,116,0,0,0,2,project progressing in line with baseline. no material issues to report.
+PRJ-1333,FR03,S5 Release 1,NSW,P38,Approved,Active,138,55709399,2028-09-17,2028-12-10,84.0,84,0,0,0,11,Supply chain disruption to fittings and prefabricated components. Site visit scheduled.
+PRJ-1334,FR03,S2 Housing Diversity,QLD,P33,Contracted,Active,85,23400758,2028-04-25,2028-07-16,82.0,82,0,0,0,27,Staff turnover at the partner has delayed documentation and financial close. Partner engaged with the investment manager.
+PRJ-1335,FR03,S2 Housing Diversity,VIC,P26,Approved,Active,38,16552238,2027-12-10,2028-03-20,101.0,101,0,1,0,1,Partner resourcing constraints are slowing reporting and contract documentation. Builder reports trade shortages affecting site progress. Site visit scheduled.
+PRJ-1336,FR03,S3 States and Territories,NSW,P31,Pipeline,Active,9,3942016,2028-03-14,2028-05-02,49.0,49,0,0,0,6,Rezoningand permit conditions have pushed back site establishment. Financial close is pending while cost increases and valuation are resolved. Site visit scheduled.
+PRJ-1337,FR03,S2 Housing Diversity,NSW,P13,Pipeline,Active,143,51561543,2028-12-27,2029-03-12,75.0,75,0,0,0,1,Subcontractor capacity constraints are extending the build program.
+PRJ-1338,FR03,S3 States and Territories,VIC,P07,Pipeline,Active,37,13114378,2028-10-02,2028-10-14,12.0,12,0,0,0,55,Delivery tracking to baseline and contractor engaged. Partner engaged with the investment manager.
+PRJ-1339,FR03,S1 First Nations,QLD,P25,Pipeline,Active,111,30243585,2028-11-10,2028-11-25,15.0,15,0,0,0,4,Project progressing in line with baseline. No material issues to report. Next update due next month.
+PRJ-1341,FR03,S2 Housing Diversity,NSW,P18,Pipeline,Active,31,8886925,2028-05-31,2028-07-20,50.0,50,0,0,0,3,Construction cost escalation is affecting viability and value engineering is underway. Rezoning and permit conditions have pushed back site establishment. Next update due next month.
+PRJ-1342,FR03,S4 Partnerships at Scale,VIC,P43,Pipeline,Active,642,189299474,2029-03-31,2029-04-20,20.0,20,0,0,0,23,Works on schedule and nextmilestone expected as planned. Partner engaged with the investment manager.
+PRJ-1343,FR03,S5 Release 1,SA,P22,Pipeline,Active,16,6944969,2028-10-22,2028-11-01,10.0,10,0,0,0,11,Project progressing in line with baseline. No material issues to report. Site visit scheduled.
+PRJ-1344,FR03,S2 Housing Diversity,QLD,P11,Pipeline,Active,66,22872220,2029-03-11,2029-05-31,81.0,81,0,0,0,8,Planning conditions are under review with council and start of works is deferred. Partner resourcing constraints are slowing reporting and contract documentation.
+PRJ-1345,FR03,S2 Housing Diversity,WA,P42,Pipeline,Active,29,10838774,2028-09-02,2028-10-09,37.0,37,0,0,0,5,Planning conditions are under review with council and start of works is deferred. Partner engaged with the investment manager.
+PRJ-1346,FR03,S5 Release 1,VIC,P36,Under construction,Active,17,5443941,2027-05-22,2027-06-04,13.0,13,0,0,0,18,Project progressing in line with baseline. No material issues to report. Partner engaged with the investment manager.
+PRJ-1347,FR03,S2 Housing Diversity,NSW,P02,Pipeline,Active,69,23672938,2028-06-25,2028-07-03,8.0,8,0,0,0,9,Project progressing in line with baseline. No material issues to report. Site visit scheduled.
+PRJ-1348,FR03,S2 Housing Diversity,VIC,P39,Pipeline,Active,129,35775077,2028-08-24,2028-09-14,21.0,21,0,0,0,8,No variance to program. Partner reports steady progress.
+PRJ-1349,FR03,S5 Release 1,NSW,P32,Pipeline,Active,92,39273735,2028-08-22,2028-09-09,18.0,18,0,0,0,101,Works on schedule and next milestone expected as planned. Partner engaged with the investment manager.
+PRJ-1350,FR03,S5 Release 1,QLD,P26,Contracted,Active,57,17127514,2027-11-07,2027-12-25,48.0,48,4,0,0,1,Rezoning and permit conditions have pushed back site establishment. Next update due next month.
+PRJ-1351,FR03,S5 Release 1,NSW,P27,Contracted,Active,99,39060660,2028-04-24,2028-07-07,74.0,74,0,0,0,22,rezoning and permit conditions have pushed back site establishment. site visit scheduled.
+PRJ-1352,FR03,S5 Release 1,ACT,P10,Contracted,Active,104,34685284,2028-06-09,2028-08-25,77.0,77,0,0,0,6,Construction cost escalation is affecting viability and value engineering is underway.
+PRJ-1353,FR03,S5 Release 1,WA,P14,Pipeline,Active,19,7317041,2028-05-17,2028-08-29,104.0,104,0,0,0,26,Contract negotiations extended due to outstanding information requests. Site visit scheduled.
+PRJ-1354,FR03,S2 Housing Diversity,SA,P18,Pipeline,Active,44,18489899,2028-09-11,2028-09-29,18.0,18,0,0,0,27,Works on schedule and next milestone expected as planned. Next update due next month.
+PRJ-1355,FR03,S2 Housing Diversity,WA,P31,Approved,Active,41,14775295,2028-04-13,2028-07-06,84.0,84,0,0,0,1,Construction cost escalation is affecting viability and value engineering is underway. Next update due next month.
+PRJ-1356,FR03,S1 First Nations,VIC,P30,Contracted,Active,22,9674608,2027-11-13,,,22,5,1,1,0,development application assessment is taking longer than expected.
+PRJ-1357,FR03,S2 Housing Diversity,VIC,P15,Contracted,Active,37,13052276,2028-05-30,2028-07-04,35.0,35,0,0,0,26,Planning conditions are under review with council and start of works is deferred.
+PRJ-1358,FR03,S2 Housing Diversity,NSW,P01,Pipeline,Active,27,10228543,2028-12-14,2029-01-11,28.0,28,0,0,0,1,Project progressing in line with baseline. No material issues to report.
+PRJ-1359,FR03,S3 States and Territories,WA,P22,Pipeline,Active,35,14695100,2028-07-24,2028-10-07,75.0,0,0,1,1,43,Works on schedule and next milestone expected as planned. Next update due next month.
+PRJ-1360,FR03,S3 States and Territories,VIC,P04,Contracted,Active,95,23776644,2028-01-09,2028-05-01,113.0,113,1,0,0,6,Development application assessment is taking longer than expected. Site visit scheduled.
+PRJ-1361,FR03,S2 Housing Diversity,VIC,P35,Pipeline,Active,101,32787183,2029-03-31,2029-04-27,27.0,27,0,0,0,13,Works on schedule and next milestone expected as planned.
+PRJ-1362,FR03,S2 Housing Diversity,NSW,P41,Approved,Active,152,47106289,2028-06-26,2028-09-30,96.0,96,0,0,0,38,Project progresing in line with baseline. No material issues to report.
+PRJ-1363,FR03,S2 Housing Diversity,VIC,P44,Approved,Active,15,5678518,2027-12-22,2028-02-22,62.0,62,0,0,0,44,Delivery tracking to baseline an contractor engaged. Partner engaged with the investment manager.
+PRJ-1364,FR03,S5 Release 1,QLD,P41,Contracted,Active,56,17036200,2028-02-01,2028-05-17,106.0,106,0,0,0,9,Staff turnover at the partner has delayed documentation and financial close.
+PRJ-1365,FR03,S2 Housing Diversity,QLD,P41,Pipeline,Active,50,17369868,2029-02-13,2029-05-12,88.0,88,0,0,0,46,Builder reports trade shortages affecting site progress. Next update due next month.
+PRJ-1366,FR03,S2 Housing Diversity,NSW,P20,Financial close,Active,40,14688492,2027-09-26,2027-11-03,38.0,38,32,0,0,23,Project progressing in line with baseline. No material issues to report. Partner engaged with the investment manager.
+PRJ-1367,FR03,S2 Housing Diversity,WA,P14,Pipeline,Active,51,19306235,2028-09-07,2028-09-30,23.0,23,0,0,0,4,Works on schedule and next milestone expected as planned.
+PRJ-1368,FR03,S5 Release 1,NSW,P16,Financial close,Active,24,6997815,2027-12-10,2027-12-26,16.0,16,0,1,0,55,Works on schedule and next milestone expected as planned.
+PRJ-1369,FR03,S5 Release 1,NSW,P20,Pipeline,Active,39,15364676,2028-07-12,2028-08-29,48.0,48,0,0,0,82,Delivery tracking to baseline and contractor engaged. Next update due next month.
+PRJ-1370,FR03,S2 Housing Diversity,QLD,P36,Approved,Active,83,27766991,2028-07-28,2028-08-11,14.0,14,0,0,0,9,works on schedule and next milestone expected as planned. site visit scheduled.
+PRJ-1371,FR03,S2 Housing Diversity,QLD,P33,Approved,Active,65,19407074,2028-04-02,2028-06-16,75.0,75,0,0,0,51,Delivery tracking to baseline and contractor engaged.
+PRJ-1372,FR03,S2 Housing Diversity,WA,P12,Approved,Active,48,18577967,2028-03-22,2028-05-26,65.0,65,13,0,0,14,Supply chain disruption to fittings and prefabricated components.
+PRJ-1373,FR03,S2 Housing Diversity,NSW,P23,Approved,Active,42,11990604,2028-02-01,2028-03-01,29.0,29,0,0,0,21,Works on schedule and next milestone expected as planned. Site visit scheduled.
+PRJ-1374,FR03,S2 Housing Diversity,WA,P33,Approved,Active,35,12218663,2027-10-27,2027-12-18,52.0,52,3,1,0,100,Development application assessment is taking longer than expected.
+PRJ-1375,FR03,S2 Housing Diversity,VIC,P37,Approved,Active,82,36793002,2028-05-03,2028-05-10,7.0,7,0,0,0,55,Works on schedule and next milestone expected as planned. Next update due next month.
+PRJ-1376,FR03,S1 First Nations,ACT,P35,Contracted,Active,27,7721769,2028-02-26,2028-03-24,27.0,27,0,0,0,28,Construction cost escalation is affecting viability and value engineering is underway. Next update due next month.
+PRJ-1377,FR03,S5 Release 1,SA,P37,Contracted,Active,67,18334374,2027-05-27,2027-09-03,99.0,99,121,0,0,55,Partner resourcing constraints are slowing reporting and contract documentation. Skilled labour availability has slowed framing and fit-out works. Next update due next month.
+PRJ-1378,FR03,S1 First Nations,VIC,P02,Approved,Active,58,26088644,2028-06-30,2028-10-09,101.0,101,0,0,0,7,no variance to program. partner reports steady progress. site visit scheduled.
+PRJ-1379,FR03,S1 First Nations,NSW,P44,Under construction,Active,46,19892912,2027-07-16,2027-08-01,16.0,18,0,0,0,4,No variance to program. Partner reports steady progress.
+PRJ-1380,FR03,S4 Partnerships at Scale,NSW,P25,Pipeline,Active,644,180451605,2029-03-31,2029-04-18,18.0,18,0,0,0,10,Works on schedule and next milestone expected as planned. Partner engaged with the investment manager.
+PRJ-1381,FR03,S1 First Nations,NSW,P26,Approved,Active,48,20232337,2028-03-08,2028-05-22,75.0,5,0,1,1,5,Contract negotiations extended due to outstanding information requests. Partner engaged with the investment manager.
+PRJ-1382,FR03,S2 Housing Diversity,NSW,P18,Approved,Active,78,33336662,2028-06-03,2028-08-01,59.0,59,0,0,0,12,Freight and fuel cost impacts are delaying key deliveries. Partner engaged with the investment manager.
+PRJ-1383,FR03,S2 Housing Diversity,VIC,P35,Approved,Active,24,8063677,2027-11-30,2028-03-12,103.0,103,61,0,0,7,Approval pathway is taking longer than planned and revised dates are being confirmed. Partner engaged with the investment manager.
+PRJ-1384,FR03,S1 First Nations,VIC,P14,Pipeline,Active,45,18419756,2028-08-09,2028-08-26,17.0,17,0,0,0,8,Delivery tracking to baseline and contractor engaged. Partner engaged with the investment manager.
+PRJ-1385,FR03,S1 First Nations,VIC,P36,Pipeline,Active,28,8089360,2028-03-16,2028-06-07,83.0,83,0,0,0,25,Supply chain disruption to fittings and prefabricated components. Next update due next month.
+PRJ-1386,FR03,S5 Release 1,NSW,P30,Pipeline,Active,76,20010812,2028-10-31,2028-11-20,20.0,20,0,0,0,26,Works on schedule and next milestone expected as planned.
+PRJ-1387,FR03,S3 States and Territories,WA,P10,Approved,Active,50,22227475,2028-01-23,2028-02-07,15.0,15,0,0,0,0,No variance to program. Partner reports steady progress. Next update due next month.
+PRJ-1388,FR03,S5 Release 1,NSW,P33,Pipeline,Active,29,12897768,2028-08-20,2028-09-13,24.0,24,0,0,0,16,Project progressing in line with baseline. No material issues to report. Partner engaged with the investment manager.
+PRJ-1389,FR03,S2 Housing Diversity,QLD,P43,Contracted,Active,27,9014725,2027-12-24,2028-05-01,129.0,129,0,0,0,52,Staff turnover at the partner has delayed documentation and financial close.
+PRJ-1390,FR03,S3 States and Territories,VIC,P16,Approved,Active,25,10825417,2028-02-26,2028-07-05,130.0,130,0,0,0,21,Rezoning and permit conditions have pushed back site establishment. Partner engaged with the investment manager.
+PRJ-1391,FR03,S5 Release 1,QLD,P34,Approved,Active,28,10998172,2028-01-15,2028-03-04,49.0,49,0,0,0,42,Approval pathway is taking longer than planned and revised dates are being confirmed. Site visit scheduled.
+PRJ-1392,FR03,S2 Housing Diversity,SA,P07,Contracted,Active,26,6523720,2028-01-14,2028-03-01,47.0,47,0,0,0,26,No variance to program. Partner reports steady progress. Site visit scheduled.
+PRJ-1393,FR03,S5 Release 1,QLD,P36,Under construction,Active,420,115924662,2029-02-20,2029-03-01,9.0,9,0,0,0,41,Project progressing in line with baseline. No material issues to report.
+PRJ-1394,FR03,S2 Housing Diversity,VIC,P05,Approved,Active,102,36141221,2028-02-29,2028-09-12,196.0,196,10,0,0,0,Partner resourcing constraints are slowing reporting and contract documentation.
+PRJ-1395,FR03,S2 Housing Diversity,NSW,P16,Approved,Active,96,30379384,2028-05-08,2028-06-07,30.0,30,0,0,0,31,Works on schedule and next milestone expected as planned.
+PRJ-1396,FR03,S2 Housing Diversity,VIC,P30,Pipeline,Active,31,13404590,2028-03-28,,,0,0,1,1,13,No variance to program. Partner reports steady progress. Partner engaged with the investment manager.
+PRJ-1397,FR03,S5 Release 1,NSW,P05,Approved,Active,73,25822418,2028-06-28,2028-07-11,13.0,13,0,0,0,4,Works on schedule and next milestone expected as planned.
+PRJ-1398,FR03,S2 Housing Diversity,NSW,P17,Pipeline,Active,31,8789965,2028-03-18,,,0,0,1,1,55,No variance to program. Partner reports steady progress. Partner engaged with the investment manager.
+PRJ-1399,FR03,S5 Release 1,VIC,P19,Approved,Active,28,11042790,2028-01-04,2028-01-14,10.0,10,0,0,0,1,No variance to program. Partner reports steady progress. Site visit scheduled.
+PRJ-1400,FR03,S2 Housing Diversity,NSW,P25,Approved,Active,150,66866963,2028-09-23,2028-11-08,46.0,46,0,0,0,55,Contract negotiations extended due to outstanding information requests.
+PRJ-1401,FR03,S4 Partnerships at Scale,NT,P12,Contracted,Active,559,245337385,2029-03-18,2029-04-23,36.0,36,46,0,0,55,Approval pathway is taking longer than planned and revised dates are being confirmed.
+PRJ-1402,FR03,S2 Housing Diversity,NSW,P28,Financial close,Active,44,19744209,2027-09-15,,,93,72,1,1,39,Partner resourcing constraints are slowing reporting and contract documentation. Approval pathway is taking longer than planned and revised dates are being confirmed.
+PRJ-1403,FR03,S3 States and Territories,QLD,P21,Approved,Active,65,18422673,2028-05-21,2028-07-10,50.0,50,0,0,0,55,contract negotiations extended due to outstanding information requests. site visit scheduled.
+PRJ-1404,FR03,S2 Housing Diversity,QLD,P05,Contracted,Active,47,18184417,2027-06-27,2027-09-11,76.0,76,94,0,0,10,Limited internal capacity at the delivery partner and support has been requested.
+PRJ-1405,FR03,S2 Housing Diversity,SA,P16,Pipeline,Active,69,30842733,2028-07-25,2028-08-13,19.0,19,0,0,0,55,No variance to program. Partner reports steady progress.
+PRJ-1406,FR03,S2 Housing Diversity,NSW,P45,Pipeline,Active,39,13609040,2028-10-22,2029-01-07,77.0,77,0,0,0,10,Builder reports trade shortages affecting site progress. Next update due next month.
+PRJ-1407,FR03,S2 Housing Diversity,WA,P22,Pipeline,Active,20,7880541,2028-04-21,2028-05-04,13.0,13,0,0,0,104,No variance to program. Partner reports steady progress. Partner engaged with the investment manager.
+PRJ-1408,FR03,S5 Release 1,ACT,P22,Pipeline,Active,49,12627565,2028-06-21,2028-08-11,51.0,51,0,0,0,11,Delivery tracking to baseline and contractor engaged. Site visit scheduled.
+PRJ-1409,FR03,S2 Housing Diversity,QLD,P38,Approved,Active,33,11958636,2028-07-28,2028-09-25,59.0,59,0,0,0,30,Contract negotiations extended due to outstanding information requests. Site visit scheduled.
+PRJ-1410,FR03,S4 Partnerships at Scale,VIC,P04,Contracted,Active,641,180424666,2029-03-31,2029-09-11,164.0,164,0,0,0,27,Subcontractor capacity constraintsare extending the build program.
+PRJ-1411,FR03,S2 Housing Diversity,VIC,P20,Approved,Active,48,12132987,2028-07-23,2028-10-07,76.0,76,0,1,0,76,Delivery tracking to baseline and contractor engaged. Next update due next month.
+PRJ-1412,FR03,S3 States and Territories,QLD,P15,Pipeline,Active,55,20333000,2028-07-12,2028-07-25,13.0,13,0,0,0,7,No variance to program. Partner reports steady progress. Next update due next month.
+PRJ-1413,FR03,S2 Housing Diversity,VIC,P31,Approved,Active,126,50675474,2028-07-03,2028-07-12,9.0,9,0,0,0,9,Project progressing in line with baseline. No material issues to report.
+PRJ-1414,FR03,S2 Housing Diversity,NSW,P06,Pipeline,Active,119,50879227,2029-03-31,2029-06-16,77.0,77,0,0,0,7,Material delivery delays for steel and timber are affecting the program.
+PRJ-1415,FR03,S2 Housing Diversity,QLD,P38,Contracted,Active,45,18789652,2027-08-23,2028-01-23,153.0,153,34,0,0,25,Financial close is pending while cost increases and valuation are resolved. Partner engaged with the investment manager.
+PRJ-1416,FR03,S2 Housing Diversity,QLD,P45,Approved,Active,54,15805401,2028-07-01,2028-07-22,21.0,21,0,0,0,37,No variance to program. Partner reports steady progress.
+PRJ-1417,FR03,S5 Release 1,VIC,P40,Financial close,Active,93,36290740,2027-08-16,2027-11-22,98.0,98,86,0,0,4,Financial close is pending while cost increases and valuation are resolved. Next update due next month.
+PRJ-1418,FR03,S2 Housing Diversity,QLD,P34,Pipeline,Active,71,21180451,2028-07-05,2028-09-07,64.0,64,0,0,0,39,Works on schedule and next milestone expected as planned. Partner engaged with the investment manager.
+PRJ-1419,FR03,S3 States and Territories,QLD,P18,Pipeline,Active,42,13608298,2028-08-23,2028-09-14,22.0,22,0,1,0,0,Works on schedule and next milestone expected as planned. Next update due next month.
+PRJ-1420,FR03,S5 Release 1,NSW,P42,Pipeline,Active,26,10375546,2028-06-25,2028-07-04,9.0,9,0,0,0,55,No variance to program. Partner reports steady progress.

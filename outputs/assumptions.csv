@@ -1,0 +1,8 @@
+assumption,value
+Deadline,2029-06-30
+Illustrative target,90% of planned dwellings
+Base attrition,"3% per project, x{'Low': 1.0, 'Mid': 1.5, 'High': 2.5}, early-stage x1.5"
+Delay model,"Bootstrap of observed stage-transition delays, grouped by slippage band"
+Accelerated approvals,"Contract-stage duration -21 days, approval-stage delays -30%"
+Cost shock,"Construction-stage delays +30%, attrition x2"
+Simulations,"4,000 per scenario"

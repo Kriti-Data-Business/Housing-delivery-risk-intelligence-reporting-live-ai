@@ -1,0 +1,46 @@
+{
+  "model_version": "assurance-tagger-v1",
+  "n_live_projects": 365,
+  "n_test": 110,
+  "macro_f1_model": 0.967,
+  "macro_f1_keyword_baseline": 0.803,
+  "accuracy_model": 0.982,
+  "routing_share_test": {
+    "auto_accept": 0.955,
+    "analyst_review": 0.036,
+    "manual_classification": 0.009
+  },
+  "accuracy_by_route_test": {
+    "auto_accept": 1.0,
+    "manual_classification": 0.0,
+    "analyst_review": 0.75
+  },
+  "per_class_f1": {
+    "approvals_delay": 0.95,
+    "cost_pressure": 0.95,
+    "labour_shortage": 1.0,
+    "on_track": 1.0,
+    "partner_capacity": 1.0,
+    "planning_delay": 1.0,
+    "supply_chain": 0.88
+  },
+  "stress_test_accuracy": 0.833,
+  "stress_test_n": 12,
+  "consistency_check": {
+    "flagged": 23,
+    "true_optimistic_narratives": 31,
+    "precision": 0.957,
+    "recall": 0.71
+  },
+  "modelled_time": {
+    "assumption_minutes_per_read": 3,
+    "hours_manual_all": 18.2,
+    "hours_with_routing": 2.9
+  },
+  "route_share_all_live": {
+    "auto_accept": 0.934,
+    "analyst_review": 0.058,
+    "manual_classification": 0.008
+  },
+  "queue_size": 70
+}

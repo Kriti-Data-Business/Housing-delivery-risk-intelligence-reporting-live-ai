@@ -1,0 +1,421 @@
+project_id,round,stream,state,partner_id,housing_type,funding_product,dwellings,funding_amount,stage,status,commentary
+PRJ-1001,FR01,Standard,VIC,P42,Social,Availability payment,30,10254009,Under construction,Active,Financial close is pending while cost increases and valuation are reolved. Site visit scheduled.
+PRJ-1002,FR01,Standard,VIC,P25,Affordable,Concessional loan,30,12462562,Completed,Completed,Delivery tracking to baseline and contractor engaged. Next update due next month.
+PRJ-1003,FR01,Standard,TAS,P14,Affordable,Availability payment,29,9458032,Completed,Completed,Approval pathway is taking longer than planned and revised dates are being confirmed.
+PRJ-1004,FR01,Standard,VIC,P24,Affordable,Concessional loan,100,37770917,Under construction,Active,Supply chain disruption to fittings and prefabricated components. Next update due next month.
+PRJ-1005,FR01,Standard,VIC,P27,Affordable,Availability payment,66,24594988,Under construction,Active,No variance to program. Partner reports steady progress. Partner engaged with the investment manager.
+PRJ-1006,FR01,Standard,QLD,P35,Social,Concessional loan,68,30100167,Under construction,Active,Builder reports trade shortages affecting site progress. Site visit scheduled.
+PRJ-1007,FR01,Standard,WA,P14,Affordable,Concessional loan,26,11101376,Completed,Completed,Project progressing in line with baseline. No material issues to report. Next update due next month.
+PRJ-1008,FR01,Standard,VIC,P31,Social,Concessional loan,32,8366445,Completed,Completed,Project progressing in line with baseline. No material issues to report.
+PRJ-1009,FR01,Standard,QLD,P05,Social,Concessional loan,45,19096534,Completed,Completed,Delivery tracking to baseline and contractor engaged. Partner engaged with the investment manager.
+PRJ-1010,FR01,Standard,NSW,P31,Affordable,Grant,71,24890506,Completed,Completed,No variance to program. Partner reports steady progress.
+PRJ-1011,FR01,Standard,NSW,P20,Social,Concessional loan,58,18843089,Under construction,Active,Approval pathway is taking longer than planned and revised dates are being confirmed. Partner resourcing constraints are slowing reporting and contract documentation.
+PRJ-1012,FR01,Standard,NSW,P28,Affordable,Concessional loan,107,27935949,Under construction,Active,Awaiting final approval from the delegate and the contracting timeline has moved. Freight and fuel cost impacts are delaying key deliveries.
+PRJ-1013,FR01,Standard,VIC,P31,Affordable,Concessional loan,101,41198612,Under construction,Active,Financial close is ending while cost increases and valuation are resolved.
+PRJ-1014,FR01,Standard,VIC,P23,Affordable,Concessional loan,33,10723572,Completed,Completed,Subcontractor capacity constraints are extending the build program. Partner engaged with the investment manager.
+PRJ-1015,FR01,Standard,VIC,P33,Social,Availability payment,46,14246264,Completed,Completed,Delivery tracking to baseline and contractor engaged. Site visit scheduled.
+PRJ-1016,FR01,Standard,VIC,P43,Affordable,Concessional loan,40,15119623,Completed,Completed,Works on schedule and next milestone expected as planned. Site visit scheduled.
+PRJ-1017,FR01,Standard,WA,P37,Social,Concessional loan,48,20582673,Completed,Completed,Developmen application assessment is taking longer than expected. Site visit scheduled.
+PRJ-1018,FR01,Standard,NSW,P07,Affordable,Concessional loan,51,17921716,Under construction,Active,Contract negotiations extended due to outstanding information requests. Partner engaged with the investment manager.
+PRJ-1019,FR01,Standard,WA,P24,Social,Availability payment,107,32308688,Under construction,Active,contract negotiations extended due to outstanding information requests. partner engaged with the investment manager.
+PRJ-1020,FR01,Standard,QLD,P40,Social,Availability payment,28,11989534,Withdrawn,Withdrawn,No variance to program. Partner reports steady progress. Site visit scheduled.
+PRJ-1021,FR01,Standard,NSW,P09,Affordable,Grant,46,16827378,Completed,Completed,Contract negotiations extended due to outstanding information requests. Partner engaged with the investment manager.
+PRJ-1022,FR01,Standard,ACT,P04,Affordable,Concessional loan,43,14246912,Completed,Completed,Contract negotiations extended due to outstanding information requests. Site visit scheduled.
+PRJ-1023,FR01,Standard,VIC,P45,Affordable,Grant,14,5088473,Completed,Completed,Delivery tracking to baseline and contractor engaged. Partner engaged with the investment manager.
+PRJ-1024,FR01,Standard,VIC,P05,Social,Availability payment,25,6694318,Completed,Completed,Works on schedule and next milestone expected as planned.
+PRJ-1025,FR01,Standard,NSW,P30,Social,Availability payment,272,81985307,Under construction,Active,Staff turnover at the partner has delayed documentation and financial close.
+PRJ-1026,FR01,Standard,QLD,P42,Affordable,Availability payment,28,8706077,Completed,Completed,Project progressing in line with baseline. No material issues to report.
+PRJ-1027,FR01,Standard,TAS,P07,Affordable,Availability payment,56,20394683,Completed,Completed,Freight and fuel cost impacts are delaying key deliveries. Partner engaged with the investment manager.
+PRJ-1028,FR01,Standard,QLD,P06,Social,Availability payment,46,11615338,Under construction,Active,Financial close is pending while cost increases and valuation are resolved. Partner engaged with the investment manager.
+PRJ-1029,FR01,Standard,WA,P05,Affordable,Concessional loan,23,6003193,Completed,Completed,Builder reports trade shortages affecting site progress.
+PRJ-1030,FR01,Standard,VIC,P14,Social,Availability payment,56,24352852,Under construction,Active,Approval pathway is taking longer than planned and revised dates are being confirmed.
+PRJ-1031,FR01,Standard,NSW,P03,Affordable,Availability payment,19,5592351,Under construction,Active,Construction cost escalation is affecting viability and value engineering is underway. Site visit scheduled.
+PRJ-1032,FR01,Standard,VIC,P21,Social,Concessional loan,60,26831495,Under construction,Active,Development application assessment is taking longer than expected. Builder reports trade shortages affecting site progress. Partner engaged with the investment manager.
+PRJ-1033,FR01,Standard,NSW,P07,Social,Concessional loan,43,13082797,Completed,Completed,Construction cost escalation is affecting viability and value engineering is underway. Partner engaged with the investment manager.
+PRJ-1034,FR01,Standard,WA,P31,Affordable,Concessional loan,63,26943637,Completed,Completed,Works on schedule and next milestone expected as planned. Next update due next month.
+PRJ-1035,FR01,Standard,NSW,P24,Affordable,Concessional loan,43,11899039,Completed,Completed,Awaiting final approval from the delegate and the contracting timeline has moved. Limited internal capacity at the delivery partner and support has been requested. Partner engaged with the investment manager.
+PRJ-1036,FR01,Standard,QLD,P37,Affordable,Concessional loan,23,10157887,Completed,Completed,Works on schedule and next milestone expected as planned.
+PRJ-1037,FR01,Standard,ACT,P10,Affordable,Availability payment,82,30130708,Under construction,Active,Freight and fuel cost impacts are delaying key deliveries. Partner engaged with the investment manager.
+PRJ-1038,FR01,Standard,NSW,P09,Affordable,Availability payment,57,23183944,Completed,Completed,No variance to program. Partner reports steady progress. Partner engaged with the investment manager.
+PRJ-1039,FR01,Standard,VIC,P15,Affordable,Availability payment,46,18095693,Completed,Completed,No variance to program. Partner reports steady progress.
+PRJ-1040,FR01,Standard,NSW,P17,Affordable,Concessional loan,25,10549948,Completed,Completed,Delivery tracking to baseline and contractor engaged. Next update ue next month.
+PRJ-1041,FR01,Standard,NSW,P13,Affordable,Grant,89,29670030,Completed,Completed,Works on schedule and next milestone expected as planned.
+PRJ-1042,FR01,Standard,WA,P30,Social,Grant,20,5414269,Completed,Completed,Delivery tracking to baseline and contractor engaged.
+PRJ-1043,FR01,Standard,VIC,P04,Affordable,Concessional loan,22,9226161,Completed,Completed,No variance to program. Partner reports steady progress.
+PRJ-1044,FR01,Standard,VIC,P04,Social,Grant,54,14029519,Completed,Completed,Skilled labour availability has slowed framing and fit-out works. Site visit scheduled.
+PRJ-1045,FR01,Standard,TAS,P22,Affordable,Availability payment,32,9124596,Withdrawn,Withdrawn,Freight and fuel cost impacts are delaying key deliveries.
+PRJ-1046,FR01,Standard,QLD,P19,Social,Availability payment,20,5119310,Withdrawn,Withdrawn,Project progressing in line with baseline. No material issues to report. Partner engaged with the investment manager.
+PRJ-1047,FR01,Standard,ACT,P20,Affordable,Availability payment,63,17550572,Completed,Completed,Works on schedule and next milestone expected as planned.
+PRJ-1048,FR01,Standard,NSW,P37,Social,Availability payment,49,14881406,Completed,Completed,Project progressing in line with baseline. No material issues to report. Site isit scheduled.
+PRJ-1049,FR01,Standard,NSW,P26,Social,Availability payment,28,10044071,Completed,Completed,No variance to program. Partner reports steady progress. Next update due next month.
+PRJ-1050,FR01,Standard,WA,P09,Social,Concessional loan,33,9813669,Completed,Completed,Supply chain disruption to fittings and prefabricated components. Site visit scheduled.
+PRJ-1051,FR01,Standard,QLD,P44,Social,Grant,150,67481737,Under construction,Active,Project progressing in line with baseline. No material issues to report.
+PRJ-1052,FR01,Standard,WA,P39,Social,Grant,58,15235750,Completed,Completed,Subcontractor capacity constraints are extending the build program. Next update due next month.
+PRJ-1053,FR01,Standard,NSW,P06,Affordable,Availability payment,55,20057451,Completed,Completed,Builder reports trade shortages affecting site progress. Awaiting final approval from the delegate and the contracting timeline has moved. Next update due next month.
+PRJ-1054,FR01,Standard,NSW,P09,Affordable,Availability payment,14,6252554,Completed,Completed,Project progressing in line with baseline. No material issues to report. Next update due next month.
+PRJ-1055,FR01,Standard,VIC,P41,Social,Concessional loan,143,41042592,Under construction,Active,limited internal capacity at the delivery partner and support has been requested. partner engaged with the investment manager.
+PRJ-1056,FR01,Standard,VIC,P16,Social,Concessional loan,23,6945106,Completed,Completed,No variance to program. Partner reports steady progress.
+PRJ-1057,FR01,Standard,NSW,P03,Social,Availability payment,70,18160372,Under construction,Active,Delivery tracking to baseline and contractor engaged.
+PRJ-1058,FR01,Standard,SA,P28,Social,Availability payment,27,8084262,Under construction,Active,Works on schedule and next milestne expected as planned. Next update due next month.
+PRJ-1059,FR01,Standard,NSW,P18,Affordable,Availability payment,27,10833117,Completed,Completed,Project progressing in line with baseline. No material issues to report. Next update due next month.
+PRJ-1060,FR01,Standard,QLD,P42,Social,Availability payment,59,25707053,Under construction,Active,Construction cost escalation is affecting viability and value enineering is underway.
+PRJ-1061,FR01,Standard,NT,P29,Affordable,Availability payment,21,6063991,Completed,Completed,Material delivery delays for steel and timber are affecting the program. Partner engaged with the investment manager.
+PRJ-1062,FR01,Standard,VIC,P29,Affordable,Concessional loan,34,13592367,Completed,Completed,delivery tracking to baseline and ontractor engaged.
+PRJ-1063,FR01,Standard,NT,P41,Social,Concessional loan,40,15763670,Completed,Completed,Planning conditions are under review with council and start of works is deferred. Next update due next month.
+PRJ-1064,FR01,Standard,VIC,P24,Affordable,Availability payment,77,30626655,Completed,Completed,works on schedule and next milestone expected as planned.
+PRJ-1065,FR01,Standard,NSW,P08,Affordable,Availability payment,55,23421983,Completed,Completed,Delivery tracking to baseline and contractor engaged. Site visit scheduled.
+PRJ-1066,FR01,Standard,QLD,P41,Social,Concessional loan,29,12100593,Completed,Completed,Delivery tracking to baseline and contractor engaged. Site visit scheduled.
+PRJ-1067,FR01,Standard,WA,P24,Affordable,Availability payment,133,40996314,Under construction,Active,Supply chain disruption to fittings and prefabricated components. Tender prices came in above budget and the partner is reviewing the funding gap.
+PRJ-1068,FR01,Standard,NSW,P12,Affordable,Concessional loan,8,3273865,Completed,Completed,contract negotiations extended due to outstanding information requests. financial close is pending while cost increases and valuation are resolved. partner engaged with the investment manager.
+PRJ-1069,FR01,Standard,QLD,P38,Social,Concessional loan,104,30857220,Under construction,Active,Delivery tracking to baseline and contractor engaged.
+PRJ-1070,FR01,Standard,VIC,P42,Social,Grant,31,9309506,Completed,Completed,Project progressing in line with baseline. No material issues to report. Site visit scheduled.
+PRJ-1071,FR02,Standard,WA,P34,Social,Availability payment,42,16178375,Under construction,Active,Delivery tracking to baseline and contractor engaged. Partner engaged with the investment manager.
+PRJ-1072,FR02,Standard,QLD,P02,Affordable,Concessional loan,110,38208507,Under construction,Active,Works on schedule and next milestone expected as planned. Partner engaged with the investment manager.
+PRJ-1073,FR02,Standard,QLD,P10,Affordable,Concessional loan,12,3108697,Under construction,Active,Partner resourcing constraints are slowing reorting and contract documentation.
+PRJ-1074,FR02,Standard,VIC,P22,Affordable,Grant,64,20828789,Under construction,Active,limited internal capacity at the delivery partner and support has been requested.
+PRJ-1075,FR02,Standard,VIC,P05,Social,Concessional loan,120,43390536,Under construction,Active,Skilled labour availability has slowed framing and fit-out works.
+PRJ-1076,FR02,Standard,QLD,P14,Affordable,Availability payment,90,35840392,Under construction,Active,Project progressing in line with baseline. No material issues to report.
+PRJ-1077,FR02,Standard,SA,P23,Social,Grant,55,13993412,Under construction,Active,Skilled labour availability has slowed framing and fit-out works.
+PRJ-1078,FR02,Standard,VIC,P28,Affordable,Grant,29,9637663,Under construction,Active,No variance to program. Partner reports steady progress. Site visit scheduled.
+PRJ-1079,FR02,Standard,QLD,P24,Social,Grant,13,3539198,Under construction,Active,Delivery tracking to baseline and contractor engaged. Next update due next month.
+PRJ-1080,FR02,Standard,SA,P11,Social,Concessional loan,36,12745414,Under construction,Active,Project progressing in line with baseline. No material issues to report. Site visit scheduled.
+PRJ-1081,FR02,Standard,VIC,P36,Affordable,Availability payment,140,37458297,Under construction,Active,Skilled labour availability has slowed framing and fit-out works. Site visit scheduled.
+PRJ-1082,FR02,Standard,VIC,P08,Affordable,Concessional loan,36,12817230,Under construction,Active,Supply chain disruption to fittings and prefabricated components. Awaiting final approval from the delegate and the contracting timeline has moved.
+PRJ-1083,FR02,Standard,VIC,P43,Affordable,Concessional loan,53,18645899,Under construction,Active,No variance to program. Partner reports steady progress.
+PRJ-1084,FR02,Standard,QLD,P12,Social,Concessional loan,121,42115483,Under construction,Active,Works on schedule and next milestone expected as planned. Next update due next month.
+PRJ-1085,FR02,Standard,NSW,P13,Affordable,Availability payment,79,33860826,Under construction,Active,Rezoning and prmit conditions have pushed back site establishment. Partner engaged with the investment manager.
+PRJ-1086,FR02,Standard,NSW,P27,Affordable,Availability payment,46,14679912,Under construction,Active,No variance to program. Partner reports steady progress.
+PRJ-1087,FR02,Standard,SA,P18,Affordable,Availability payment,124,46812869,Under construction,Active,Staff turnover at te partner has delayed documentation and financial close. Site visit scheduled.
+PRJ-1088,FR02,Standard,QLD,P41,Affordable,Concessional loan,76,25064795,Withdrawn,Withdrawn,Contract negotiations extended due to outstanding information requests. Partner engaged with theinvestment manager.
+PRJ-1089,FR02,Standard,VIC,P15,Affordable,Concessional loan,68,19346581,Under construction,Active,Tender prices came in above budget and the partner is reviewing the funding gap. Next update due next month.
+PRJ-1090,FR02,Standard,VIC,P38,Affordable,Availability payment,91,26582427,Under construction,Active,Delivery tracking to baseline and contractor engaged. Partner engaged with the investment manager.
+PRJ-1091,FR02,Standard,NSW,P22,Affordable,Availability payment,127,57113387,Under construction,Active,Works on schedule and next milestone expected as planned.
+PRJ-1092,FR02,Standard,NSW,P08,Social,Availability payment,82,34024910,Under construction,Active,Delivery tracking to baseline and contractor engaged. Next update due next month.
+PRJ-1093,FR02,Standard,SA,P09,Affordable,Concessional loan,49,20797944,Under construction,Active,Delivery tracking to baseline and contractor engaged. Partner engaged with the investment manager.
+PRJ-1094,FR02,Standard,VIC,P34,Social,Concessional loan,40,11760932,Under construction,Active,Approval pathway is taking longer than planned and revised dates are being confirmed. Next update due next month.
+PRJ-1095,FR02,Standard,VIC,P28,Affordable,Availability payment,97,36355466,Under construction,Active,Project progressing in line with baseline. No material issues to report.
+PRJ-1096,FR02,Standard,NSW,P41,Affordable,Grant,42,14573732,Under construction,Active,Rezoning and permit conditions have pushed back site establishment. Partner engaged with the investment manager.
+PRJ-1097,FR02,Standard,SA,P42,Affordable,Grant,45,19668035,Under construction,Active,Delivery tracking to baseline and contractor engaged. Next update due next month.
+PRJ-1098,FR02,Standard,NSW,P14,Affordable,Concessional loan,86,37589360,Under construction,Active,Development application assessment is taking longer than expected. Partner engaged with the investment manager.
+PRJ-1099,FR02,Standard,NSW,P39,Affordable,Concessional loan,64,23705872,Under construction,Active,Skilled labour availability has slowed framing and fit-out works. Next update due next month.
+PRJ-1100,FR02,Standard,QLD,P12,Social,Grant,113,50627368,Under construction,Active,Supply chain disruption to fittings and prefabricated components. Next update due next month.
+PRJ-1101,FR02,Standard,QLD,P26,Social,Availability payment,66,22279436,Under construction,Active,Supply chain disruption to fittings and prefabricated components. Site visit scheduled.
+PRJ-1102,FR02,Standard,TAS,P32,Affordable,Availability payment,38,14246110,Under construction,Active,Development application assessment is taking longer than expected. Next update due next month.
+PRJ-1103,FR02,Standard,QLD,P11,Affordable,Availability payment,78,30722131,Under construction,Active,project progressing in line with baseline. no material issues to report.
+PRJ-1104,FR02,Standard,QLD,P10,Social,Grant,90,29821612,Under construction,Active,Project progressing in line with baseline. No material issues to report. Partne engaged with the investment manager.
+PRJ-1105,FR02,Standard,VIC,P35,Affordable,Availability payment,54,22655851,Under construction,Active,Delivery tracking to baseline and contractor engaged.
+PRJ-1106,FR02,Standard,WA,P40,Social,Concessional loan,27,10083369,Under construction,Active,Delivery tracking to baseline and contractor engaged. Next update due next month.
+PRJ-1107,FR02,Standard,SA,P18,Social,Availability payment,191,52262639,Under construction,Active,Awaiting final approval from the delegate and the contracting timeline has moved.
+PRJ-1108,FR02,Standard,VIC,P16,Affordable,Concessional loan,61,24090249,Under construction,Active,Works on schedule and next milestone expected as planned. Next update due next month.
+PRJ-1109,FR02,Standard,VIC,P09,Affordable,Concessional loan,126,35210542,Under construction,Active,Approval pathway is taking longer than planned and revised dates are being confirmed.
+PRJ-1110,FR02,Standard,WA,P36,Social,Availability payment,36,13611338,Under construction,Active,No variance to program. Partner reports steady progress. Partner engaged with the investment manager.
+PRJ-1111,FR02,Standard,VIC,P36,Social,Availability payment,50,12658323,Under construction,Active,Awaiting final approval from the delegate and the contracting timeline has moved. Partner engaged with the investment manager.
+PRJ-1112,FR02,Standard,NSW,P08,Social,Grant,24,8403078,Under construction,Active,Works on schedule and next milestone expected as planned.
+PRJ-1113,FR02,Standard,VIC,P30,Social,Availability payment,76,24799561,Under construction,Active,Delivery tracking to baseline and contractor engaged.
+PRJ-1114,FR02,Standard,VIC,P41,Social,Availability payment,39,15394096,Under construction,Active,Construction cost escalation is affecting viability and value engineering is underway.
+PRJ-1115,FR02,Standard,NT,P26,Social,Concessional loan,42,18662904,Under construction,Active,works on schedule and next milestone expected as planned.
+PRJ-1116,FR03,S3 States and Territories,NSW,P19,Social,Availability payment,32,14157840,Approved,Active,Supply chain disruption to fittings and prefabricated components. Site visit scheduled.
+PRJ-1117,FR03,S3 States and Territories,QLD,P26,Social,Concessional loan,126,37491763,Financial close,Active,Works on schedule and next milestone expected as planned.
+PRJ-1118,FR03,S2 Housing Diversity,NSW,P04,Affordable,Grant,17,7240725,Approved,Active,Planning conditions are under review with council and start of works is deferred. Limited internal capacity at the delivery partner and support has been requested.
+PRJ-1119,FR03,S2 Housing Diversity,VIC,P11,Affordable,Availability payment,36,12630069,Approved,Active,Delivery tracking to baseline and contractor engaged. Site visit scheduled.
+PRJ-1120,FR03,S2 Housing Diversity,WA,P08,Affordable,Availability payment,111,28657401,Financial close,Active,No variance to program. Partner reports steady progress. Site visit scheduled.
+PRJ-1121,FR03,S2 Housing Diversity,QLD,P40,Affordable,Concessional loan,102,38312225,Contracted,Active,Awaiting final approval from the delegate and the contracting timeline has moved. Next update due next month.
+PRJ-1122,FR03,S2 Housing Diversity,VIC,P33,Social,Availability payment,22,6708340,Pipeline,Active,No variance to program. Partner reports steady progress.
+PRJ-1123,FR03,S3 States and Territories,VIC,P01,Social,Grant,76,19746426,Approved,Active,Freight and fuel cost impacts are delaying key deliveries. Partner engaged with the investment manager.
+PRJ-1124,FR03,S2 Housing Diversity,VIC,P30,Affordable,Concessional loan,22,9275668,Pipeline,Active,Awaiting final approval from the delegate and the contracting timeline has moved. Site visit scheduled.
+PRJ-1125,FR03,S2 Housing Diversity,NSW,P39,Social,Availability payment,58,15623437,Contracted,Active,Builder reports trade shortages affecting site progress. Freight and fuel cost impacts are delaying key deliveries. Site visit scheduled.
+PRJ-1126,FR03,S2 Housing Diversity,QLD,P44,Affordable,Grant,59,20830915,Approved,Active,Financial close is pending while cost increases and valuation are resolved.
+PRJ-1127,FR03,S3 States and Territories,NSW,P28,Social,Availability payment,20,7059078,Approved,Active,No variance to program. Partner reports steady progress. Site visit scheduled.
+PRJ-1128,FR03,S5 Release 1,NSW,P16,Social,Grant,120,30664385,Approved,Active,Project progressing in line with baseline. No material issues to report. Next update due next month.
+PRJ-1129,FR03,S2 Housing Diversity,NT,P18,Affordable,Availability payment,26,10273848,Under construction,Active,No variance to program. Partner reports steady progress.
+PRJ-1130,FR03,S5 Release 1,QLD,P29,Affordable,Concessional loan,87,29983271,Contracted,Active,Project progressing in line with baseline. No material issues to report. Next update due next month.
+PRJ-1131,FR03,S2 Housing Diversity,WA,P36,Affordable,Concessional loan,83,35627095,Contracted,Active,Project progressing in line with baseline. No material issues to report. Site visit scheduled.
+PRJ-1132,FR03,S2 Housing Diversity,NSW,P21,Social,Availability payment,19,7317576,Pipeline,Active,Project progressing in line with baseline. No material issues to report.
+PRJ-1133,FR03,S2 Housing Diversity,VIC,P02,Affordable,Availability payment,15,6520956,Pipeline,Active,Works on schedule and next milestone expected as planned. Site visit scheduled.
+PRJ-1134,FR03,S2 Housing Diversity,QLD,P32,Social,Concessional loan,72,29734018,Pipeline,Active,Works on schedule and next milestone expected as planned. Site visit scheduled.
+PRJ-1135,FR03,S1 First Nations,NSW,P17,Affordable,Availability payment,84,23574053,Pipeline,Active,skilled labour availability has slowed framing and fit-out works. partner engaged with the investment manager.
+PRJ-1136,FR03,S5 Release 1,QLD,P14,Affordable,Concessional loan,143,49132249,Approved,Active,Tender prices came in above budget and the partner is reviewing the funding gap. Site visit scheduled.
+PRJ-1137,FR03,S2 Housing Diversity,NSW,P10,Affordable,Concessional loan,70,26981546,Financial close,Active,Subcontractor capacity constraints are extending the build program. Partner engaged with the investment manager.
+PRJ-1138,FR03,S3 States and Territories,VIC,P29,Social,Availability payment,47,12163325,Contracted,Active,No variance to program. Partner reports steady progress. Next update due next month.
+PRJ-1139,FR03,S5 Release 1,WA,P41,Social,Availability payment,61,27283791,Approved,Active,No variance to program. Partner reports steady progress. Site visit scheduled.
+PRJ-1140,FR03,S5 Release 1,VIC,P37,Affordable,Concessional loan,38,10436313,Approved,Active,Works on schedule and next milestone expected as planned. Site visit scheduled.
+PRJ-1141,FR03,S2 Housing Diversity,NSW,P44,Affordable,Availability payment,38,14990017,Pipeline,Active,Subcontractor capacity constraints are extending the build program. Partner engaged with the investment manager.
+PRJ-1142,FR03,S2 Housing Diversity,SA,P34,Social,Concessional loan,26,7165845,Contracted,Active,Staff turnover at the partner has delayed documentation and financial close. Freight and fuel cost impacts are delaying key deliveries.
+PRJ-1143,FR03,S2 Housing Diversity,QLD,P06,Social,Availability payment,66,28189547,Approved,Active,Tender prices came in above budget and the partner is reviewing the funding gap. Approval pathway is taking longer than planned and revised dates are being confirmed. Partner engaged with the investment manager.
+PRJ-1144,FR03,S5 Release 1,VIC,P07,Affordable,Availability payment,112,38655066,Pipeline,Active,No variance to program. Partner reports steady progress. Partner engaged with the investment manager.
+PRJ-1145,FR03,S5 Release 1,NSW,P08,Affordable,Availability payment,136,51662901,Approved,Active,Project progressing in line with baseline. No material issues to report. Site visit scheduled.
+PRJ-1146,FR03,S3 States and Territories,WA,P42,Social,Availability payment,21,7155400,Pipeline,Active,Limited internal capacity at the delivery partner and support has been requested. Partner engaged with the investment manager.
+PRJ-1147,FR03,S2 Housing Diversity,WA,P01,Affordable,Concessional loan,12,5096941,Pipeline,Active,No variance to program. Partner reports steady progress.
+PRJ-1148,FR03,S4 Partnerships at Scale,QLD,P39,Social,Concessional loan,540,208066013,Pipeline,Active,Skilled labour availability has slowed framing and fit-out works. Partner engaged with the investment manager.
+PRJ-1149,FR03,S2 Housing Diversity,QLD,P08,Social,Grant,72,30729057,Pipeline,Active,Planning conditions are under review with council and start of works is deferred. Site visit scheduled.
+PRJ-1150,FR03,S2 Housing Diversity,VIC,P39,Affordable,Grant,72,22409207,Contracted,Active,Staff turnover at the partner has deayed documentation and financial close.
+PRJ-1151,FR03,S3 States and Territories,NSW,P37,Social,Availability payment,61,20833274,Withdrawn,Withdrawn,Project progressing in line with baseline. No material issues to report.
+PRJ-1152,FR03,S5 Release 1,NSW,P39,Affordable,Availability payment,65,16322950,Under construction,Active,Works on schedule and next milestone expected as planned. Partner engaged with the investment manager.
+PRJ-1153,FR03,S1 First Nations,WA,P08,Social,Availability payment,55,18746121,Approved,Active,Project progressing in line with baseline. No material issues to report.
+PRJ-1154,FR03,S5 Release 1,NSW,P29,Social,Concessional loan,98,34770777,Contracted,Active,Supply chain disruption to fittings and prefabricated components.
+PRJ-1155,FR03,S4 Partnerships at Scale,VIC,P31,Social,Concessional loan,554,197815957,Withdrawn,Withdrawn,Delivery tracking to baseline and contractor engaged. Site visit scheduled.
+PRJ-1156,FR03,S2 Housing Diversity,VIC,P21,Affordable,Grant,256,69167275,Pipeline,Active,works on schedule and next milestone expected as planned. next update due next month.
+PRJ-1157,FR03,S5 Release 1,VIC,P19,Social,Availability payment,25,7358850,Pipeline,Active,Project progressing in line with baseline. No material issues to report.
+PRJ-1158,FR03,S3 States and Territories,NSW,P01,Social,Availability payment,79,34999986,Pipeline,Active,Works on schedule and next milestone expected as planned. Partner engaged with the investment manager.
+PRJ-1159,FR03,S3 States and Territories,NSW,P09,Social,Concessional loan,12,3428415,Approved,Active,Builder reports trade shortages affecting site progress.
+PRJ-1160,FR03,S5 Release 1,WA,P26,Affordable,Concessional loan,32,11198842,Pipeline,Active,Project progressing in line with baseline. No material issues to report.
+PRJ-1161,FR03,S3 States and Territories,QLD,P05,Social,Availability payment,30,10735143,Approved,Active,Rezoning and permit conditions have pushed back site establishment. Partner engaged with the investment manager.
+PRJ-1162,FR03,S2 Housing Diversity,QLD,P42,Social,Grant,23,9888537,Contracted,Active,Supply chain disruption to fittings and prefabricated components. Site visit scheduled.
+PRJ-1163,FR03,S2 Housing Diversity,TAS,P33,Social,Availability payment,78,32193051,Contracted,Active,Financial close is pending while cost increases and valuation are resolved.
+PRJ-1164,FR03,S2 Housing Diversity,SA,P34,Affordable,Availability payment,153,50932466,Approved,Active,Material delivery delays for steel and timber are affecting the program. Next update due nex month.
+PRJ-1165,FR03,S5 Release 1,WA,P10,Affordable,Availability payment,39,13923741,Approved,Active,Builder reports trade shortages affecting site progress. Partner engaged with the investment manager.
+PRJ-1166,FR03,S2 Housing Diversity,VIC,P39,Affordable,Concessional loan,44,11641888,Contracted,Active,Delivery tracking to baseline and contractor engaged.
+PRJ-1167,FR03,S2 Housing Diversity,NSW,P18,Social,Availability payment,141,36995557,Pipeline,Active,Works on schedule and next milestone expected as planned. Next update due next month.
+PRJ-1168,FR03,S2 Housing Diversity,WA,P42,Affordable,Concessional loan,46,15152998,Pipeline,Active,Delivery tracking to baseline and contractor engaged.
+PRJ-1169,FR03,S5 Release 1,NSW,P01,Affordable,Concessional loan,73,21924706,Contracted,Active,Construction cost escalation is affecting viability and value engineering is underway. Supply chain disruption to fittings and prefabricated components. Site visit scheduled.
+PRJ-1170,FR03,S4 Partnerships at Scale,NSW,P44,Social,Availability payment,603,187418641,Approved,Active,Tender prices came in above budget and the partner is revewing the funding gap.
+PRJ-1171,FR03,S5 Release 1,QLD,P04,Affordable,Grant,88,33500052,Approved,Active,Freight and fuel cost impacts are delaying key deliveries. Site visit scheduled.
+PRJ-1172,FR03,S2 Housing Diversity,TAS,P38,Affordable,Concessional loan,73,22034127,Pipeline,Active,Approval pathway is taking longer than planned and revised dates are being confirmed.
+PRJ-1173,FR03,S2 Housing Diversity,VIC,P45,Affordable,Concessional loan,38,15677603,Approved,Active,Staff turnover at the partner has delayed documentation and financial close.
+PRJ-1174,FR03,S3 States and Territories,WA,P02,Social,Concessional loan,117,38061291,Pipeline,Active,awaiting final approval from the delegate and the contracting timeline has moved. partner engaged with the investment manager.
+PRJ-1175,FR03,S1 First Nations,WA,P41,Social,Concessional loan,19,8189848,Financial close,Active,project progressing in line with baseline. no material issues to report. next update due next month.
+PRJ-1176,FR03,S3 States and Territories,QLD,P09,Social,Concessional loan,64,25881833,Pipeline,Active,Works on schedule and next milestone expected as planned.
+PRJ-1177,FR03,S5 Release 1,WA,P21,Social,Availability payment,65,28009069,Pipeline,Active,Delivery tracking to baseline and contractor engaged. Next update due next month.
+PRJ-1178,FR03,S2 Housing Diversity,VIC,P29,Social,Grant,23,9657901,Approved,Active,Partner resourcing constraints are slowing reporting and contract documentation. Rezoning and permit conditions have pushed back site establishment. Next update due next month.
+PRJ-1179,FR03,S2 Housing Diversity,QLD,P30,Affordable,Grant,85,33165058,Pipeline,Active,Project progressing in line with baseline. No material issues to report. Site visit scheduled.
+PRJ-1180,FR03,S5 Release 1,WA,P02,Social,Grant,46,18021563,Financial close,Active,Planning conditions are under review with council and start of works is deferred. Partner engaged with the investment manager.
+PRJ-1181,FR03,S5 Release 1,NT,P31,Affordable,Grant,51,15078071,Withdrawn,Withdrawn,Supply chain disruption to fittings and prefabricated components.
+PRJ-1182,FR03,S3 States and Territories,NSW,P01,Social,Grant,58,20971776,Pipeline,Active,Awaiting final approval from the delegate and the contracting timeline has moved. Site visit scheduled.
+PRJ-1183,FR03,S1 First Nations,NSW,P40,Affordable,Availability payment,120,36989612,Contracted,Active,Partner resourcing constraints are slowing reporting and contract documentation. Next update due next month.
+PRJ-1184,FR03,S2 Housing Diversity,VIC,P14,Social,Availability payment,25,6921037,Pipeline,Active,Subcontractor capacity constraints are extending the build program. Partner engaged with the investment manager.
+PRJ-1185,FR03,S3 States and Territories,VIC,P04,Social,Concessional loan,59,25444940,Pipeline,Active,Works on schedule and next milestone expected as planned. Site visit scheduled.
+PRJ-1186,FR03,S1 First Nations,QLD,P19,Social,Concessional loan,31,13640395,Contracted,Active,Rezoning and permit conditions have pushed back site establishment. Next update due next month.
+PRJ-1187,FR03,S5 Release 1,VIC,P27,Affordable,Grant,49,17420921,Under construction,Active,Works on schedule and next milestone expected as planned. Partner engaged with the investment manager.
+PRJ-1188,FR03,S5 Release 1,NSW,P36,Social,Concessional loan,114,49168761,Pipeline,Active,Delivery tracking to baseline and contractor engaged. Next update due next month.
+PRJ-1189,FR03,S3 States and Territories,QLD,P22,Social,Concessional loan,203,81030203,Contracted,Active,No variance to program. Partner reports steady progress.
+PRJ-1190,FR03,S5 Release 1,QLD,P44,Affordable,Concessional loan,39,10910228,Financial close,Active,Subcontractor capacity constraints are extending the build program. Rezoning and permit conditions have pushed back site establishment. Partner engaged with the investment manager.
+PRJ-1191,FR03,S2 Housing Diversity,VIC,P31,Social,Grant,32,14242722,Approved,Active,Works on schedule and next milestone expected as planned. Partner engaged with the investment manager.
+PRJ-1192,FR03,S4 Partnerships at Scale,NSW,P14,Social,Concessional loan,559,197367525,Approved,Active,Supply chain disruption to fittings and prefabricated components.
+PRJ-1193,FR03,S2 Housing Diversity,VIC,P28,Affordable,Grant,24,6303776,Pipeline,Active,No variance to program. Partner reports steady progress. Next update due next month.
+PRJ-1194,FR03,S5 Release 1,NSW,P28,Social,Concessional loan,27,9002558,Approved,Active,Limited internal capacity at the delivery partner and support has been requested. Site visit scheduled.
+PRJ-1195,FR03,S5 Release 1,NSW,P34,Social,Availability payment,25,9103742,Approved,Active,Delivery tracking to baseline and contractor engaged.
+PRJ-1196,FR03,S5 Release 1,QLD,P10,Affordable,Availability payment,16,4994071,Pipeline,Active,Works on schedule and next milestone expected as planned. Partner engaged with the investment manager.
+PRJ-1197,FR03,S1 First Nations,TAS,P38,Social,Availability payment,13,4575148,Financial close,Active,Development application assessment is taking longer than expected. Next update due next month.
+PRJ-1198,FR03,S3 States and Territories,NSW,P15,Social,Concessional loan,28,10430527,Under construction,Active,Material delivery delays for steel and timber are affecting the program. Site visit scheduled.
+PRJ-1199,FR03,S3 States and Territories,VIC,P18,Social,Grant,54,19719268,Pipeline,Active,No variance to program. Partner reportssteady progress. Next update due next month.
+PRJ-1200,FR03,S4 Partnerships at Scale,QLD,P28,Social,Availability payment,506,212750736,Approved,Active,Contract negotiations extended due to outstanding information requests. Site visit scheduled.
+PRJ-1201,FR03,S3 States and Territories,NSW,P34,Social,Concessional loan,57,20651548,Approved,Active,Works on schedule and next milestone expected as planned. Partner engaged with the investment manager.
+PRJ-1202,FR03,S5 Release 1,VIC,P40,Affordable,Availability payment,176,58170400,Contracted,Active,Limited internal capacity at the delivery partner and support has been requested. Site visit scheduled.
+PRJ-1203,FR03,S2 Housing Diversity,NSW,P31,Affordable,Availability payment,171,47784862,Contracted,Active,Works on schedule and next milestone expected as planned.
+PRJ-1204,FR03,S5 Release 1,QLD,P17,Affordable,Availability payment,31,10117133,Pipeline,Active,contract negotiations extended due to outstanding information requests. site visit scheduled.
+PRJ-1205,FR03,S3 States and Territories,VIC,P37,Social,Concessional loan,121,49324188,Pipeline,Active,Project progressing in line with baseline. No material isues to report. Next update due next month.
+PRJ-1206,FR03,S3 States and Territories,QLD,P43,Social,Availability payment,107,36670001,Approved,Active,Tender prices came in above budget and the partner is reviewing the funding gap. Development application assessment is taking longer than expected. Partner engaged with the investment manager.
+PRJ-1207,FR03,S2 Housing Diversity,QLD,P40,Social,Concessional loan,27,10160349,Approved,Active,Supply chain disruption to fittings and prefabricated components.
+PRJ-1208,FR03,S2 Housing Diversity,VIC,P01,Social,Concessional loan,14,3887975,Approved,Active,Works on schedul and next milestone expected as planned.
+PRJ-1209,FR03,S2 Housing Diversity,QLD,P36,Affordable,Grant,18,7423992,Contracted,Active,Approval pathway is taking longer than planned and revised dates are being confirmed. Site visit scheduled.
+PRJ-1210,FR03,S2 Housing Diversity,NSW,P04,Social,Grant,50,17173656,Pipeline,Active,awaiting final approval from the delegate and the contracting timeline has moved. site visit scheduled.
+PRJ-1211,FR03,S5 Release 1,QLD,P20,Social,Availability payment,39,10908508,Financial close,Active,Development application assessment is taking longer than expected. Site visit scheduled.
+PRJ-1212,FR03,S5 Release 1,VIC,P38,Social,Availability payment,169,49184367,Approved,Active,Contract negotiations extended due to outstanding information requests. Builder reports trade shortages affecting site progress. Next update due next month.
+PRJ-1213,FR03,S2 Housing Diversity,VIC,P01,Social,Availability payment,100,32467179,Under construction,Active,No variance to program. Partner reports steady progress. Partner engaged with the investment manager.
+PRJ-1214,FR03,S2 Housing Diversity,NSW,P03,Affordable,Concessional loan,38,16345238,Pipeline,Active,Delivery tracking to baseline and contractor engaged. Partner engaged with the investment manager.
+PRJ-1215,FR03,S5 Release 1,QLD,P25,Affordable,Availability payment,24,10673848,Contracted,Active,No variance to program. Partner reports steady progress. Site visit scheduled.
+PRJ-1216,FR03,S2 Housing Diversity,SA,P42,Social,Availability payment,197,53495852,Pipeline,Active,No variance to program. Partner reports steady progress.
+PRJ-1217,FR03,S3 States and Territories,WA,P19,Social,Concessional loan,84,26934714,Pipeline,Active,Rezoning and permit conditions have pushedback site establishment.
+PRJ-1218,FR03,S2 Housing Diversity,QLD,P38,Affordable,Grant,49,15293097,Pipeline,Active,Financial close is pending while cost increases and valuation are resolved.
+PRJ-1219,FR03,S3 States and Territories,NSW,P06,Social,Concessional loan,30,10292138,Financial close,Active,Awaiting final approval from the delegate and the contracting timline has moved. Development application assessment is taking longer than expected. Next update due next month.
+PRJ-1220,FR03,S2 Housing Diversity,QLD,P04,Social,Grant,28,10233427,Approved,Active,Contract negotiations extended due to outstanding information requests. Site visit scheduled.
+PRJ-1221,FR03,S2 Housing Diversity,NSW,P31,Social,Grant,74,29301320,Approved,Active,Project progressing in line with baseline. No material issues to report. Next update due next month.
+PRJ-1222,FR03,S2 Housing Diversity,WA,P22,Social,Availability payment,35,10311097,Pipeline,Active,Subcontractor capacity constraints are extending the build program. Site visit scheduled.
+PRJ-1223,FR03,S2 Housing Diversity,QLD,P37,Social,Availability payment,8,2430839,Withdrawn,Withdrawn,Works on schedule and next milestone expected as planned.
+PRJ-1224,FR03,S2 Housing Diversity,NSW,P17,Affordable,Availability payment,22,6705330,Approved,Active,No variance to program. Partner reports steady progress. Next update due next month.
+PRJ-1225,FR03,S2 Housing Diversity,SA,P10,Social,Availability payment,80,24132319,Pipeline,Active,Project progressing in line with baseline. No material issues to report. Next update due next month.
+PRJ-1226,FR03,S3 States and Territories,WA,P10,Social,Availability payment,96,26197913,Contracted,Active,Construction cost escalation is affecting viability and value engineering is underway. Next update due next month.
+PRJ-1227,FR03,S2 Housing Diversity,WA,P01,Affordable,Concessional loan,17,7368134,Contracted,Active,Works on schedule and next milestone expected as planned. Partner engaged with the investment manager.
+PRJ-1228,FR03,S2 Housing Diversity,VIC,P03,Social,Availability payment,32,14081882,Financial close,Active,Delivery tracking to baseline and contractor egaged.
+PRJ-1229,FR03,S2 Housing Diversity,VIC,P33,Affordable,Concessional loan,156,45799447,Approved,Active,Skilled labour availability has slowed framing and fit-out works. Partner engaged with the investment manager.
+PRJ-1230,FR03,S2 Housing Diversity,NSW,P22,Affordable,Concessional loan,28,12511383,Pipeline,Active,Staff turnover at the partner has delayed documentation ad financial close. Site visit scheduled.
+PRJ-1231,FR03,S3 States and Territories,QLD,P23,Social,Availability payment,244,65225211,Pipeline,Active,Limited internal capacity at the delivery partner and support has been requested.
+PRJ-1232,FR03,S3 States and Territories,QLD,P22,Social,Availability payment,201,77621261,Pipeline,Active,Project progressing in line with baseline. No material issues to report. Site visit scheduled.
+PRJ-1233,FR03,S2 Housing Diversity,QLD,P10,Affordable,Availability payment,63,21322008,Approved,Active,Project progressing in line with baseline. No material issues to report.
+PRJ-1234,FR03,S2 Housing Diversity,SA,P41,Affordable,Grant,80,24317250,Pipeline,Active,works on schedule and next milestone expected as planned.
+PRJ-1235,FR03,S2 Housing Diversity,SA,P42,Social,Grant,55,14986903,Pipeline,Active,Contract negotiations extended due to outstanding information requests. Next update due next month.
+PRJ-1236,FR03,S1 First Nations,WA,P37,Social,Concessional loan,29,8193167,Approved,Active,No variance to program. Partner reports steady progress. Site visit scheduled.
+PRJ-1237,FR03,S5 Release 1,VIC,P43,Affordable,Availability payment,47,12711506,Approved,Active,No variance to program. Partner reports steady progress. Next update due next month.
+PRJ-1238,FR03,S3 States and Territories,VIC,P19,Social,Availability payment,29,11270195,Approved,Active,Material delivery delays for steel and timber are affecting the program. Awaiting final approval from the delegate and the contracting timeline has moved. Partner engaged with the investment manager.
+PRJ-1239,FR03,S3 States and Territories,QLD,P38,Social,Concessional loan,86,26523284,Pipeline,Active,Freight and fuel cost impacts are delaying key deliveries.
+PRJ-1240,FR03,S5 Release 1,SA,P42,Affordable,Availability payment,153,45633855,Approved,Active,Development application assessment is taking longer than expected. Site visit scheduled.
+PRJ-1241,FR03,S5 Release 1,QLD,P09,Affordable,Availability payment,50,15291319,Pipeline,Active,Works on schedule and next milestone expected as planned. Next update due next month.
+PRJ-1242,FR03,S2 Housing Diversity,ACT,P28,Affordable,Concessional loan,136,34492804,Pipeline,Active,Subcontractor capacity constraints are extending the build program. Next update due next month.
+PRJ-1243,FR03,S2 Housing Diversity,NSW,P04,Affordable,Grant,45,11606236,Contracted,Active,Development application assessment is taking longer than expected. Partner engaged with the investment manager.
+PRJ-1244,FR03,S2 Housing Diversity,VIC,P13,Affordable,Availability payment,17,5550379,Pipeline,Active,Tender prices came in above budget and the partner is reviewing the funding gap.
+PRJ-1245,FR03,S2 Housing Diversity,NSW,P44,Affordable,Availability payment,126,52873897,Approved,Active,Contract negotiations extended due to outstanding information requests. Next update due next month.
+PRJ-1246,FR03,S2 Housing Diversity,NSW,P11,Social,Concessional loan,43,11354501,Financial close,Active,Works on schedule and next milestone expected as planned.
+PRJ-1247,FR03,S2 Housing Diversity,NSW,P34,Social,Grant,23,9755121,Pipeline,Active,builder reports trade shortages affecting site progress. next update due next month.
+PRJ-1248,FR03,S2 Housing Diversity,NSW,P11,Social,Grant,18,5517761,Pipeline,Active,Builder reports trade shortages affecting site progress. Next update due next month.
+PRJ-1249,FR03,S2 Housing Diversity,QLD,P03,Social,Grant,44,13739535,Contracted,Active,Financial close is pending while cost increases and valuation are resolved. Partner engaged with the investment manager.
+PRJ-1250,FR03,S2 Housing Diversity,VIC,P09,Affordable,Concessional loan,30,7859064,Pipeline,Active,Works on schedule and next milestone expected as planned.
+PRJ-1251,FR03,S5 Release 1,QLD,P37,Social,Grant,122,40827151,Pipeline,Active,No variance to program. Partner reports steady progress. Partner engaged with the investment manager.
+PRJ-1252,FR03,S5 Release 1,QLD,P44,Affordable,Concessional loan,42,17997834,Contracted,Active,Delivery tracking to baseline and contractor engaged. Next update due next month.
+PRJ-1253,FR03,S5 Release 1,QLD,P30,Affordable,Concessional loan,43,15464451,Contracted,Active,Delivery tracking to baseline and contractor engaged.
+PRJ-1254,FR03,S2 Housing Diversity,NSW,P30,Social,Availability payment,38,15099730,Contracted,Active,Tender prices came in above budget and the partner is reviewing the funding gap. Next update due next month.
+PRJ-1255,FR03,S5 Release 1,NT,P20,Affordable,Availability payment,33,10236005,Contracted,Active,No variance to program. Partner reports steady progress. Next update du next month.
+PRJ-1256,FR03,S5 Release 1,NSW,P45,Affordable,Concessional loan,8,3405784,Approved,Active,Development application assessment is taking longer than expected. Next update due next month.
+PRJ-1257,FR03,S1 First Nations,QLD,P16,Affordable,Concessional loan,27,7337167,Approved,Active,Rezoning and permit conditions have pushed back site establishment. Partner engaged with the nvestment manager.
+PRJ-1258,FR03,S2 Housing Diversity,QLD,P33,Social,Concessional loan,35,12129129,Approved,Active,No variance to program. Partner repors steady progress. Site visit scheduled.
+PRJ-1259,FR03,S5 Release 1,NSW,P32,Social,Availability payment,27,10176825,Pipeline,Active,No variance to program. Partner reports steady progress.
+PRJ-1260,FR03,S1 First Nations,QLD,P02,Social,Availability payment,41,12349902,Financial close,Active,Project progressing in line with baseline. No material issues to report. Next update due next month.
+PRJ-1261,FR03,S2 Housing Diversity,WA,P29,Social,Concessional loan,53,15567663,Approved,Active,Planning conditions are under review with council and start of works is deferred. Next update due next month.
+PRJ-1262,FR03,S5 Release 1,QLD,P10,Social,Concessional loan,14,4032365,Pipeline,Active,Staff turnover at the partner has delayed documentation and financial close. Site visit scheduled.
+PRJ-1263,FR03,S2 Housing Diversity,VIC,P09,Social,Availability payment,229,89534563,Pipeline,Active,Construction cost escalation is affecting viability and value engineering is underway. Rezoning and permit conditions have pushed back site establishment.
+PRJ-1264,FR03,S2 Housing Diversity,SA,P23,Affordable,Availability payment,25,7095512,Contracted,Active,Delivery tracking to baseline and contractor engaged. Next update due next month.
+PRJ-1265,FR03,S3 States and Territories,QLD,P07,Social,Concessional loan,70,19550664,Pipeline,Active,Awaiting final approval from the delegate and the contracting timeline has moved.
+PRJ-1266,FR03,S2 Housing Diversity,NSW,P18,Social,Availability payment,70,28819877,Approved,Active,delivery tracking to baseline and contractor engaged. site visit scheduled.
+PRJ-1267,FR03,S1 First Nations,WA,P03,Affordable,Availability payment,64,23090664,Approved,Active,Delivery tracking to baseline and contractor engaged.
+PRJ-1268,FR03,S1 First Nations,VIC,P16,Social,Grant,27,9307410,Pipeline,Active,No variance to program. Partner reports steady progress. Next update due next month.
+PRJ-1269,FR03,S2 Housing Diversity,VIC,P25,Affordable,Availability payment,30,11554782,Pipeline,Active,Builder reports trad shortages affecting site progress.
+PRJ-1270,FR03,S4 Partnerships at Scale,NSW,P20,Affordable,Grant,578,195243611,Approved,Active,Construction cost escalation is affecting viability and value engineering is underway.
+PRJ-1271,FR03,S5 Release 1,NSW,P35,Social,Grant,8,2399459,Financial close,Active,Planning conditions are under review with council and start of works is deferred. Builder reports trade shortages affecting site progress. Site visit scheduled.
+PRJ-1272,FR03,S5 Release 1,VIC,P04,Social,Concessional loan,55,22102944,Under construction,Active,Delivery tracking to baseline and contractor engaged.
+PRJ-1273,FR03,S2 Housing Diversity,NSW,P13,Affordable,Availability payment,57,16884974,Under construction,Active,No variance to program. Partner reports steady progress. Partner engaged with the investment manager.
+PRJ-1274,FR03,S4 Partnerships at Scale,WA,P36,Affordable,Availability payment,556,170627588,Pipeline,Active,Approval pathway is taking longer than planned and revised dates are being confirmed. Site visit scheduled.
+PRJ-1275,FR03,S2 Housing Diversity,SA,P28,Affordable,Concessional loan,110,42968902,Approved,Active,Works on schedule and next milestone expected as planned. Site visit scheduled.
+PRJ-1276,FR03,S2 Housing Diversity,QLD,P23,Social,Concessional loan,71,25713177,Under construction,Active,Project progressingin line with baseline. No material issues to report. Next update due next month.
+PRJ-1277,FR03,S2 Housing Diversity,QLD,P23,Affordable,Availability payment,25,10363862,Approved,Active,Works on schedule and next milestone expected as planned. Site visit scheduled.
+PRJ-1278,FR03,S2 Housing Diversity,SA,P16,Affordable,Grant,59,26164288,Pipeline,Active,Planning conditions are under review with council and start of works is deferred.
+PRJ-1279,FR03,S5 Release 1,NSW,P34,Affordable,Grant,119,41673114,Pipeline,Active,Limited internal capacity at the delivery partner and support has been requested. Site visit scheduled.
+PRJ-1280,FR03,S1 First Nations,VIC,P22,Affordable,Availability payment,40,14598828,Approved,Active,Delivery tracking to baseline and contractor engaged.
+PRJ-1281,FR03,S2 Housing Diversity,VIC,P35,Affordable,Availability payment,54,21928670,Approved,Active,Planning conditions are under review with council and start of works is deferred. Site visit scheduled.
+PRJ-1282,FR03,S5 Release 1,NSW,P26,Social,Availability payment,183,63772236,Approved,Active,Financial close is pending while cost increases and valuation are resolved. Site visit scheduled.
+PRJ-1283,FR03,S4 Partnerships at Scale,NSW,P41,Social,Grant,690,252241133,Withdrawn,Withdrawn,financial close is pending while cost increases and valuation are resolved. partner engaged with the investment manager.
+PRJ-1284,FR03,S1 First Nations,QLD,P27,Affordable,Concessional loan,66,29684600,Approved,Active,Project progressing in line with baseline. No material issues to report. Site visit scheduled.
+PRJ-1285,FR03,S2 Housing Diversity,NSW,P32,Social,Grant,69,26437482,Approved,Active,Works on schedule and next milestone expected as planned.
+PRJ-1286,FR03,S3 States and Territories,QLD,P16,Social,Grant,45,17058291,Approved,Active,Awaiting final approval from the delegate and the contracting timeline has moved. Next update due next month.
+PRJ-1287,FR03,S2 Housing Diversity,QLD,P04,Social,Availability payment,66,17412975,Pipeline,Active,No variance to program. Partner reports steady progress.
+PRJ-1288,FR03,S3 States and Territories,WA,P06,Social,Concessional loan,68,18667543,Approved,Active,Limited internal capacity at the delivery partner and support has been requested. Next update due next month.
+PRJ-1289,FR03,S2 Housing Diversity,NSW,P43,Social,Concessional loan,42,11799938,Approved,Active,Financial close is pending while cost increases and valuation are resolved. Next update due next month.
+PRJ-1290,FR03,S1 First Nations,QLD,P12,Social,Concessional loan,64,23240872,Pipeline,Active,Construction cost escalation is affecting viability and value engineering is underway.
+PRJ-1291,FR03,S2 Housing Diversity,QLD,P28,Social,Concessional loan,57,24631237,Pipeline,Active,Works on schedule and next milestone expected as planned. Next update due next month.
+PRJ-1292,FR03,S5 Release 1,NSW,P10,Affordable,Concessional loan,35,9207747,Pipeline,Active,Subcontractor capacity constraints are extending the build program. Material delivery delays for steel and timber are affecting the program.
+PRJ-1293,FR03,S2 Housing Diversity,NSW,P44,Social,Concessional loan,40,16493841,Pipeline,Active,Builder reports trade shortages affecting site progress. Freight and fuel cost impacts are delaying key deliveries.
+PRJ-1294,FR03,S2 Housing Diversity,QLD,P13,Affordable,Concessional loan,43,13421016,Pipeline,Active,Builder reports trade shortages affecting site progress. Staff turnover at the partner has delayed documentation and financial close. Partner engaged with the investment manager.
+PRJ-1295,FR03,S3 States and Territories,WA,P05,Social,Availability payment,76,24833319,Approved,Active,Works on schedule and next milestone expected as planned.
+PRJ-1296,FR03,S2 Housing Diversity,SA,P31,Social,Concessional loan,16,7053828,Pipeline,Active,Rezoning and permit conditions have pushed back ite establishment.
+PRJ-1297,FR03,S5 Release 1,VIC,P32,Social,Availability payment,71,19923255,Financial close,Active,Construction cost escalation is affecting viability and value engineering is underway.
+PRJ-1298,FR03,S3 States and Territories,VIC,P09,Social,Concessional loan,78,21820488,Contracted,Active,Subcontractor capacity constraints are extending the build program.
+PRJ-1299,FR03,S5 Release 1,NSW,P24,Affordable,Availability payment,85,27703006,Financial close,Active,Delivery tracking to baseline and contractor engaged. Site visit scheduled.
+PRJ-1300,FR03,S5 Release 1,WA,P02,Affordable,Concessional loan,67,18982137,Pipeline,Active,Construction cost escalation is affecting viability and value engineering is underway.
+PRJ-1301,FR03,S2 Housing Diversity,WA,P05,Affordable,Availability payment,30,8104174,Approved,Active,limited internal capacity at the delivery partner and support has been requested.
+PRJ-1302,FR03,S4 Partnerships at Scale,NSW,P19,Affordable,Availability payment,603,195452856,Pipeline,Active,Builder reports trade shortages affecting site progress.
+PRJ-1303,FR03,S2 Housing Diversity,VIC,P29,Social,Availability payment,57,25017731,Pipeline,Active,Staff turnover at the partner has delayed documentation and financial close. Next update due next month.
+PRJ-1304,FR03,S3 States and Territories,NSW,P01,Social,Concessional loan,57,15066231,Financial close,Active,Project progressing in line with baseline. No material issues to report.
+PRJ-1305,FR03,S2 Housing Diversity,WA,P20,Affordable,Concessional loan,28,9672313,Contracted,Active,Subcontractor capacity constraints are extending the build program.
+PRJ-1306,FR03,S2 Housing Diversity,QLD,P03,Social,Concessional loan,75,18976473,Contracted,Active,Limited internal capacity at the delivery partner and support has been requested. Site visit scheduled.
+PRJ-1307,FR03,S2 Housing Diversity,VIC,P33,Affordable,Grant,23,6720250,Pipeline,Active,Works on schedule and next milestone expected as planned. Partner engaged with the investment manager.
+PRJ-1308,FR03,S2 Housing Diversity,NT,P13,Affordable,Availability payment,77,33453100,Approved,Active,Delivery tracking to baseline and contractor engaged. Site visit scheduled.
+PRJ-1309,FR03,S3 States and Territories,ACT,P39,Social,Availability payment,11,4160669,Pipeline,Active,Partner resourcing constraints are slowing reporting and contract documentation.
+PRJ-1310,FR03,S5 Release 1,NSW,P45,Affordable,Availability payment,24,9120974,Pipeline,Active,Partner resourcing constraints are slowing reporting and contract documentation. Next update due next month.
+PRJ-1311,FR03,S5 Release 1,NSW,P07,Affordable,Availability payment,13,5441742,Pipeline,Active,project progressing in line with baseline. no material issues to report. partner engaged with the investment manager.
+PRJ-1312,FR03,S2 Housing Diversity,WA,P09,Affordable,Availability payment,45,17250777,Contracted,Active,planning conditions are under review with council and start of works is deferred.
+PRJ-1313,FR03,S1 First Nations,VIC,P22,Affordable,Grant,89,27760910,Approved,Active,Project progressing in line with baseline. No material issues to report. Site visit scheduled.
+PRJ-1314,FR03,S2 Housing Diversity,VIC,P27,Social,Grant,134,37465813,Pipeline,Active,Staff turnover at the partner has delayed documentation and financial close.
+PRJ-1315,FR03,S2 Housing Diversity,QLD,P18,Social,Grant,420,138587968,Approved,Active,Planning conditions are under review with council and start of works is deferred.
+PRJ-1316,FR03,S3 States and Territories,VIC,P12,Social,Concessional loan,61,23120385,Pipeline,Active,works on schedule and next milestone expected as planned.
+PRJ-1317,FR03,S5 Release 1,VIC,P05,Affordable,Concessional loan,71,27088726,Approved,Active,Development application assessment is taking longer than expected.
+PRJ-1318,FR03,S5 Release 1,TAS,P35,Affordable,Concessional loan,46,17250833,Approved,Active,Financial close is pending while cost increases and valuation are resolved. Next update due next month.
+PRJ-1319,FR03,S2 Housing Diversity,NSW,P15,Affordable,Availability payment,45,14962952,Pipeline,Active,Partner resourcing constraints are slowing reporting and contract documentation.
+PRJ-1320,FR03,S2 Housing Diversity,ACT,P24,Social,Grant,23,9313458,Approved,Active,Project progressing in line with baseline. No material issues to report.
+PRJ-1321,FR03,S5 Release 1,NSW,P35,Social,Concessional loan,54,21418213,Pipeline,Active,Rezoning and permit conditions have pushed back site establishment.
+PRJ-1322,FR03,S2 Housing Diversity,NT,P45,Affordable,Availability payment,48,21390048,Financial close,Active,Delivery tracking to baseline and contractor engaged.
+PRJ-1323,FR03,S5 Release 1,VIC,P13,Affordable,Availability payment,9,4037466,Contracted,Active,Financial close is pending while cost increases and valuation are resolved.
+PRJ-1324,FR03,S1 First Nations,ACT,P42,Affordable,Availability payment,75,19377393,Financial close,Active,Project progressing in line with baseline. No material issues to report. Site visit scheduled.
+PRJ-1325,FR03,S2 Housing Diversity,VIC,P41,Social,Grant,94,29318865,Financial close,Active,Rezoning and permit conditions have pushed back site establishment.
+PRJ-1326,FR03,S2 Housing Diversity,NSW,P32,Social,Grant,116,42126608,Pipeline,Active,Skilled labour availability has slowed framing and fit-out works.
+PRJ-1327,FR03,S5 Release 1,NT,P16,Social,Grant,19,5346347,Approved,Active,Delivery tracking to baseline and contractor engaged. Site visit scheduled.
+PRJ-1328,FR03,S2 Housing Diversity,ACT,P38,Social,Availability payment,33,9200838,Contracted,Active,Project progressing in line with baseline. No material issues to report. Site visit scheduled.
+PRJ-1329,FR03,S3 States and Territories,WA,P05,Social,Grant,198,65365738,Approved,Active,Delivery tracking to baseline and contractor engaged.
+PRJ-1330,FR03,S2 Housing Diversity,VIC,P26,Affordable,Concessional loan,64,20663231,Approved,Active,Subcontractor capacity constraints are extending the build program.
+PRJ-1331,FR03,S5 Release 1,NSW,P03,Social,Concessional loan,118,44656607,Approved,Active,Contract negotiations extended due to outstanding information requests. Partner engaged with the investment manager.
+PRJ-1332,FR03,S3 States and Territories,NSW,P31,Social,Grant,90,28541212,Pipeline,Active,project progressing in line with baseline. no material issues to report.
+PRJ-1333,FR03,S5 Release 1,NSW,P38,Affordable,Grant,138,55709399,Approved,Active,Supply chain disruption to fittings and prefabricated components. Site visit scheduled.
+PRJ-1334,FR03,S2 Housing Diversity,QLD,P33,Affordable,Availability payment,85,23400758,Contracted,Active,Staff turnover at the partner has delayed documentation and financial close. Partner engaged with the investment manager.
+PRJ-1335,FR03,S2 Housing Diversity,VIC,P26,Affordable,Availability payment,38,16552238,Approved,Active,Partner resourcing constraints are slowing reporting and contract documentation. Builder reports trade shortages affecting site progress. Site visit scheduled.
+PRJ-1336,FR03,S3 States and Territories,NSW,P31,Social,Availability payment,9,3942016,Pipeline,Active,Rezoningand permit conditions have pushed back site establishment. Financial close is pending while cost increases and valuation are resolved. Site visit scheduled.
+PRJ-1337,FR03,S2 Housing Diversity,NSW,P13,Social,Availability payment,143,51561543,Pipeline,Active,Subcontractor capacity constraints are extending the build program.
+PRJ-1338,FR03,S3 States and Territories,VIC,P07,Social,Availability payment,37,13114378,Pipeline,Active,Delivery tracking to baseline and contractor engaged. Partner engaged with the investment manager.
+PRJ-1339,FR03,S1 First Nations,QLD,P25,Affordable,Concessional loan,111,30243585,Pipeline,Active,Project progressing in line with baseline. No material issues to report. Next update due next month.
+PRJ-1340,FR03,S2 Housing Diversity,VIC,P27,Affordable,Availability payment,37,15670370,Withdrawn,Withdrawn,Tender prices came in above budget and the partner is reviewing the funding gap. Partner engaged with the investment manager.
+PRJ-1341,FR03,S2 Housing Diversity,NSW,P18,Affordable,Grant,31,8886925,Pipeline,Active,Construction cost escalation is affecting viability and value engineering is underway. Rezoning and permit conditions have pushed back site establishment. Next update due next month.
+PRJ-1342,FR03,S4 Partnerships at Scale,VIC,P43,Social,Concessional loan,642,189299474,Pipeline,Active,Works on schedule and nextmilestone expected as planned. Partner engaged with the investment manager.
+PRJ-1343,FR03,S5 Release 1,SA,P22,Affordable,Concessional loan,16,6944969,Pipeline,Active,Project progressing in line with baseline. No material issues to report. Site visit scheduled.
+PRJ-1344,FR03,S2 Housing Diversity,QLD,P11,Affordable,Concessional loan,66,22872220,Pipeline,Active,Planning conditions are under review with council and start of works is deferred. Partner resourcing constraints are slowing reporting and contract documentation.
+PRJ-1345,FR03,S2 Housing Diversity,WA,P42,Social,Availability payment,29,10838774,Pipeline,Active,Planning conditions are under review with council and start of works is deferred. Partner engaged with the investment manager.
+PRJ-1346,FR03,S5 Release 1,VIC,P36,Social,Availability payment,17,5443941,Under construction,Active,Project progressing in line with baseline. No material issues to report. Partner engaged with the investment manager.
+PRJ-1347,FR03,S2 Housing Diversity,NSW,P02,Affordable,Concessional loan,69,23672938,Pipeline,Active,Project progressing in line with baseline. No material issues to report. Site visit scheduled.
+PRJ-1348,FR03,S2 Housing Diversity,VIC,P39,Social,Availability payment,129,35775077,Pipeline,Active,No variance to program. Partner reports steady progress.
+PRJ-1349,FR03,S5 Release 1,NSW,P32,Affordable,Concessional loan,92,39273735,Pipeline,Active,Works on schedule and next milestone expected as planned. Partner engaged with the investment manager.
+PRJ-1350,FR03,S5 Release 1,QLD,P26,Affordable,Availability payment,57,17127514,Contracted,Active,Rezoning and permit conditions have pushed back site establishment. Next update due next month.
+PRJ-1351,FR03,S5 Release 1,NSW,P27,Affordable,Availability payment,99,39060660,Contracted,Active,rezoning and permit conditions have pushed back site establishment. site visit scheduled.
+PRJ-1352,FR03,S5 Release 1,ACT,P10,Affordable,Availability payment,104,34685284,Contracted,Active,Construction cost escalation is affecting viability and value engineering is underway.
+PRJ-1353,FR03,S5 Release 1,WA,P14,Social,Grant,19,7317041,Pipeline,Active,Contract negotiations extended due to outstanding information requests. Site visit scheduled.
+PRJ-1354,FR03,S2 Housing Diversity,SA,P18,Social,Concessional loan,44,18489899,Pipeline,Active,Works on schedule and next milestone expected as planned. Next update due next month.
+PRJ-1355,FR03,S2 Housing Diversity,WA,P31,Affordable,Grant,41,14775295,Approved,Active,Construction cost escalation is affecting viability and value engineering is underway. Next update due next month.
+PRJ-1356,FR03,S1 First Nations,VIC,P30,Social,Grant,22,9674608,Contracted,Active,development application assessment is taking longer than expected.
+PRJ-1357,FR03,S2 Housing Diversity,VIC,P15,Social,Concessional loan,37,13052276,Contracted,Active,Planning conditions are under review with council and start of works is deferred.
+PRJ-1358,FR03,S2 Housing Diversity,NSW,P01,Affordable,Grant,27,10228543,Pipeline,Active,Project progressing in line with baseline. No material issues to report.
+PRJ-1359,FR03,S3 States and Territories,WA,P22,Social,Availability payment,35,14695100,Pipeline,Active,Works on schedule and next milestone expected as planned. Next update due next month.
+PRJ-1360,FR03,S3 States and Territories,VIC,P04,Social,Availability payment,95,23776644,Contracted,Active,Development application assessment is taking longer than expected. Site visit scheduled.
+PRJ-1361,FR03,S2 Housing Diversity,VIC,P35,Affordable,Concessional loan,101,32787183,Pipeline,Active,Works on schedule and next milestone expected as planned.
+PRJ-1362,FR03,S2 Housing Diversity,NSW,P41,Social,Availability payment,152,47106289,Approved,Active,Project progresing in line with baseline. No material issues to report.
+PRJ-1363,FR03,S2 Housing Diversity,VIC,P44,Affordable,Availability payment,15,5678518,Approved,Active,Delivery tracking to baseline an contractor engaged. Partner engaged with the investment manager.
+PRJ-1364,FR03,S5 Release 1,QLD,P41,Social,Availability payment,56,17036200,Contracted,Active,Staff turnover at the partner has delayed documentation and financial close.
+PRJ-1365,FR03,S2 Housing Diversity,QLD,P41,Affordable,Grant,50,17369868,Pipeline,Active,Builder reports trade shortages affecting site progress. Next update due next month.
+PRJ-1366,FR03,S2 Housing Diversity,NSW,P20,Affordable,Grant,40,14688492,Financial close,Active,Project progressing in line with baseline. No material issues to report. Partner engaged with the investment manager.
+PRJ-1367,FR03,S2 Housing Diversity,WA,P14,Social,Concessional loan,51,19306235,Pipeline,Active,Works on schedule and next milestone expected as planned.
+PRJ-1368,FR03,S5 Release 1,NSW,P16,Social,Grant,24,6997815,Financial close,Active,Works on schedule and next milestone expected as planned.
+PRJ-1369,FR03,S5 Release 1,NSW,P20,Social,Concessional loan,39,15364676,Pipeline,Active,Delivery tracking to baseline and contractor engaged. Next update due next month.
+PRJ-1370,FR03,S2 Housing Diversity,QLD,P36,Social,Availability payment,83,27766991,Approved,Active,works on schedule and next milestone expected as planned. site visit scheduled.
+PRJ-1371,FR03,S2 Housing Diversity,QLD,P33,Social,Availability payment,65,19407074,Approved,Active,Delivery tracking to baseline and contractor engaged.
+PRJ-1372,FR03,S2 Housing Diversity,WA,P12,Affordable,Concessional loan,48,18577967,Approved,Active,Supply chain disruption to fittings and prefabricated components.
+PRJ-1373,FR03,S2 Housing Diversity,NSW,P23,Social,Concessional loan,42,11990604,Approved,Active,Works on schedule and next milestone expected as planned. Site visit scheduled.
+PRJ-1374,FR03,S2 Housing Diversity,WA,P33,Affordable,Availability payment,35,12218663,Approved,Active,Development application assessment is taking longer than expected.
+PRJ-1375,FR03,S2 Housing Diversity,VIC,P37,Social,Availability payment,82,36793002,Approved,Active,Works on schedule and next milestone expected as planned. Next update due next month.
+PRJ-1376,FR03,S1 First Nations,ACT,P35,Affordable,Concessional loan,27,7721769,Contracted,Active,Construction cost escalation is affecting viability and value engineering is underway. Next update due next month.
+PRJ-1377,FR03,S5 Release 1,SA,P37,Social,Availability payment,67,18334374,Contracted,Active,Partner resourcing constraints are slowing reporting and contract documentation. Skilled labour availability has slowed framing and fit-out works. Next update due next month.
+PRJ-1378,FR03,S1 First Nations,VIC,P02,Social,Grant,58,26088644,Approved,Active,no variance to program. partner reports steady progress. site visit scheduled.
+PRJ-1379,FR03,S1 First Nations,NSW,P44,Affordable,Availability payment,46,19892912,Under construction,Active,No variance to program. Partner reports steady progress.
+PRJ-1380,FR03,S4 Partnerships at Scale,NSW,P25,Affordable,Concessional loan,644,180451605,Pipeline,Active,Works on schedule and next milestone expected as planned. Partner engaged with the investment manager.
+PRJ-1381,FR03,S1 First Nations,NSW,P26,Social,Concessional loan,48,20232337,Approved,Active,Contract negotiations extended due to outstanding information requests. Partner engaged with the investment manager.
+PRJ-1382,FR03,S2 Housing Diversity,NSW,P18,Affordable,Availability payment,78,33336662,Approved,Active,Freight and fuel cost impacts are delaying key deliveries. Partner engaged with the investment manager.
+PRJ-1383,FR03,S2 Housing Diversity,VIC,P35,Affordable,Grant,24,8063677,Approved,Active,Approval pathway is taking longer than planned and revised dates are being confirmed. Partner engaged with the investment manager.
+PRJ-1384,FR03,S1 First Nations,VIC,P14,Affordable,Availability payment,45,18419756,Pipeline,Active,Delivery tracking to baseline and contractor engaged. Partner engaged with the investment manager.
+PRJ-1385,FR03,S1 First Nations,VIC,P36,Social,Availability payment,28,8089360,Pipeline,Active,Supply chain disruption to fittings and prefabricated components. Next update due next month.
+PRJ-1386,FR03,S5 Release 1,NSW,P30,Social,Availability payment,76,20010812,Pipeline,Active,Works on schedule and next milestone expected as planned.
+PRJ-1387,FR03,S3 States and Territories,WA,P10,Social,Concessional loan,50,22227475,Approved,Active,No variance to program. Partner reports steady progress. Next update due next month.
+PRJ-1388,FR03,S5 Release 1,NSW,P33,Affordable,Availability payment,29,12897768,Pipeline,Active,Project progressing in line with baseline. No material issues to report. Partner engaged with the investment manager.
+PRJ-1389,FR03,S2 Housing Diversity,QLD,P43,Affordable,Availability payment,27,9014725,Contracted,Active,Staff turnover at the partner has delayed documentation and financial close.
+PRJ-1390,FR03,S3 States and Territories,VIC,P16,Social,Availability payment,25,10825417,Approved,Active,Rezoning and permit conditions have pushed back site establishment. Partner engaged with the investment manager.
+PRJ-1391,FR03,S5 Release 1,QLD,P34,Affordable,Concessional loan,28,10998172,Approved,Active,Approval pathway is taking longer than planned and revised dates are being confirmed. Site visit scheduled.
+PRJ-1392,FR03,S2 Housing Diversity,SA,P07,Affordable,Concessional loan,26,6523720,Contracted,Active,No variance to program. Partner reports steady progress. Site visit scheduled.
+PRJ-1393,FR03,S5 Release 1,QLD,P36,Social,Concessional loan,420,115924662,Under construction,Active,Project progressing in line with baseline. No material issues to report.
+PRJ-1394,FR03,S2 Housing Diversity,VIC,P05,Affordable,Availability payment,102,36141221,Approved,Active,Partner resourcing constraints are slowing reporting and contract documentation.
+PRJ-1395,FR03,S2 Housing Diversity,NSW,P16,Affordable,Grant,96,30379384,Approved,Active,Works on schedule and next milestone expected as planned.
+PRJ-1396,FR03,S2 Housing Diversity,VIC,P30,Social,Availability payment,31,13404590,Pipeline,Active,No variance to program. Partner reports steady progress. Partner engaged with the investment manager.
+PRJ-1397,FR03,S5 Release 1,NSW,P05,Social,Concessional loan,73,25822418,Approved,Active,Works on schedule and next milestone expected as planned.
+PRJ-1398,FR03,S2 Housing Diversity,NSW,P17,Affordable,Concessional loan,31,8789965,Pipeline,Active,No variance to program. Partner reports steady progress. Partner engaged with the investment manager.
+PRJ-1399,FR03,S5 Release 1,VIC,P19,Affordable,Concessional loan,28,11042790,Approved,Active,No variance to program. Partner reports steady progress. Site visit scheduled.
+PRJ-1400,FR03,S2 Housing Diversity,NSW,P25,Affordable,Grant,150,66866963,Approved,Active,Contract negotiations extended due to outstanding information requests.
+PRJ-1401,FR03,S4 Partnerships at Scale,NT,P12,Affordable,Availability payment,559,245337385,Contracted,Active,Approval pathway is taking longer than planned and revised dates are being confirmed.
+PRJ-1402,FR03,S2 Housing Diversity,NSW,P28,Social,Availability payment,44,19744209,Financial close,Active,Partner resourcing constraints are slowing reporting and contract documentation. Approval pathway is taking longer than planned and revised dates are being confirmed.
+PRJ-1403,FR03,S3 States and Territories,QLD,P21,Social,Concessional loan,65,18422673,Approved,Active,contract negotiations extended due to outstanding information requests. site visit scheduled.
+PRJ-1404,FR03,S2 Housing Diversity,QLD,P05,Affordable,Availability payment,47,18184417,Contracted,Active,Limited internal capacity at the delivery partner and support has been requested.
+PRJ-1405,FR03,S2 Housing Diversity,SA,P16,Social,Availability payment,69,30842733,Pipeline,Active,No variance to program. Partner reports steady progress.
+PRJ-1406,FR03,S2 Housing Diversity,NSW,P45,Social,Availability payment,39,13609040,Pipeline,Active,Builder reports trade shortages affecting site progress. Next update due next month.
+PRJ-1407,FR03,S2 Housing Diversity,WA,P22,Social,Concessional loan,20,7880541,Pipeline,Active,No variance to program. Partner reports steady progress. Partner engaged with the investment manager.
+PRJ-1408,FR03,S5 Release 1,ACT,P22,Social,Concessional loan,49,12627565,Pipeline,Active,Delivery tracking to baseline and contractor engaged. Site visit scheduled.
+PRJ-1409,FR03,S2 Housing Diversity,QLD,P38,Social,Grant,33,11958636,Approved,Active,Contract negotiations extended due to outstanding information requests. Site visit scheduled.
+PRJ-1410,FR03,S4 Partnerships at Scale,VIC,P04,Affordable,Concessional loan,641,180424666,Contracted,Active,Subcontractor capacity constraintsare extending the build program.
+PRJ-1411,FR03,S2 Housing Diversity,VIC,P20,Social,Concessional loan,48,12132987,Approved,Active,Delivery tracking to baseline and contractor engaged. Next update due next month.
+PRJ-1412,FR03,S3 States and Territories,QLD,P15,Social,Availability payment,55,20333000,Pipeline,Active,No variance to program. Partner reports steady progress. Next update due next month.
+PRJ-1413,FR03,S2 Housing Diversity,VIC,P31,Social,Grant,126,50675474,Approved,Active,Project progressing in line with baseline. No material issues to report.
+PRJ-1414,FR03,S2 Housing Diversity,NSW,P06,Social,Grant,119,50879227,Pipeline,Active,Material delivery delays for steel and timber are affecting the program.
+PRJ-1415,FR03,S2 Housing Diversity,QLD,P38,Affordable,Availability payment,45,18789652,Contracted,Active,Financial close is pending while cost increases and valuation are resolved. Partner engaged with the investment manager.
+PRJ-1416,FR03,S2 Housing Diversity,QLD,P45,Affordable,Availability payment,54,15805401,Approved,Active,No variance to program. Partner reports steady progress.
+PRJ-1417,FR03,S5 Release 1,VIC,P40,Social,Concessional loan,93,36290740,Financial close,Active,Financial close is pending while cost increases and valuation are resolved. Next update due next month.
+PRJ-1418,FR03,S2 Housing Diversity,QLD,P34,Affordable,Availability payment,71,21180451,Pipeline,Active,Works on schedule and next milestone expected as planned. Partner engaged with the investment manager.
+PRJ-1419,FR03,S3 States and Territories,QLD,P18,Social,Availability payment,42,13608298,Pipeline,Active,Works on schedule and next milestone expected as planned. Next update due next month.
+PRJ-1420,FR03,S5 Release 1,NSW,P42,Social,Availability payment,26,10375546,Pipeline,Active,No variance to program. Partner reports steady progress.

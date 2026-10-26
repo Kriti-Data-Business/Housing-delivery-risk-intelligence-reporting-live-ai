@@ -1,0 +1,58 @@
+project_id,rule_id,rule_name,severity,detail
+PRJ-1001,R01,Forecast completion precedes construction start,High,Forecast 2025-06-27 is before start 2025-07-27
+PRJ-1013,R01,Forecast completion precedes construction start,High,Forecast 2025-10-21 is before start 2025-11-20
+PRJ-1055,R01,Forecast completion precedes construction start,High,Forecast 2025-08-20 is before start 2025-09-19
+PRJ-1060,R01,Forecast completion precedes construction start,High,Forecast 2025-04-08 is before start 2025-05-08
+PRJ-1072,R01,Forecast completion precedes construction start,High,Forecast 2025-12-06 is before start 2026-01-05
+PRJ-1097,R01,Forecast completion precedes construction start,High,Forecast 2026-01-26 is before start 2026-02-25
+PRJ-1019,R02,Active project has no forecast completion date,High,Stage Under construction with no forecast
+PRJ-1101,R02,Active project has no forecast completion date,High,Stage Under construction with no forecast
+PRJ-1124,R02,Active project has no forecast completion date,High,Stage Pipeline with no forecast
+PRJ-1142,R02,Active project has no forecast completion date,High,Stage Contracted with no forecast
+PRJ-1187,R02,Active project has no forecast completion date,High,Stage Under construction with no forecast
+PRJ-1197,R02,Active project has no forecast completion date,High,Stage Financial close with no forecast
+PRJ-1273,R02,Active project has no forecast completion date,High,Stage Under construction with no forecast
+PRJ-1289,R02,Active project has no forecast completion date,High,Stage Approved with no forecast
+PRJ-1311,R02,Active project has no forecast completion date,High,Stage Pipeline with no forecast
+PRJ-1331,R02,Active project has no forecast completion date,High,Stage Approved with no forecast
+PRJ-1356,R02,Active project has no forecast completion date,High,Stage Contracted with no forecast
+PRJ-1396,R02,Active project has no forecast completion date,High,Stage Pipeline with no forecast
+PRJ-1398,R02,Active project has no forecast completion date,High,Stage Pipeline with no forecast
+PRJ-1402,R02,Active project has no forecast completion date,High,Stage Financial close with no forecast
+PRJ-1028,R03,Update is stale (over 60 days),Medium,Last update 70 days ago
+PRJ-1129,R03,Update is stale (over 60 days),Medium,Last update 81 days ago
+PRJ-1190,R03,Update is stale (over 60 days),Medium,Last update 141 days ago
+PRJ-1200,R03,Update is stale (over 60 days),Medium,Last update 124 days ago
+PRJ-1207,R03,Update is stale (over 60 days),Medium,Last update 74 days ago
+PRJ-1213,R03,Update is stale (over 60 days),Medium,Last update 85 days ago
+PRJ-1243,R03,Update is stale (over 60 days),Medium,Last update 119 days ago
+PRJ-1272,R03,Update is stale (over 60 days),Medium,Last update 118 days ago
+PRJ-1281,R03,Update is stale (over 60 days),Medium,Last update 110 days ago
+PRJ-1284,R03,Update is stale (over 60 days),Medium,Last update 148 days ago
+PRJ-1288,R03,Update is stale (over 60 days),Medium,Last update 76 days ago
+PRJ-1374,R03,Update is stale (over 60 days),Medium,Last update 100 days ago
+PRJ-1411,R03,Update is stale (over 60 days),Medium,Last update 76 days ago
+PRJ-1005,R04,Reported dwellings differ from funding agreement,Medium,Reported 58 vs agreement 66
+PRJ-1018,R04,Reported dwellings differ from funding agreement,Medium,Reported 56 vs agreement 51
+PRJ-1061,R04,Reported dwellings differ from funding agreement,Medium,Reported 18 vs agreement 21
+PRJ-1085,R04,Reported dwellings differ from funding agreement,Medium,Reported 70 vs agreement 79
+PRJ-1097,R04,Reported dwellings differ from funding agreement,Medium,Reported 50 vs agreement 45
+PRJ-1119,R04,Reported dwellings differ from funding agreement,Medium,Reported 40 vs agreement 36
+PRJ-1164,R04,Reported dwellings differ from funding agreement,Medium,Reported 171 vs agreement 153
+PRJ-1209,R04,Reported dwellings differ from funding agreement,Medium,Reported 16 vs agreement 18
+PRJ-1231,R04,Reported dwellings differ from funding agreement,Medium,Reported 268 vs agreement 244
+PRJ-1335,R04,Reported dwellings differ from funding agreement,Medium,Reported 33 vs agreement 38
+PRJ-1368,R04,Reported dwellings differ from funding agreement,Medium,Reported 22 vs agreement 24
+PRJ-1419,R04,Reported dwellings differ from funding agreement,Medium,Reported 38 vs agreement 42
+PRJ-1124,R05,Completion recorded without a construction start,High,Actual completion 2026-09-10 but no start date
+PRJ-1163,R05,Completion recorded without a construction start,High,Actual completion 2026-09-10 but no start date
+PRJ-1191,R05,Completion recorded without a construction start,High,Actual completion 2026-09-10 but no start date
+PRJ-1271,R05,Completion recorded without a construction start,High,Actual completion 2026-09-10 but no start date
+PRJ-1359,R05,Completion recorded without a construction start,High,Actual completion 2026-09-10 but no start date
+PRJ-1381,R05,Completion recorded without a construction start,High,Actual completion 2026-09-10 but no start date
+PRJ-1060,R06,Duplicate submissions resolved (latest kept),Info,2 submissions received
+PRJ-1220,R06,Duplicate submissions resolved (latest kept),Info,2 submissions received
+PRJ-1267,R06,Duplicate submissions resolved (latest kept),Info,2 submissions received
+PRJ-1283,R06,Duplicate submissions resolved (latest kept),Info,2 submissions received
+PRJ-1355,R06,Duplicate submissions resolved (latest kept),Info,2 submissions received
+PRJ-1414,R06,Duplicate submissions resolved (latest kept),Info,2 submissions received

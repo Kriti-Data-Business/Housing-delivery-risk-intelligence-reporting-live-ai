@@ -1,0 +1,49 @@
+// Power BI semantic model measures for Housing Delivery Risk Intelligence.
+// STATUS: written against the gold star schema in outputs/gold. NOT yet tested in Power BI Desktop.
+// Model: dim_project (1) -> fact_project_snapshot (1:1 on project_id), dim_project (1) -> fact_milestone (*),
+//        dim_partner (1) -> dim_project (*). Add a Date table and relate it to fact_milestone[baseline_date].
+// Tables risk_scores and ai_review_queue load from outputs/project_risk.csv and outputs/ai_review_queue.csv.
+
+Planned Dwellings = SUM ( fact_project_snapshot[dwellings] )
+
+Target Dwellings = [Planned Dwellings] * 0.9   // illustrative target, set as a parameter in production
+
+Active Projects =
+CALCULATE ( DISTINCTCOUNT ( fact_project_snapshot[project_id] ), fact_project_snapshot[stage] <> "Completed" )
+
+Avg Completion Slip Days =
+AVERAGEX ( FILTER ( fact_project_snapshot, NOT ISBLANK ( fact_project_snapshot[completion_slip_days] ) ),
+           fact_project_snapshot[completion_slip_days] )
+
+Projects Over 90d Slip =
+CALCULATE ( DISTINCTCOUNT ( fact_project_snapshot[project_id] ), fact_project_snapshot[completion_slip_days] > 90 )
+
+Overdue Milestones =
+CALCULATE ( COUNTROWS ( fact_milestone ), fact_milestone[overdue_days] > 0 )
+
+Dwellings At Risk = SUM ( risk_scores[dwellings_at_risk] )
+
+Red Projects = CALCULATE ( DISTINCTCOUNT ( risk_scores[project_id] ), risk_scores[rag] = "Red" )
+
+Avg Risk Score =
+AVERAGEX ( FILTER ( risk_scores, risk_scores[rag] <> "Complete" ), risk_scores[risk_score] )
+
+DQ High Severity Projects =
+CALCULATE ( DISTINCTCOUNT ( fact_project_snapshot[project_id] ), fact_project_snapshot[dq_high] > 0 )
+
+DQ Clean Rate =
+DIVIDE ( CALCULATE ( DISTINCTCOUNT ( fact_project_snapshot[project_id] ), fact_project_snapshot[dq_flags] = 0 ),
+         DISTINCTCOUNT ( fact_project_snapshot[project_id] ) )
+
+Stale Update Rate =
+DIVIDE ( CALCULATE ( DISTINCTCOUNT ( fact_project_snapshot[project_id] ), fact_project_snapshot[days_since_update] > 60 ),
+         DISTINCTCOUNT ( fact_project_snapshot[project_id] ) )
+
+AI Auto Accept Share =
+DIVIDE ( CALCULATE ( COUNTROWS ( ai_review_queue ), ai_review_queue[route] = "auto_accept" ), COUNTROWS ( ai_review_queue ) )
+
+AI Narrative Mismatches =
+CALCULATE ( COUNTROWS ( ai_review_queue ), ai_review_queue[mismatch_flag] = TRUE () )
+
+// Row level security: filter dim_partner or dim_project by state for state delivery teams.
+// Role "State team": [state] = USERPRINCIPALNAME() lookup via a security table. Test with View as.

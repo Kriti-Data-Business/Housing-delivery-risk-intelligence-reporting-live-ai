@@ -1,0 +1,60 @@
+{
+  "run_at": "2026-10-26T17:48:26+00:00",
+  "as_at": "2026-09-30",
+  "steps": [
+    {
+      "layer": "bronze",
+      "rows": 426
+    }
+  ],
+  "reconciliation": {
+    "bronze_rows": 426,
+    "silver_rows": 420,
+    "duplicates_resolved": 6,
+    "checks": {
+      "silver rows equal distinct bronze projects": true,
+      "no duplicate project_id in silver": true,
+      "dwellings tie out (bronze latest vs silver)": true,
+      "gold snapshot excludes only withdrawn": true,
+      "every milestone row has a project": true
+    }
+  },
+  "dq_summary": [
+    {
+      "rule_id": "R01",
+      "rule_name": "Forecast completion precedes construction start",
+      "severity": "High",
+      "projects": 6
+    },
+    {
+      "rule_id": "R02",
+      "rule_name": "Active project has no forecast completion date",
+      "severity": "High",
+      "projects": 14
+    },
+    {
+      "rule_id": "R03",
+      "rule_name": "Update is stale (over 60 days)",
+      "severity": "Medium",
+      "projects": 13
+    },
+    {
+      "rule_id": "R04",
+      "rule_name": "Reported dwellings differ from funding agreement",
+      "severity": "Medium",
+      "projects": 12
+    },
+    {
+      "rule_id": "R05",
+      "rule_name": "Completion recorded without a construction start",
+      "severity": "High",
+      "projects": 6
+    },
+    {
+      "rule_id": "R06",
+      "rule_name": "Duplicate submissions resolved (latest kept)",
+      "severity": "Info",
+      "projects": 6
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+rule_id,rule_name,severity,projects
+R01,Forecast completion precedes construction start,High,6
+R02,Active project has no forecast completion date,High,14
+R03,Update is stale (over 60 days),Medium,13
+R04,Reported dwellings differ from funding agreement,Medium,12
+R05,Completion recorded without a construction start,High,6
+R06,Duplicate submissions resolved (latest kept),Info,6
