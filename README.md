@@ -13,7 +13,7 @@ python -m pytest -q tests
 ```
 Outputs land in `outputs/`.
 
-![Uploading image.png…]()
+<img width="952" height="743" alt="image" src="https://github.com/user-attachments/assets/0d6540f1-0084-4c99-a9fb-892c974b1220" />
 
 
 ## Layout
