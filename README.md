@@ -13,6 +13,9 @@ python -m pytest -q tests
 ```
 Outputs land in `outputs/`.
 
+![Uploading image.png…]()
+
+
 ## Layout
 - `src/` generator, pipeline, forecast, AI module
 - `sql/` silver, gold, views
