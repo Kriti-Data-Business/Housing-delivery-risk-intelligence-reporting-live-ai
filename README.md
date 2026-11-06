@@ -23,7 +23,7 @@ A three-page, Power BI-style report built as one standalone HTML file with no de
 - **Risk exposure:** projects ranked by dwellings at risk rather than risk score, with cross-filtering by rating, stage and funding stream.
 - **AI assurance:** confidence routing of partner commentary, the narrative-versus-data check, and the analyst review queue.
 
-Open the live report: https://kriti-data-business.github.io/Housing-delivery-risk-intelligence-reporting-live-ai/
+Open the live report: https://kriti-data-business.github.io/portfolio-data-science/housing-delivery-risk-report/
 Or open `docs/index.html` in any browser. Rebuild it with `python report/build.py`.
 
 ![Delivery outlook](docs/img/report_1_delivery_outlook.png)
