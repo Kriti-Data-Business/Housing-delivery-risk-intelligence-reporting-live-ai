@@ -1,0 +1,411 @@
+project_id,round,stream,state,partner_id,stage,dwellings_agreement,completion_slip_days,max_overdue_days,dq_flags,risk_score,rag,p_on_time,dwellings_at_risk
+PRJ-1401,FR03,S4 Partnerships at Scale,NT,P12,Contracted,559,36.0,46,0,26.2,Green,0.53,262.7
+PRJ-1148,FR03,S4 Partnerships at Scale,QLD,P39,Pipeline,540,74.0,2,0,35.1,Amber,0.531,253.3
+PRJ-1342,FR03,S4 Partnerships at Scale,VIC,P43,Pipeline,642,20.0,0,0,18.9,Green,0.611,249.7
+PRJ-1380,FR03,S4 Partnerships at Scale,NSW,P25,Pipeline,644,18.0,0,0,15.3,Green,0.614,248.6
+PRJ-1302,FR03,S4 Partnerships at Scale,NSW,P19,Pipeline,603,89.0,0,0,31.1,Amber,0.61,235.2
+PRJ-1274,FR03,S4 Partnerships at Scale,WA,P36,Pipeline,556,50.0,0,0,22.4,Green,0.606,219.1
+PRJ-1156,FR03,S2 Housing Diversity,VIC,P21,Pipeline,256,56.0,0,0,35.0,Amber,0.61,99.8
+PRJ-1231,FR03,S3 States and Territories,QLD,P23,Pipeline,244,119.0,0,1,46.0,Red,0.605,96.4
+PRJ-1263,FR03,S2 Housing Diversity,VIC,P09,Pipeline,229,54.0,0,0,29.1,Green,0.619,87.2
+PRJ-1232,FR03,S3 States and Territories,QLD,P22,Pipeline,201,29.0,0,0,22.2,Green,0.591,82.2
+PRJ-1216,FR03,S2 Housing Diversity,SA,P42,Pipeline,197,7.0,0,0,11.6,Green,0.604,78.0
+PRJ-1167,FR03,S2 Housing Diversity,NSW,P18,Pipeline,141,32.0,0,0,19.7,Green,0.647,49.8
+PRJ-1414,FR03,S2 Housing Diversity,NSW,P06,Pipeline,119,77.0,0,0,36.4,Amber,0.594,48.3
+PRJ-1279,FR03,S5 Release 1,NSW,P34,Pipeline,119,77.0,0,0,40.7,Amber,0.606,46.9
+PRJ-1361,FR03,S2 Housing Diversity,VIC,P35,Pipeline,101,27.0,0,0,28.0,Green,0.594,41.0
+PRJ-1332,FR03,S3 States and Territories,NSW,P31,Pipeline,90,116.0,0,0,33.6,Amber,0.592,36.7
+PRJ-1242,FR03,S2 Housing Diversity,ACT,P28,Pipeline,136,66.0,0,0,28.3,Green,0.757,33.0
+PRJ-1170,FR03,S4 Partnerships at Scale,NSW,P44,Approved,603,63.0,0,0,29.6,Green,0.955,27.1
+PRJ-1270,FR03,S4 Partnerships at Scale,NSW,P20,Approved,578,147.0,0,0,51.0,Red,0.955,26.0
+PRJ-1200,FR03,S4 Partnerships at Scale,QLD,P28,Approved,506,35.0,0,1,25.3,Green,0.95,25.3
+PRJ-1192,FR03,S4 Partnerships at Scale,NSW,P14,Approved,559,42.0,0,0,24.3,Green,0.96,22.4
+PRJ-1410,FR03,S4 Partnerships at Scale,VIC,P04,Contracted,641,164.0,0,0,51.7,Red,0.967,21.2
+PRJ-1315,FR03,S2 Housing Diversity,QLD,P18,Approved,420,33.0,0,0,17.9,Green,0.954,19.3
+PRJ-1025,FR01,Standard,NSW,P30,Under construction,272,97.0,0,0,33.0,Amber,0.93,19.0
+PRJ-1344,FR03,S2 Housing Diversity,QLD,P11,Pipeline,66,81.0,0,0,35.6,Amber,0.738,17.3
+PRJ-1314,FR03,S2 Housing Diversity,VIC,P27,Pipeline,134,134.0,0,0,50.7,Red,0.88,16.1
+PRJ-1107,FR02,Standard,SA,P18,Under construction,191,74.0,0,0,20.9,Green,0.922,14.9
+PRJ-1393,FR03,S5 Release 1,QLD,P36,Under construction,420,9.0,0,0,7.5,Green,0.968,13.4
+PRJ-1337,FR03,S2 Housing Diversity,NSW,P13,Pipeline,143,75.0,0,0,38.0,Amber,0.915,12.2
+PRJ-1144,FR03,S5 Release 1,VIC,P07,Pipeline,112,10.0,0,0,17.9,Green,0.898,11.4
+PRJ-1251,FR03,S5 Release 1,QLD,P37,Pipeline,122,47.0,0,0,26.1,Green,0.91,11.0
+PRJ-1188,FR03,S5 Release 1,NSW,P36,Pipeline,114,45.0,0,0,21.5,Green,0.904,10.9
+PRJ-1239,FR03,S3 States and Territories,QLD,P38,Pipeline,86,17.0,0,0,26.4,Green,0.882,10.1
+PRJ-1149,FR03,S2 Housing Diversity,QLD,P08,Pipeline,72,109.0,0,0,33.3,Amber,0.866,9.6
+PRJ-1348,FR03,S2 Housing Diversity,VIC,P39,Pipeline,129,21.0,0,0,24.5,Green,0.926,9.5
+PRJ-1055,FR01,Standard,VIC,P41,Under construction,143,-454.0,0,1,9.5,Green,0.935,9.3
+PRJ-1329,FR03,S3 States and Territories,WA,P05,Approved,198,11.0,0,0,22.4,Green,0.954,9.1
+PRJ-1174,FR03,S3 States and Territories,WA,P02,Pipeline,117,114.0,0,0,32.8,Amber,0.923,9.0
+PRJ-1087,FR02,Standard,SA,P18,Under construction,124,115.0,0,0,28.9,Green,0.928,8.9
+PRJ-1282,FR03,S5 Release 1,NSW,P26,Approved,183,95.0,0,0,38.2,Amber,0.952,8.8
+PRJ-1205,FR03,S3 States and Territories,VIC,P37,Pipeline,121,11.0,5,0,25.0,Green,0.929,8.6
+PRJ-1326,FR03,S2 Housing Diversity,NSW,P32,Pipeline,116,91.0,0,0,34.0,Amber,0.928,8.4
+PRJ-1365,FR03,S2 Housing Diversity,QLD,P41,Pipeline,50,88.0,0,0,28.6,Green,0.832,8.4
+PRJ-1109,FR02,Standard,VIC,P09,Under construction,126,74.0,0,0,26.0,Green,0.933,8.4
+PRJ-1013,FR01,Standard,VIC,P31,Under construction,101,-406.0,0,1,9.0,Green,0.922,7.9
+PRJ-1019,FR01,Standard,WA,P24,Under construction,107,,82,1,39.0,Amber,0.928,7.7
+PRJ-1229,FR03,S2 Housing Diversity,VIC,P33,Approved,156,35.0,0,0,22.2,Green,0.951,7.6
+PRJ-1212,FR03,S5 Release 1,VIC,P38,Approved,169,107.0,71,0,53.7,Red,0.956,7.4
+PRJ-1134,FR03,S2 Housing Diversity,QLD,P32,Pipeline,72,32.0,0,0,22.5,Green,0.899,7.3
+PRJ-1362,FR03,S2 Housing Diversity,NSW,P41,Approved,152,96.0,0,0,28.1,Green,0.952,7.3
+PRJ-1339,FR03,S1 First Nations,QLD,P25,Pipeline,111,15.0,0,0,14.7,Green,0.936,7.1
+PRJ-1189,FR03,S3 States and Territories,QLD,P22,Contracted,203,21.0,0,0,16.7,Green,0.965,7.1
+PRJ-1400,FR03,S2 Housing Diversity,NSW,P25,Approved,150,46.0,0,0,18.8,Green,0.955,6.8
+PRJ-1164,FR03,S2 Housing Diversity,SA,P34,Approved,153,57.0,0,1,29.8,Green,0.957,6.6
+PRJ-1245,FR03,S2 Housing Diversity,NSW,P44,Approved,126,62.0,0,0,29.4,Green,0.948,6.6
+PRJ-1349,FR03,S5 Release 1,NSW,P32,Pipeline,92,18.0,0,0,24.8,Green,0.931,6.3
+PRJ-1145,FR03,S5 Release 1,NSW,P08,Approved,136,5.0,0,0,11.0,Green,0.954,6.3
+PRJ-1333,FR03,S5 Release 1,NSW,P38,Approved,138,84.0,0,0,37.4,Amber,0.955,6.2
+PRJ-1098,FR02,Standard,NSW,P14,Under construction,86,102.0,0,0,31.0,Amber,0.928,6.2
+PRJ-1240,FR03,S5 Release 1,SA,P42,Approved,153,47.0,0,0,17.4,Green,0.96,6.1
+PRJ-1067,FR01,Standard,WA,P24,Under construction,133,58.0,44,0,24.0,Green,0.955,6.0
+PRJ-1136,FR03,S5 Release 1,QLD,P14,Approved,143,82.0,0,0,32.1,Amber,0.958,6.0
+PRJ-1290,FR03,S1 First Nations,QLD,P12,Pipeline,64,71.0,0,0,29.3,Green,0.907,6.0
+PRJ-1100,FR02,Standard,QLD,P12,Under construction,113,58.0,0,0,19.8,Green,0.949,5.8
+PRJ-1203,FR03,S2 Housing Diversity,NSW,P31,Contracted,171,34.0,0,0,13.7,Green,0.966,5.8
+PRJ-1085,FR02,Standard,NSW,P13,Under construction,79,64.0,0,1,28.9,Green,0.928,5.7
+PRJ-1179,FR03,S2 Housing Diversity,QLD,P30,Pipeline,85,14.0,0,0,23.8,Green,0.934,5.6
+PRJ-1202,FR03,S5 Release 1,VIC,P40,Contracted,176,74.0,0,0,35.3,Amber,0.969,5.5
+PRJ-1075,FR02,Standard,VIC,P05,Under construction,120,71.0,0,0,29.0,Green,0.954,5.5
+PRJ-1158,FR03,S3 States and Territories,NSW,P01,Pipeline,79,34.0,3,0,20.2,Green,0.932,5.4
+PRJ-1183,FR03,S1 First Nations,NSW,P40,Contracted,120,201.0,59,0,65.7,Red,0.955,5.4
+PRJ-1135,FR03,S1 First Nations,NSW,P17,Pipeline,84,101.0,0,0,37.1,Amber,0.936,5.4
+PRJ-1413,FR03,S2 Housing Diversity,VIC,P31,Approved,126,9.0,0,0,10.8,Green,0.958,5.3
+PRJ-1234,FR03,S2 Housing Diversity,SA,P41,Pipeline,80,5.0,0,0,12.5,Green,0.935,5.2
+PRJ-1386,FR03,S5 Release 1,NSW,P30,Pipeline,76,20.0,0,0,25.0,Green,0.931,5.2
+PRJ-1051,FR01,Standard,QLD,P44,Under construction,150,6.0,0,0,13.5,Green,0.966,5.1
+PRJ-1012,FR01,Standard,NSW,P28,Under construction,107,54.0,0,0,19.0,Green,0.952,5.1
+PRJ-1172,FR03,S2 Housing Diversity,TAS,P38,Pipeline,73,111.0,0,0,49.7,Red,0.93,5.1
+PRJ-1057,FR01,Standard,NSW,P03,Under construction,70,83.0,107,0,46.6,Red,0.928,5.0
+PRJ-1235,FR03,S2 Housing Diversity,SA,P42,Pipeline,55,83.0,0,0,26.4,Green,0.909,5.0
+PRJ-1217,FR03,S3 States and Territories,WA,P19,Pipeline,84,41.0,0,0,21.8,Green,0.94,5.0
+PRJ-1225,FR03,S2 Housing Diversity,SA,P10,Pipeline,80,27.0,0,0,19.5,Green,0.939,4.9
+PRJ-1405,FR03,S2 Housing Diversity,SA,P16,Pipeline,69,19.0,0,0,18.4,Green,0.929,4.9
+PRJ-1128,FR03,S5 Release 1,NSW,P16,Approved,120,7.0,0,0,14.0,Green,0.959,4.9
+PRJ-1089,FR02,Standard,VIC,P15,Under construction,68,136.0,0,0,39.6,Amber,0.928,4.9
+PRJ-1005,FR01,Standard,VIC,P27,Under construction,66,98.0,98,1,53.1,Red,0.925,4.9
+PRJ-1206,FR03,S3 States and Territories,QLD,P43,Approved,107,39.0,0,0,20.6,Green,0.955,4.8
+PRJ-1074,FR02,Standard,VIC,P22,Under construction,64,135.0,0,0,35.9,Amber,0.925,4.8
+PRJ-1265,FR03,S3 States and Territories,QLD,P07,Pipeline,70,97.0,0,0,34.8,Amber,0.931,4.8
+PRJ-1418,FR03,S2 Housing Diversity,QLD,P34,Pipeline,71,64.0,0,0,33.2,Amber,0.934,4.7
+PRJ-1347,FR03,S2 Housing Diversity,NSW,P02,Pipeline,69,8.0,0,0,12.2,Green,0.934,4.6
+PRJ-1275,FR03,S2 Housing Diversity,SA,P28,Approved,110,27.0,0,0,18.7,Green,0.958,4.6
+PRJ-1032,FR01,Standard,VIC,P21,Under construction,60,73.0,39,0,37.9,Amber,0.925,4.5
+PRJ-1185,FR03,S3 States and Territories,VIC,P04,Pipeline,59,13.0,0,0,26.4,Green,0.926,4.4
+PRJ-1287,FR03,S2 Housing Diversity,QLD,P04,Pipeline,66,14.0,0,0,26.6,Green,0.933,4.4
+PRJ-1395,FR03,S2 Housing Diversity,NSW,P16,Approved,96,30.0,0,0,18.5,Green,0.954,4.4
+PRJ-1313,FR03,S1 First Nations,VIC,P22,Approved,89,91.0,2,0,32.6,Amber,0.952,4.3
+PRJ-1334,FR03,S2 Housing Diversity,QLD,P33,Contracted,85,82.0,0,0,29.4,Green,0.95,4.3
+PRJ-1394,FR03,S2 Housing Diversity,VIC,P05,Approved,102,196.0,10,0,56.9,Red,0.958,4.3
+PRJ-1303,FR03,S2 Housing Diversity,VIC,P29,Pipeline,57,117.0,0,0,41.7,Amber,0.926,4.2
+PRJ-1011,FR01,Standard,NSW,P20,Under construction,58,92.0,16,0,38.0,Amber,0.928,4.2
+PRJ-1417,FR03,S5 Release 1,VIC,P40,Financial close,93,98.0,86,0,53.3,Red,0.955,4.2
+PRJ-1084,FR02,Standard,QLD,P12,Under construction,121,20.0,0,0,12.4,Green,0.966,4.1
+PRJ-1121,FR03,S2 Housing Diversity,QLD,P40,Contracted,102,64.0,67,0,44.5,Amber,0.96,4.1
+PRJ-1091,FR02,Standard,NSW,P22,Under construction,127,7.0,0,0,11.0,Green,0.968,4.1
+PRJ-1370,FR03,S2 Housing Diversity,QLD,P36,Approved,83,14.0,0,0,13.4,Green,0.951,4.1
+PRJ-1300,FR03,S5 Release 1,WA,P02,Pipeline,67,96.0,0,0,29.3,Green,0.941,4.0
+PRJ-1171,FR03,S5 Release 1,QLD,P04,Approved,88,58.0,0,0,33.1,Amber,0.954,4.0
+PRJ-1130,FR03,S5 Release 1,QLD,P29,Contracted,87,82.0,51,0,39.4,Amber,0.954,4.0
+PRJ-1176,FR03,S3 States and Territories,QLD,P09,Pipeline,64,18.0,0,0,22.1,Green,0.937,4.0
+PRJ-1331,FR03,S5 Release 1,NSW,P03,Approved,118,,0,1,37.6,Amber,0.966,4.0
+PRJ-1375,FR03,S2 Housing Diversity,VIC,P37,Approved,82,7.0,0,0,16.3,Green,0.953,3.9
+PRJ-1316,FR03,S3 States and Territories,VIC,P12,Pipeline,61,25.0,0,0,20.3,Green,0.936,3.9
+PRJ-1018,FR01,Standard,NSW,P07,Under construction,51,70.0,26,1,26.9,Green,0.924,3.9
+PRJ-1182,FR03,S3 States and Territories,NSW,P01,Pipeline,58,83.0,0,0,29.2,Green,0.934,3.8
+PRJ-1412,FR03,S3 States and Territories,QLD,P15,Pipeline,55,13.0,0,0,22.6,Green,0.93,3.8
+PRJ-1177,FR03,S5 Release 1,WA,P21,Pipeline,65,21.0,0,0,28.2,Green,0.941,3.8
+PRJ-1117,FR03,S3 States and Territories,QLD,P26,Financial close,126,13.0,0,0,19.2,Green,0.97,3.8
+PRJ-1037,FR01,Standard,ACT,P10,Under construction,82,48.0,0,0,16.5,Green,0.954,3.8
+PRJ-1210,FR03,S2 Housing Diversity,NSW,P04,Pipeline,50,71.0,0,0,37.6,Amber,0.925,3.7
+PRJ-1199,FR03,S3 States and Territories,VIC,P18,Pipeline,54,8.0,0,0,15.0,Green,0.932,3.7
+PRJ-1278,FR03,S2 Housing Diversity,SA,P16,Pipeline,59,57.0,0,0,25.7,Green,0.939,3.6
+PRJ-1321,FR03,S5 Release 1,NSW,P35,Pipeline,54,113.0,0,0,44.7,Amber,0.934,3.6
+PRJ-1297,FR03,S5 Release 1,VIC,P32,Financial close,71,87.0,58,0,37.8,Amber,0.95,3.6
+PRJ-1093,FR02,Standard,SA,P09,Under construction,49,92.0,0,0,29.5,Green,0.928,3.5
+PRJ-1291,FR03,S2 Housing Diversity,QLD,P28,Pipeline,57,45.0,0,0,24.2,Green,0.939,3.5
+PRJ-1295,FR03,S3 States and Territories,WA,P05,Approved,76,22.0,0,0,24.5,Green,0.954,3.5
+PRJ-1150,FR03,S2 Housing Diversity,VIC,P39,Contracted,72,145.0,77,0,57.4,Red,0.952,3.5
+PRJ-1095,FR02,Standard,VIC,P28,Under construction,97,12.0,0,0,10.8,Green,0.964,3.5
+PRJ-1069,FR01,Standard,QLD,P38,Under construction,104,9.0,0,0,17.8,Green,0.966,3.5
+PRJ-1266,FR03,S2 Housing Diversity,NSW,P18,Approved,70,11.0,0,0,13.6,Green,0.951,3.4
+PRJ-1218,FR03,S2 Housing Diversity,QLD,P38,Pipeline,49,93.0,0,0,41.2,Amber,0.93,3.4
+PRJ-1028,FR01,Standard,QLD,P06,Under construction,46,73.0,94,1,49.3,Red,0.926,3.4
+PRJ-1382,FR03,S2 Housing Diversity,NSW,P18,Approved,78,59.0,0,0,23.0,Green,0.957,3.4
+PRJ-1402,FR03,S2 Housing Diversity,NSW,P28,Financial close,44,,72,1,42.5,Amber,0.923,3.4
+PRJ-1294,FR03,S2 Housing Diversity,QLD,P13,Pipeline,43,92.0,6,0,42.3,Amber,0.922,3.4
+PRJ-1137,FR03,S2 Housing Diversity,NSW,P10,Financial close,70,73.0,4,0,24.1,Green,0.951,3.4
+PRJ-1081,FR02,Standard,VIC,P36,Under construction,140,61.0,0,0,17.6,Green,0.976,3.4
+PRJ-1072,FR02,Standard,QLD,P02,Under construction,110,-576.0,0,1,8.7,Green,0.969,3.4
+PRJ-1367,FR03,S2 Housing Diversity,WA,P14,Pipeline,51,23.0,0,0,22.6,Green,0.936,3.3
+PRJ-1371,FR03,S2 Housing Diversity,QLD,P33,Approved,65,75.0,0,0,30.0,Green,0.95,3.3
+PRJ-1317,FR03,S5 Release 1,VIC,P05,Approved,71,72.0,0,0,34.2,Amber,0.953,3.3
+PRJ-1354,FR03,S2 Housing Diversity,SA,P18,Pipeline,44,18.0,0,0,17.0,Green,0.924,3.3
+PRJ-1241,FR03,S5 Release 1,QLD,P09,Pipeline,50,39.0,0,0,26.2,Green,0.934,3.3
+PRJ-1221,FR03,S2 Housing Diversity,NSW,P31,Approved,74,31.0,0,0,15.1,Green,0.955,3.3
+PRJ-1123,FR03,S3 States and Territories,VIC,P01,Approved,76,38.0,0,0,18.5,Green,0.956,3.3
+PRJ-1168,FR03,S2 Housing Diversity,WA,P42,Pipeline,46,36.0,0,0,17.3,Green,0.928,3.3
+PRJ-1086,FR02,Standard,NSW,P27,Under construction,46,88.0,0,0,34.8,Amber,0.928,3.3
+PRJ-1101,FR02,Standard,QLD,P26,Under construction,66,,0,1,34.7,Amber,0.95,3.3
+PRJ-1143,FR03,S2 Housing Diversity,QLD,P06,Approved,66,55.0,0,0,30.1,Amber,0.952,3.2
+PRJ-1120,FR03,S2 Housing Diversity,WA,P08,Financial close,111,6.0,0,0,8.2,Green,0.971,3.2
+PRJ-1397,FR03,S5 Release 1,NSW,P05,Approved,73,13.0,0,0,22.7,Green,0.956,3.2
+PRJ-1285,FR03,S2 Housing Diversity,NSW,P32,Approved,69,25.0,0,0,19.1,Green,0.954,3.2
+PRJ-1325,FR03,S2 Housing Diversity,VIC,P41,Financial close,94,91.0,71,0,36.0,Amber,0.966,3.2
+PRJ-1308,FR03,S2 Housing Diversity,NT,P13,Approved,77,24.0,0,0,26.1,Green,0.96,3.1
+PRJ-1233,FR03,S2 Housing Diversity,QLD,P10,Approved,63,28.0,0,0,17.7,Green,0.951,3.1
+PRJ-1201,FR03,S3 States and Territories,NSW,P34,Approved,57,21.0,0,0,22.8,Green,0.945,3.1
+PRJ-1360,FR03,S3 States and Territories,VIC,P04,Contracted,95,113.0,1,0,42.0,Amber,0.967,3.1
+PRJ-1099,FR02,Standard,NSW,P39,Under construction,64,117.0,0,0,36.1,Amber,0.952,3.1
+PRJ-1306,FR03,S2 Housing Diversity,QLD,P03,Contracted,75,90.0,13,0,35.3,Amber,0.959,3.1
+PRJ-1126,FR03,S2 Housing Diversity,QLD,P44,Approved,59,125.0,15,0,44.1,Amber,0.948,3.1
+PRJ-1319,FR03,S2 Housing Diversity,NSW,P15,Pipeline,45,73.0,0,0,34.3,Amber,0.934,3.0
+PRJ-1094,FR02,Standard,VIC,P34,Under construction,40,97.0,0,0,32.6,Amber,0.924,3.0
+PRJ-1419,FR03,S3 States and Territories,QLD,P18,Pipeline,42,22.0,0,1,17.8,Green,0.932,2.9
+PRJ-1352,FR03,S5 Release 1,ACT,P10,Contracted,104,77.0,0,0,25.2,Green,0.972,2.9
+PRJ-1377,FR03,S5 Release 1,SA,P37,Contracted,67,99.0,121,0,52.2,Red,0.956,2.9
+PRJ-1267,FR03,S1 First Nations,WA,P03,Approved,64,18.0,8,0,22.5,Green,0.955,2.9
+PRJ-1384,FR03,S1 First Nations,VIC,P14,Pipeline,45,17.0,0,0,21.5,Green,0.935,2.9
+PRJ-1288,FR03,S3 States and Territories,WA,P06,Approved,68,76.0,0,1,39.2,Amber,0.958,2.9
+PRJ-1293,FR03,S2 Housing Diversity,NSW,P44,Pipeline,40,76.0,0,0,34.1,Amber,0.928,2.9
+PRJ-1408,FR03,S5 Release 1,ACT,P22,Pipeline,49,51.0,0,0,26.5,Green,0.94,2.9
+PRJ-1104,FR02,Standard,QLD,P10,Under construction,90,10.0,0,0,9.2,Green,0.968,2.9
+PRJ-1103,FR02,Standard,QLD,P11,Under construction,78,14.0,0,0,15.6,Green,0.964,2.8
+PRJ-1378,FR03,S1 First Nations,VIC,P02,Approved,58,101.0,0,0,28.3,Green,0.951,2.8
+PRJ-1213,FR03,S2 Housing Diversity,VIC,P01,Under construction,100,9.0,0,1,12.8,Green,0.972,2.8
+PRJ-1114,FR02,Standard,VIC,P41,Under construction,39,121.0,0,0,28.0,Green,0.928,2.8
+PRJ-1330,FR03,S2 Housing Diversity,VIC,P26,Approved,64,90.0,0,0,37.2,Amber,0.957,2.8
+PRJ-1102,FR02,Standard,TAS,P32,Under construction,38,76.0,55,0,33.2,Amber,0.925,2.8
+PRJ-1004,FR01,Standard,VIC,P24,Under construction,100,73.0,0,0,19.6,Green,0.972,2.8
+PRJ-1284,FR03,S1 First Nations,QLD,P27,Approved,66,19.0,0,1,31.4,Amber,0.958,2.8
+PRJ-1153,FR03,S1 First Nations,WA,P08,Approved,55,13.0,0,0,12.6,Green,0.95,2.8
+PRJ-1364,FR03,S5 Release 1,QLD,P41,Contracted,56,106.0,0,0,28.1,Green,0.952,2.7
+PRJ-1076,FR02,Standard,QLD,P14,Under construction,90,22.0,0,0,15.4,Green,0.97,2.7
+PRJ-1141,FR03,S2 Housing Diversity,NSW,P44,Pipeline,38,34.0,0,0,25.9,Green,0.928,2.7
+PRJ-1403,FR03,S3 States and Territories,QLD,P21,Approved,65,50.0,0,0,31.9,Amber,0.958,2.7
+PRJ-1226,FR03,S3 States and Territories,WA,P10,Contracted,96,82.0,28,0,30.8,Amber,0.972,2.7
+PRJ-1131,FR03,S2 Housing Diversity,WA,P36,Contracted,83,17.0,0,0,12.0,Green,0.968,2.7
+PRJ-1292,FR03,S5 Release 1,NSW,P10,Pipeline,35,54.0,0,0,24.7,Green,0.924,2.7
+PRJ-1090,FR02,Standard,VIC,P38,Under construction,91,17.0,0,0,19.4,Green,0.97,2.7
+PRJ-1406,FR03,S2 Housing Diversity,NSW,P45,Pipeline,39,77.0,0,0,37.2,Amber,0.93,2.7
+PRJ-1139,FR03,S5 Release 1,WA,P41,Approved,61,13.0,0,0,12.0,Green,0.957,2.6
+PRJ-1299,FR03,S5 Release 1,NSW,P24,Financial close,85,36.0,0,0,14.4,Green,0.97,2.6
+PRJ-1281,FR03,S2 Housing Diversity,VIC,P35,Approved,54,35.0,0,1,32.5,Amber,0.951,2.6
+PRJ-1154,FR03,S5 Release 1,NSW,P29,Contracted,98,38.0,0,0,22.4,Green,0.973,2.6
+PRJ-1351,FR03,S5 Release 1,NSW,P27,Contracted,99,74.0,0,0,35.1,Amber,0.974,2.6
+PRJ-1001,FR01,Standard,VIC,P42,Under construction,30,-390.0,70,1,19.9,Green,0.918,2.5
+PRJ-1416,FR03,S2 Housing Diversity,QLD,P45,Approved,54,21.0,0,0,24.3,Green,0.954,2.5
+PRJ-1105,FR02,Standard,VIC,P35,Under construction,54,94.0,0,0,34.0,Amber,0.953,2.5
+PRJ-1092,FR02,Standard,NSW,P08,Under construction,82,26.0,0,0,10.1,Green,0.97,2.5
+PRJ-1060,FR01,Standard,QLD,P42,Under construction,59,-452.0,88,1,22.9,Green,0.958,2.5
+PRJ-1338,FR03,S3 States and Territories,VIC,P07,Pipeline,37,12.0,0,0,18.3,Green,0.933,2.5
+PRJ-1369,FR03,S5 Release 1,NSW,P20,Pipeline,39,48.0,0,0,38.7,Amber,0.935,2.5
+PRJ-1298,FR03,S3 States and Territories,VIC,P09,Contracted,78,61.0,0,0,26.5,Green,0.968,2.5
+PRJ-1222,FR03,S2 Housing Diversity,WA,P22,Pipeline,35,54.0,3,0,27.6,Green,0.929,2.5
+PRJ-1030,FR01,Standard,VIC,P14,Under construction,56,43.0,1,0,19.7,Green,0.955,2.5
+PRJ-1214,FR03,S2 Housing Diversity,NSW,P03,Pipeline,38,18.0,0,0,23.1,Green,0.938,2.4
+PRJ-1387,FR03,S3 States and Territories,WA,P10,Approved,50,15.0,0,0,15.1,Green,0.952,2.4
+PRJ-1359,FR03,S3 States and Territories,WA,P22,Pipeline,35,75.0,0,1,36.2,Amber,0.932,2.4
+PRJ-1113,FR02,Standard,VIC,P30,Under construction,76,12.0,0,0,16.4,Green,0.968,2.4
+PRJ-1276,FR03,S2 Housing Diversity,QLD,P23,Under construction,71,10.0,0,0,12.8,Green,0.967,2.3
+PRJ-1372,FR03,S2 Housing Diversity,WA,P12,Approved,48,65.0,13,0,28.3,Green,0.952,2.3
+PRJ-1163,FR03,S2 Housing Diversity,TAS,P33,Contracted,78,82.0,0,1,34.4,Amber,0.971,2.3
+PRJ-1006,FR01,Standard,QLD,P35,Under construction,68,36.0,64,0,33.4,Amber,0.966,2.3
+PRJ-1324,FR03,S1 First Nations,ACT,P42,Financial close,75,13.0,10,0,9.5,Green,0.97,2.3
+PRJ-1152,FR03,S5 Release 1,NSW,P39,Under construction,65,10.0,0,0,15.3,Green,0.965,2.3
+PRJ-1415,FR03,S2 Housing Diversity,QLD,P38,Contracted,45,153.0,34,0,54.5,Red,0.95,2.3
+PRJ-1404,FR03,S2 Housing Diversity,QLD,P05,Contracted,47,76.0,94,0,48.7,Red,0.954,2.2
+PRJ-1385,FR03,S1 First Nations,VIC,P36,Pipeline,28,83.0,0,0,28.8,Green,0.922,2.2
+PRJ-1261,FR03,S2 Housing Diversity,WA,P29,Approved,53,33.0,0,0,23.4,Green,0.959,2.2
+PRJ-1411,FR03,S2 Housing Diversity,VIC,P20,Approved,48,76.0,0,1,42.2,Amber,0.954,2.2
+PRJ-1160,FR03,S5 Release 1,WA,P26,Pipeline,32,9.0,0,0,23.4,Green,0.93,2.2
+PRJ-1169,FR03,S5 Release 1,NSW,P01,Contracted,73,105.0,19,0,32.7,Amber,0.97,2.2
+PRJ-1341,FR03,S2 Housing Diversity,NSW,P18,Pipeline,31,50.0,0,0,23.2,Green,0.928,2.2
+PRJ-1388,FR03,S5 Release 1,NSW,P33,Pipeline,29,24.0,0,0,22.1,Green,0.923,2.2
+PRJ-1358,FR03,S2 Housing Diversity,NSW,P01,Pipeline,27,28.0,0,0,18.5,Green,0.921,2.1
+PRJ-1111,FR02,Standard,VIC,P36,Under construction,50,53.0,0,0,16.0,Green,0.958,2.1
+PRJ-1237,FR03,S5 Release 1,VIC,P43,Approved,47,11.0,0,0,15.2,Green,0.956,2.1
+PRJ-1398,FR03,S2 Housing Diversity,NSW,P17,Pipeline,31,,0,1,37.4,Amber,0.932,2.1
+PRJ-1396,FR03,S2 Housing Diversity,VIC,P30,Pipeline,31,,0,1,41.1,Amber,0.931,2.1
+PRJ-1250,FR03,S2 Housing Diversity,VIC,P09,Pipeline,30,11.0,0,0,20.7,Green,0.929,2.1
+PRJ-1204,FR03,S5 Release 1,QLD,P17,Pipeline,31,99.0,0,0,36.7,Amber,0.936,2.0
+PRJ-1269,FR03,S2 Housing Diversity,VIC,P25,Pipeline,30,60.0,0,0,28.5,Green,0.934,2.0
+PRJ-1318,FR03,S5 Release 1,TAS,P35,Approved,46,58.0,0,0,32.0,Amber,0.956,2.0
+PRJ-1071,FR02,Standard,WA,P34,Under construction,42,33.0,0,0,20.2,Green,0.953,2.0
+PRJ-1259,FR03,S5 Release 1,NSW,P32,Pipeline,27,9.0,0,0,18.0,Green,0.929,1.9
+PRJ-1345,FR03,S2 Housing Diversity,WA,P42,Pipeline,29,37.0,0,0,17.5,Green,0.933,1.9
+PRJ-1124,FR03,S2 Housing Diversity,VIC,P30,Pipeline,22,,0,2,46.1,Red,0.915,1.9
+PRJ-1115,FR02,Standard,NT,P26,Under construction,42,86.0,0,0,31.4,Amber,0.954,1.9
+PRJ-1355,FR03,S2 Housing Diversity,WA,P31,Approved,41,84.0,0,0,25.4,Green,0.953,1.9
+PRJ-1230,FR03,S2 Housing Diversity,NSW,P22,Pipeline,28,84.0,0,0,32.9,Amber,0.932,1.9
+PRJ-1373,FR03,S2 Housing Diversity,NSW,P23,Approved,42,29.0,0,0,21.5,Green,0.956,1.8
+PRJ-1304,FR03,S3 States and Territories,NSW,P01,Financial close,57,26.0,6,0,14.1,Green,0.968,1.8
+PRJ-1286,FR03,S3 States and Territories,QLD,P16,Approved,45,81.0,0,0,28.4,Green,0.959,1.8
+PRJ-1268,FR03,S1 First Nations,VIC,P16,Pipeline,27,22.0,0,0,18.9,Green,0.935,1.8
+PRJ-1246,FR03,S2 Housing Diversity,NSW,P11,Financial close,43,42.0,17,0,25.9,Green,0.957,1.8
+PRJ-1096,FR02,Standard,NSW,P41,Under construction,42,25.0,0,0,9.3,Green,0.956,1.8
+PRJ-1253,FR03,S5 Release 1,QLD,P30,Contracted,43,113.0,55,0,48.2,Red,0.958,1.8
+PRJ-1381,FR03,S1 First Nations,NSW,P26,Approved,48,75.0,0,1,39.3,Amber,0.964,1.7
+PRJ-1119,FR03,S2 Housing Diversity,VIC,P11,Approved,36,33.0,0,1,24.3,Green,0.954,1.7
+PRJ-1122,FR03,S2 Housing Diversity,VIC,P33,Pipeline,22,40.0,0,0,25.2,Green,0.922,1.7
+PRJ-1280,FR03,S1 First Nations,VIC,P22,Approved,40,14.0,0,0,17.3,Green,0.958,1.7
+PRJ-1420,FR03,S5 Release 1,NSW,P42,Pipeline,26,9.0,0,0,12.0,Green,0.935,1.7
+PRJ-1077,FR02,Standard,SA,P23,Under construction,55,90.0,0,0,28.3,Green,0.97,1.7
+PRJ-1125,FR03,S2 Housing Diversity,NSW,P39,Contracted,58,51.0,0,0,26.3,Green,0.97,1.7
+PRJ-1140,FR03,S5 Release 1,VIC,P37,Approved,38,78.0,0,0,30.2,Amber,0.954,1.7
+PRJ-1082,FR02,Standard,VIC,P08,Under construction,36,49.0,0,0,14.6,Green,0.954,1.7
+PRJ-1289,FR03,S2 Housing Diversity,NSW,P43,Approved,42,,0,1,33.0,Amber,0.959,1.7
+PRJ-1350,FR03,S5 Release 1,QLD,P26,Contracted,57,48.0,4,0,27.7,Green,0.97,1.7
+PRJ-1310,FR03,S5 Release 1,NSW,P45,Pipeline,24,98.0,0,0,41.3,Amber,0.934,1.6
+PRJ-1184,FR03,S2 Housing Diversity,VIC,P14,Pipeline,25,45.0,0,0,26.9,Green,0.937,1.6
+PRJ-1193,FR03,S2 Housing Diversity,VIC,P28,Pipeline,24,15.0,0,0,18.4,Green,0.932,1.6
+PRJ-1080,FR02,Standard,SA,P11,Under construction,36,103.0,0,0,32.9,Amber,0.955,1.6
+PRJ-1116,FR03,S3 States and Territories,NSW,P19,Approved,32,31.0,0,0,17.9,Green,0.951,1.6
+PRJ-1165,FR03,S5 Release 1,WA,P10,Approved,39,35.0,0,0,19.0,Green,0.958,1.6
+PRJ-1157,FR03,S5 Release 1,VIC,P19,Pipeline,25,14.0,0,0,16.6,Green,0.938,1.6
+PRJ-1258,FR03,S2 Housing Diversity,QLD,P33,Approved,35,47.0,0,0,24.6,Green,0.953,1.6
+PRJ-1409,FR03,S2 Housing Diversity,QLD,P38,Approved,33,59.0,0,0,32.6,Amber,0.953,1.6
+PRJ-1307,FR03,S2 Housing Diversity,VIC,P33,Pipeline,23,14.0,0,0,20.1,Green,0.934,1.5
+PRJ-1335,FR03,S2 Housing Diversity,VIC,P26,Approved,38,101.0,0,1,39.3,Amber,0.961,1.5
+PRJ-1187,FR03,S5 Release 1,VIC,P27,Under construction,49,,0,1,37.7,Amber,0.97,1.5
+PRJ-1031,FR01,Standard,NSW,P03,Under construction,19,91.0,34,0,36.0,Amber,0.921,1.5
+PRJ-1243,FR03,S2 Housing Diversity,NSW,P04,Contracted,45,106.0,0,1,45.4,Red,0.967,1.5
+PRJ-1173,FR03,S2 Housing Diversity,VIC,P45,Approved,38,115.0,0,0,42.6,Amber,0.96,1.5
+PRJ-1083,FR02,Standard,VIC,P43,Under construction,53,19.0,2,0,12.0,Green,0.971,1.5
+PRJ-1146,FR03,S3 States and Territories,WA,P42,Pipeline,21,106.0,0,0,30.9,Amber,0.928,1.5
+PRJ-1273,FR03,S2 Housing Diversity,NSW,P13,Under construction,57,,0,1,36.4,Amber,0.974,1.5
+PRJ-1108,FR02,Standard,VIC,P16,Under construction,61,14.0,0,0,10.4,Green,0.975,1.5
+PRJ-1272,FR03,S5 Release 1,VIC,P04,Under construction,55,21.0,0,1,25.9,Green,0.975,1.4
+PRJ-1097,FR02,Standard,SA,P42,Under construction,45,-458.0,0,2,8.3,Green,0.968,1.4
+PRJ-1161,FR03,S3 States and Territories,QLD,P05,Approved,30,65.0,0,0,32.9,Amber,0.952,1.4
+PRJ-1191,FR03,S2 Housing Diversity,VIC,P31,Approved,32,16.0,2,1,17.5,Green,0.955,1.4
+PRJ-1247,FR03,S2 Housing Diversity,NSW,P34,Pipeline,23,78.0,0,0,35.9,Amber,0.94,1.4
+PRJ-1374,FR03,S2 Housing Diversity,WA,P33,Approved,35,52.0,3,1,31.0,Amber,0.959,1.4
+PRJ-1252,FR03,S5 Release 1,QLD,P44,Contracted,42,27.0,0,0,20.6,Green,0.97,1.3
+PRJ-1207,FR03,S2 Housing Diversity,QLD,P40,Approved,27,67.0,8,1,42.3,Amber,0.953,1.3
+PRJ-1248,FR03,S2 Housing Diversity,NSW,P11,Pipeline,18,81.0,0,0,35.6,Amber,0.928,1.3
+PRJ-1219,FR03,S3 States and Territories,NSW,P06,Financial close,30,36.0,48,0,31.4,Amber,0.956,1.3
+PRJ-1220,FR03,S2 Housing Diversity,QLD,P04,Approved,28,94.0,42,0,47.1,Red,0.952,1.3
+PRJ-1407,FR03,S2 Housing Diversity,WA,P22,Pipeline,20,13.0,0,0,24.1,Green,0.935,1.3
+PRJ-1399,FR03,S5 Release 1,VIC,P19,Approved,28,10.0,0,0,13.8,Green,0.955,1.3
+PRJ-1238,FR03,S3 States and Territories,VIC,P19,Approved,29,57.0,0,0,22.9,Green,0.954,1.3
+PRJ-1322,FR03,S2 Housing Diversity,NT,P45,Financial close,48,9.0,0,0,19.0,Green,0.972,1.3
+PRJ-1180,FR03,S5 Release 1,WA,P02,Financial close,46,70.0,8,0,20.6,Green,0.972,1.3
+PRJ-1138,FR03,S3 States and Territories,VIC,P29,Contracted,47,17.0,0,0,18.3,Green,0.972,1.3
+PRJ-1301,FR03,S2 Housing Diversity,WA,P05,Approved,30,68.0,0,0,33.4,Amber,0.958,1.3
+PRJ-1277,FR03,S2 Housing Diversity,QLD,P23,Approved,25,42.0,26,0,28.3,Green,0.947,1.3
+PRJ-1249,FR03,S2 Housing Diversity,QLD,P03,Contracted,44,76.0,42,0,37.4,Amber,0.972,1.2
+PRJ-1194,FR03,S5 Release 1,NSW,P28,Approved,27,107.0,0,0,34.3,Amber,0.954,1.2
+PRJ-1343,FR03,S5 Release 1,SA,P22,Pipeline,16,10.0,0,0,18.5,Green,0.925,1.2
+PRJ-1312,FR03,S2 Housing Diversity,WA,P09,Contracted,45,68.0,0,0,27.8,Green,0.973,1.2
+PRJ-1132,FR03,S2 Housing Diversity,NSW,P21,Pipeline,19,152.0,0,0,53.7,Red,0.935,1.2
+PRJ-1142,FR03,S2 Housing Diversity,SA,P34,Contracted,26,,46,1,44.4,Amber,0.954,1.2
+PRJ-1257,FR03,S1 First Nations,QLD,P16,Approved,27,93.0,0,0,30.7,Amber,0.957,1.2
+PRJ-1260,FR03,S1 First Nations,QLD,P02,Financial close,41,16.0,1,0,9.0,Green,0.971,1.2
+PRJ-1353,FR03,S5 Release 1,WA,P14,Pipeline,19,104.0,0,0,38.4,Amber,0.937,1.2
+PRJ-1110,FR02,Standard,WA,P36,Under construction,36,6.0,0,0,6.9,Green,0.966,1.2
+PRJ-1236,FR03,S1 First Nations,WA,P37,Approved,29,52.0,0,0,25.1,Green,0.957,1.2
+PRJ-1244,FR03,S2 Housing Diversity,VIC,P13,Pipeline,17,88.0,0,0,45.6,Red,0.931,1.2
+PRJ-1389,FR03,S2 Housing Diversity,QLD,P43,Contracted,27,129.0,0,0,36.1,Amber,0.955,1.2
+PRJ-1379,FR03,S1 First Nations,NSW,P44,Under construction,46,16.0,0,0,15.4,Green,0.974,1.2
+PRJ-1166,FR03,S2 Housing Diversity,VIC,P39,Contracted,44,11.0,0,0,18.5,Green,0.973,1.2
+PRJ-1262,FR03,S5 Release 1,QLD,P10,Pipeline,14,50.0,0,0,23.9,Green,0.924,1.1
+PRJ-1178,FR03,S2 Housing Diversity,VIC,P29,Approved,23,41.0,0,0,25.0,Green,0.952,1.1
+PRJ-1255,FR03,S5 Release 1,NT,P20,Contracted,33,13.0,0,0,22.9,Green,0.968,1.1
+PRJ-1390,FR03,S3 States and Territories,VIC,P16,Approved,25,130.0,0,0,37.9,Amber,0.958,1.1
+PRJ-1383,FR03,S2 Housing Diversity,VIC,P35,Approved,24,103.0,61,0,50.9,Red,0.954,1.1
+PRJ-1195,FR03,S5 Release 1,NSW,P34,Approved,25,70.0,0,0,32.3,Amber,0.956,1.1
+PRJ-1196,FR03,S5 Release 1,QLD,P10,Pipeline,16,16.0,0,0,17.3,Green,0.934,1.1
+PRJ-1228,FR03,S2 Housing Diversity,VIC,P03,Financial close,32,15.0,2,0,17.9,Green,0.967,1.1
+PRJ-1211,FR03,S5 Release 1,QLD,P20,Financial close,39,91.0,21,0,40.6,Amber,0.972,1.1
+PRJ-1391,FR03,S5 Release 1,QLD,P34,Approved,28,49.0,0,0,28.3,Green,0.962,1.1
+PRJ-1254,FR03,S2 Housing Diversity,NSW,P30,Contracted,38,117.0,0,0,39.9,Amber,0.972,1.1
+PRJ-1366,FR03,S2 Housing Diversity,NSW,P20,Financial close,40,38.0,32,0,32.1,Amber,0.973,1.1
+PRJ-1296,FR03,S2 Housing Diversity,SA,P31,Pipeline,16,26.0,0,0,16.1,Green,0.93,1.1
+PRJ-1058,FR01,Standard,SA,P28,Under construction,27,97.0,7,0,28.5,Green,0.96,1.1
+PRJ-1357,FR03,S2 Housing Diversity,VIC,P15,Contracted,37,35.0,0,0,22.9,Green,0.969,1.1
+PRJ-1186,FR03,S1 First Nations,QLD,P19,Contracted,31,49.0,15,0,21.9,Green,0.969,1.0
+PRJ-1190,FR03,S5 Release 1,QLD,P44,Financial close,39,78.0,10,1,36.1,Amber,0.974,1.0
+PRJ-1133,FR03,S2 Housing Diversity,VIC,P02,Pipeline,15,31.0,0,0,16.7,Green,0.93,1.0
+PRJ-1328,FR03,S2 Housing Diversity,ACT,P38,Contracted,33,23.0,0,0,23.6,Green,0.971,1.0
+PRJ-1224,FR03,S2 Housing Diversity,NSW,P17,Approved,22,46.0,0,0,24.4,Green,0.954,1.0
+PRJ-1327,FR03,S5 Release 1,NT,P16,Approved,19,10.0,0,0,14.6,Green,0.951,0.9
+PRJ-1311,FR03,S5 Release 1,NSW,P07,Pipeline,13,,0,1,41.0,Amber,0.93,0.9
+PRJ-1127,FR03,S3 States and Territories,NSW,P28,Approved,20,20.0,0,0,17.4,Green,0.956,0.9
+PRJ-1129,FR03,S2 Housing Diversity,NT,P18,Under construction,26,11.0,0,1,13.6,Green,0.967,0.9
+PRJ-1073,FR02,Standard,QLD,P10,Under construction,12,46.0,0,0,16.2,Green,0.922,0.9
+PRJ-1320,FR03,S2 Housing Diversity,ACT,P24,Approved,23,7.0,0,0,11.7,Green,0.96,0.9
+PRJ-1162,FR03,S2 Housing Diversity,QLD,P42,Contracted,23,58.0,0,0,17.6,Green,0.963,0.9
+PRJ-1392,FR03,S2 Housing Diversity,SA,P07,Contracted,26,47.0,0,0,21.1,Green,0.965,0.9
+PRJ-1305,FR03,S2 Housing Diversity,WA,P20,Contracted,28,93.0,0,0,38.5,Amber,0.972,0.8
+PRJ-1147,FR03,S2 Housing Diversity,WA,P01,Pipeline,12,15.0,0,0,16.0,Green,0.934,0.8
+PRJ-1106,FR02,Standard,WA,P40,Under construction,27,7.0,0,0,19.3,Green,0.972,0.8
+PRJ-1309,FR03,S3 States and Territories,ACT,P39,Pipeline,11,53.0,0,0,30.7,Amber,0.923,0.8
+PRJ-1209,FR03,S2 Housing Diversity,QLD,P36,Contracted,18,67.0,60,1,31.7,Amber,0.954,0.8
+PRJ-1078,FR02,Standard,VIC,P28,Under construction,29,26.0,0,0,13.5,Green,0.973,0.8
+PRJ-1368,FR03,S5 Release 1,NSW,P16,Financial close,24,16.0,0,1,12.8,Green,0.968,0.8
+PRJ-1363,FR03,S2 Housing Diversity,VIC,P44,Approved,15,62.0,0,0,29.4,Green,0.956,0.7
+PRJ-1356,FR03,S1 First Nations,VIC,P30,Contracted,22,,5,1,37.9,Amber,0.97,0.7
+PRJ-1118,FR03,S2 Housing Diversity,NSW,P04,Approved,17,49.0,0,0,31.4,Amber,0.96,0.7
+PRJ-1112,FR02,Standard,NSW,P08,Under construction,24,0.0,0,0,5.1,Green,0.969,0.7
+PRJ-1198,FR03,S3 States and Territories,NSW,P15,Under construction,28,39.0,0,0,20.7,Green,0.974,0.7
+PRJ-1264,FR03,S2 Housing Diversity,SA,P23,Contracted,25,16.0,0,0,16.9,Green,0.972,0.7
+PRJ-1376,FR03,S1 First Nations,ACT,P35,Contracted,27,27.0,0,0,24.0,Green,0.977,0.6
+PRJ-1336,FR03,S3 States and Territories,NSW,P31,Pipeline,9,49.0,0,0,20.6,Green,0.938,0.6
+PRJ-1208,FR03,S2 Housing Diversity,VIC,P01,Approved,14,23.0,0,0,15.6,Green,0.956,0.6
+PRJ-1215,FR03,S5 Release 1,QLD,P25,Contracted,24,7.0,0,0,9.2,Green,0.974,0.6
+PRJ-1197,FR03,S1 First Nations,TAS,P38,Financial close,13,,52,1,46.8,Red,0.961,0.5
+PRJ-1227,FR03,S2 Housing Diversity,WA,P01,Contracted,17,21.0,0,0,13.2,Green,0.972,0.5
+PRJ-1346,FR03,S5 Release 1,VIC,P36,Under construction,17,13.0,0,0,8.2,Green,0.972,0.5
+PRJ-1175,FR03,S1 First Nations,WA,P41,Financial close,19,22.0,0,0,10.8,Green,0.972,0.5
+PRJ-1159,FR03,S3 States and Territories,NSW,P09,Approved,12,69.0,0,0,30.0,Green,0.959,0.5
+PRJ-1256,FR03,S5 Release 1,NSW,P45,Approved,8,76.0,0,0,35.0,Amber,0.956,0.4
+PRJ-1079,FR02,Standard,QLD,P24,Under construction,13,8.0,0,0,6.9,Green,0.969,0.4
+PRJ-1271,FR03,S5 Release 1,NSW,P35,Financial close,8,102.0,10,1,44.2,Amber,0.96,0.3
+PRJ-1323,FR03,S5 Release 1,VIC,P13,Contracted,9,77.0,45,0,41.9,Amber,0.969,0.3
+PRJ-1024,FR01,Standard,VIC,P05,Completed,25,,0,0,0.0,Complete,1.0,0.0
+PRJ-1016,FR01,Standard,VIC,P43,Completed,40,,0,0,0.0,Complete,1.0,0.0
+PRJ-1017,FR01,Standard,WA,P37,Completed,48,,0,0,0.0,Complete,1.0,0.0
+PRJ-1021,FR01,Standard,NSW,P09,Completed,46,,0,0,0.0,Complete,1.0,0.0
+PRJ-1015,FR01,Standard,VIC,P33,Completed,46,,0,0,0.0,Complete,1.0,0.0
+PRJ-1022,FR01,Standard,ACT,P04,Completed,43,,0,0,0.0,Complete,1.0,0.0
+PRJ-1023,FR01,Standard,VIC,P45,Completed,14,,0,0,0.0,Complete,1.0,0.0
+PRJ-1026,FR01,Standard,QLD,P42,Completed,28,,0,0,0.0,Complete,1.0,0.0
+PRJ-1043,FR01,Standard,VIC,P04,Completed,22,,0,0,0.0,Complete,1.0,0.0
+PRJ-1027,FR01,Standard,TAS,P07,Completed,56,,0,0,0.0,Complete,1.0,0.0
+PRJ-1029,FR01,Standard,WA,P05,Completed,23,,0,0,0.0,Complete,1.0,0.0
+PRJ-1033,FR01,Standard,NSW,P07,Completed,43,,0,0,0.0,Complete,1.0,0.0
+PRJ-1034,FR01,Standard,WA,P31,Completed,63,,0,0,0.0,Complete,1.0,0.0
+PRJ-1039,FR01,Standard,VIC,P15,Completed,46,,0,0,0.0,Complete,1.0,0.0
+PRJ-1038,FR01,Standard,NSW,P09,Completed,57,,0,0,0.0,Complete,1.0,0.0
+PRJ-1036,FR01,Standard,QLD,P37,Completed,23,,0,0,0.0,Complete,1.0,0.0
+PRJ-1035,FR01,Standard,NSW,P24,Completed,43,,0,0,0.0,Complete,1.0,0.0
+PRJ-1044,FR01,Standard,VIC,P04,Completed,54,,0,0,0.0,Complete,1.0,0.0
+PRJ-1047,FR01,Standard,ACT,P20,Completed,63,,0,0,0.0,Complete,1.0,0.0
+PRJ-1048,FR01,Standard,NSW,P37,Completed,49,,0,0,0.0,Complete,1.0,0.0
+PRJ-1049,FR01,Standard,NSW,P26,Completed,28,,0,0,0.0,Complete,1.0,0.0
+PRJ-1040,FR01,Standard,NSW,P17,Completed,25,,0,0,0.0,Complete,1.0,0.0
+PRJ-1041,FR01,Standard,NSW,P13,Completed,89,,0,0,0.0,Complete,1.0,0.0
+PRJ-1042,FR01,Standard,WA,P30,Completed,20,,0,0,0.0,Complete,1.0,0.0
+PRJ-1054,FR01,Standard,NSW,P09,Completed,14,,0,0,0.0,Complete,1.0,0.0
+PRJ-1052,FR01,Standard,WA,P39,Completed,58,,0,0,0.0,Complete,1.0,0.0
+PRJ-1050,FR01,Standard,WA,P09,Completed,33,,0,0,0.0,Complete,1.0,0.0
+PRJ-1059,FR01,Standard,NSW,P18,Completed,27,,0,0,0.0,Complete,1.0,0.0
+PRJ-1056,FR01,Standard,VIC,P16,Completed,23,,0,0,0.0,Complete,1.0,0.0
+PRJ-1068,FR01,Standard,NSW,P12,Completed,8,,0,0,0.0,Complete,1.0,0.0
+PRJ-1070,FR01,Standard,VIC,P42,Completed,31,,0,0,0.0,Complete,1.0,0.0
+PRJ-1065,FR01,Standard,NSW,P08,Completed,55,,0,0,0.0,Complete,1.0,0.0
+PRJ-1066,FR01,Standard,QLD,P41,Completed,29,,0,0,0.0,Complete,1.0,0.0
+PRJ-1064,FR01,Standard,VIC,P24,Completed,77,,0,0,0.0,Complete,1.0,0.0
+PRJ-1063,FR01,Standard,NT,P41,Completed,40,,0,0,0.0,Complete,1.0,0.0
+PRJ-1061,FR01,Standard,NT,P29,Completed,21,,0,1,0.0,Complete,1.0,0.0
+PRJ-1062,FR01,Standard,VIC,P29,Completed,34,,0,0,0.0,Complete,1.0,0.0
+PRJ-1053,FR01,Standard,NSW,P06,Completed,55,,0,0,0.0,Complete,1.0,0.0
+PRJ-1014,FR01,Standard,VIC,P23,Completed,33,,0,0,0.0,Complete,1.0,0.0
+PRJ-1010,FR01,Standard,NSW,P31,Completed,71,,0,0,0.0,Complete,1.0,0.0
+PRJ-1009,FR01,Standard,QLD,P05,Completed,45,,0,0,0.0,Complete,1.0,0.0
+PRJ-1007,FR01,Standard,WA,P14,Completed,26,,0,0,0.0,Complete,1.0,0.0
+PRJ-1008,FR01,Standard,VIC,P31,Completed,32,,0,0,0.0,Complete,1.0,0.0
+PRJ-1003,FR01,Standard,TAS,P14,Completed,29,,0,0,0.0,Complete,1.0,0.0
+PRJ-1002,FR01,Standard,VIC,P25,Completed,30,,0,0,0.0,Complete,1.0,0.0

@@ -1,0 +1,1 @@
+[{"case": "Attrition halved", "p50": 29097.0, "p_meet_target": 0.7345}, {"case": "Attrition doubled", "p50": 26994.5, "p_meet_target": 0.0355}, {"case": "Delays 20% smaller", "p50": 29171.5, "p_meet_target": 0.7435}, {"case": "Delays 20% larger", "p50": 27693.0, "p_meet_target": 0.1455}]
